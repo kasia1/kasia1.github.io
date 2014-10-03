@@ -1,0 +1,55 @@
+title: Kasia Bryc 
+tagline: Population Genetecist 
+production_url: http://kasiabryc.com
+#url: http://kasiabryc.com
+
+author:
+    name: Kasia Bryc
+    email: kasia1@gmail.com
+    github: kasia1
+
+collections:
+    pages:
+        output: true
+        permalink: /:path/index.html
+    publications: &noop
+        output: false
+    talks: *noop
+    software: *noop
+    media: *noop
+
+defaults:
+    -
+        scope:
+            path: ""
+            type: pages
+        values:
+            layout: page
+
+JB:
+    #BASE_PATH: false
+    #ASSET_PATH: false
+    analytics:
+        google:
+            tracking_id: foo
+    themes:
+        provider: flatly
+
+# Timezone for blog posts
+timezone: America/Los_Angeles
+
+# Files Jekyll should not copy to output tree
+exclude:
+    - CNAME
+    - .gitignore
+    - README.md
+    - Gemfile
+
+markdown: kramdown
+
+kramdown:
+    extensions: [autolink, footnotes, smart]
+
+# GitHub Pages will enforce this anyway, precludes use of plugins
+safe: true
+lsi: false

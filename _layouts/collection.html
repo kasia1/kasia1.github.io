@@ -1,0 +1,14 @@
+---
+layout: page 
+---
+<div class="row">
+    <div class="col-xs-12">
+        {% assign collection = site.collections | where: 'label', page.collection %}
+        {% assign collection_docs = collection.docs | sort: 'date' | reverse %}
+        {% for node in collection_docs %}
+            <div class="title">{{ node.title }}</div>
+            {{ node.content }}
+        {% endfor %}
+        </ul>
+    </div>
+</div>
