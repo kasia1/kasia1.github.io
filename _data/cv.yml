@@ -1,0 +1,588 @@
+# date: value, strftime
+#
+# Contains either an ISO date string (YYYY-mm-dd, partials are OK, e.g. YYYY-mm, YYYY) or
+# an associative array with two members:
+#   value: ISO date string, as above (YYYY-mm-dd, YYYY-mm, YYYY)
+#
+#   strftime: format string (parsed by Liquid date() filter). Should be quoted
+#             to prevent YAML parser from complaining about the % symbol. Canonical
+#             reference for date() syntax:
+#             http://docs.shopify.com/themes/liquid-documentation/filters/additional-filters#date
+# 
+# For bare dates, and arrays with no strfime, default strftime is: 
+#   %Y %b %-d (set in _layouts/publications.html)
+#
+# Summary of strftime syntax:
+#   %Y    Year including century, e.g. 2014
+#   %m    Month of the year, zero-padded, e.g. 01
+#   %b    Abbreviated month name, e.g. Jan
+#   %d    Day of the month, zero-padded, e.g. 01
+#   %-d   Day of the month, unpadded, e.g. 1
+
+# author: name, person
+#
+# Contains an associative array with two members:
+#   name: name as published (e.g. "Bryc K)
+#
+#   person: optional record (or reference to record) for person object, which contains at 
+#           least an "email" member. Used to highlight position in author list (e.g.
+#           highlight entry when authors.person.email = author.email in 
+#           _layouts/publications.html)
+#
+
+journals:
+    -   &inprep
+        name: In prep
+
+    -   &tpb
+        name: Theoretical Population Biology
+
+    -   &genetics
+        name: Genetics
+
+    -   &humanbiology
+        name: Human Biology
+
+    -   &ajhg
+        name: Ammerican Journal of Human Genetics
+
+    -   &plosone
+        name: PLoS One
+
+    -   &science
+        name: Science
+
+    -   &genomebiology
+        name: Genome Biology
+
+    -   &pnas
+        name: PNAS
+
+    -   &genomeresearch
+        name: Genome Research
+
+people:
+    -   &KasiaBryc
+        first: Katarzyna
+        last: Bryc
+        email: kasia1@gmail.com
+
+    -   &WlodekBryc
+        first: Włodzimierz
+        last: Bryc
+        email: brycw@math.uc.edu
+
+    -   &NickPatterson
+        first: Nick
+        last: Patterson
+        email: nickp@broad.mit.edu
+
+    -   &DavidReich
+        first: David
+        last: Reich
+        email: reich@receptor.med.harvard.edu
+
+    -   &CarlosBustamante
+        first: Carlos
+        last: Bustamante
+        email: cdbustam@stanford.edu
+
+    -   &EricDurand
+        first: Eric
+        last: Durand
+        email: edurand@23andme.com
+
+    -   &JoannaMountain
+        first: Joanna
+        last: Mountain
+        email: joanna@23andme.com
+
+publications:
+    -   index: 15
+        title: >
+            The genetic ancestry of African, Latino, and European Americans across the
+            United States
+        journal: *inprep
+        date: {value: 2014, strftime: '%Y'}
+        authors:
+            -   {name: Bryc K,     person: *KasiaBryc}
+            -   {name: Durand E,   person: *EricDurand}
+            -   {name: Mountain J, person: *JoannaMountain}
+        abstract: |
+            A very cool analysis using the 23andMe customer dataset. Coming soon! In the 
+            meantime, sneak peek on the
+            [23andMe blog](http://blog.23andme.com/23andme-research/dna-usa-2/).
+
+    -   index: 14
+        title: >
+            Separation of the largest eigenvalues in eigenanalysis of genotype data from 
+            discrete subpopulations
+        urls:
+            -   label: paper
+                url: http://www.sciencedirect.com/science/article/pii/S0040580913000701
+        journal: *tbp
+        date: 2013-08-20
+        authors:
+            -   {name: Bryc K, person: *KasiaBryc}
+            -   {name: Bryc W, person: *WlodekBryc}
+            -   name: Silverstein JW
+        abstract: |
+            We present a mathematical model, and the corresponding mathematical analysis,
+            that justifies and quantifies the use of principal component analysis of
+            biallelic genetic marker data for a set of individuals to detect the number of
+            subpopulations represented in the data. We indicate that the power of the
+            technique relies more on the number of individuals genotyped than on the
+            number of markers.
+
+    -   index: 13
+        title: >
+            A Novel Approach to Estimating Heterozygosity from Low-Coverage Genome 
+            Sequence
+        urls:
+            -   label: paper
+                url: http://www.genetics.org/content/195/2/553.abstract
+        journal: *genetics
+        date: 2013-08-09
+        authors:
+            -   {name: Bryc K,      person: *KasiaBryc}
+            -   {name: Patterson N, person: *NickPatterson}
+            -   {name: Reich D,     person: *DavidReich}
+        abstract: |
+            High-throughput shotgun sequence data make it possible in principle to
+            accurately estimate population genetic parameters without confounding by SNP
+            ascertainment bias. One such statistic of interest is the proportion of
+            heterozygous sites within an individual’s genome, which is informative about
+            inbreeding and effective population size. However, in many cases, the
+            available sequence data of an individual are limited to low coverage,
+            preventing the confident calling of genotypes necessary to directly count the
+            proportion of heterozygous sites. Here, we present a method for estimating an
+            individual’s genome-wide rate of heterozygosity from low-coverage sequence
+            data, without an intermediate step that calls genotypes. Our method jointly
+            learns the shared allele distribution between the individual and a panel of
+            other individuals, together with the sequencing error distributions and the
+            reference bias. We show our method works well, first, by its performance on
+            simulated sequence data and, second, on real sequence data where we obtain
+            estimates using low-coverage data consistent with those from higher coverage.
+            We apply our method to obtain estimates of the rate of heterozygosity for 11
+            humans from diverse worldwide populations and through this analysis reveal the
+            complex dependency of local sequencing coverage on the true underlying
+            heterozygosity, which complicates the estimation of heterozygosity from
+            sequence data. We show how we can use filters to correct for the confounding
+            arising from sequencing depth. We find in practice that ratios of
+            heterozygosity are more interpretable than absolute estimates and show that we
+            obtain excellent conformity of ratios of heterozygosity with previous
+            estimates from higher-coverage data.
+
+    -   index: 12
+        title: >
+            Principal Components-based assignment of ancestry along each chromosome in 
+            individuals with admixed ancestry from two or more populations
+        urls: 
+            -   label: paper
+                url: http://digitalcommons.wayne.edu/humbiol/vol84/iss4/5/
+        journal: *humanbiology
+        date: {value: 2012-08, strftime: '%Y %b'}
+        authors:
+            -   name: Brisbin A
+            -   {name: Bryc K, person: *KasiaBryc}
+            -   name: Byrnes J
+            -   name: Zakharia F
+            -   name: Omberg L
+            -   name: Degenhardt J
+            -   name: Reynolds A
+            -   name: Ostrer H
+            -   name: Mezey JG
+            -   {name: Bustamante CD, person: *CarlosBustamante}
+
+    -   index: 11
+        title: >
+            Population genetic inference from personal genome data: impact of ancestry and 
+            admixture on human genomic variation
+        urls:
+            -   label: paper
+                url: http://www.sciencedirect.com/science/article/pii/S0002929712004661
+        journal: *ajhg
+        date: 2012-10-05
+        authors:
+            -   name: Kidd JM
+            -   name: Gravel S
+            -   name: Byrnes J
+            -   name: Moreno-Estrada A
+            -   name: Musharoff S
+            -   name: {name: Bryc K, person: *KasiaBryc}
+            -   name: Degenhardt JD
+            -   name: Brisbin A
+            -   name: Sheth V
+            -   name: Chen R
+            -   name: McLaughlin SF
+            -   name: Peckham HE
+            -   name: Omberg L
+            -   name: Bormann Chung CA
+            -   name: Stanley S
+            -   name: Pearlstein K
+            -   name: Levandowsky E
+            -   name: Acevedo-Acevedo S
+            -   name: Auton A
+            -   name: Keinan A
+            -   name: Acuña-Alonzo V
+            -   name: Barquera-Lozano R
+            -   name: Canizales-Quinteros S
+            -   name: Eng C
+            -   name: Burchard EG
+            -   name: Russell A
+            -   name: Reynolds A
+            -   name: Clark AG
+            -   name: Reese MG
+            -   name: Lincoln SE
+            -   name: Butte AJ
+            -   name: De La Vega FM
+            -   {name: Bustamante CD, person: *CarlosBustamante}
+
+    -   index: 10
+        title: A high-coverage genome sequence from an archaic Denisovan individual
+        urls:
+            -   label: paper
+                url: http://www.ncbi.nlm.nih.gov/pubmed/22936568
+        journal: *science
+        date: 2012-10-12
+        authors:
+            -   name: Meyer M
+            -   name: Kircher M
+            -   name: Gansauge MT
+            -   name: Li H
+            -   name: Racimo F
+            -   name: Mallick S
+            -   name: Schraiber JG
+            -   name: Jay F
+            -   name: Prüfer K
+            -   name: de Filippo C
+            -   name: Sudmant PH
+            -   name: Alkan C
+            -   name: Fu Q
+            -   name: Do R
+            -   name: Rohland N
+            -   name: Tandon A
+            -   name: Siebauer M
+            -   name: Green RE
+            -   {name: Bryc K, person: *KasiaBryc}
+            -   name: Briggs AW
+            -   name: Stenzel U
+            -   name: Dabney J
+            -   name: Shendure J
+            -   name: Kitzman J
+            -   name: Hammer MF
+            -   name: Shunkov MV
+            -   name: Derevianko AP
+            -   {name: Patterson N, person: *NickPatterson}
+            -   name: Andrés AM
+            -   name: Eichler EE
+            -   name: Slatkin M
+            -   {name: Reich D, person: *DavidReich}
+            -   name: Kelso J
+            -   name: Pääbo S
+
+    -   index: 9
+        title: >
+            On identifying the optimal number of population clusters via the deviance
+            information criterion
+        urls:
+            -   label: paper
+                url: http://www.ncbi.nlm.nih.gov/pubmed/21738600
+        journal: *plosone
+        date: 2011-06-28
+        authors:
+            -   name: Gao H
+            -   {name: Bryc K, person: *KasiaBryc}
+            -   {name: Bustamante CD, person: *CarlosBustamante}
+
+    -   index: 8
+        title: >
+            Genome sequencing and analysis of admixed genomes of African and Mexican 
+            ancestry: implications for personal ancestry reconstruction and multi-ethnic 
+            medical genomics
+        urls:
+            -   label: paper
+                url: http://genomebiology.com/2010/11/S1/O4
+        journal: *genomebiology
+        date: 2010-10-11
+        authors:
+            -   name: De La Vega FM
+            -   name: {name: Bryc K, person: *KasiaBryc}
+            -   name: Degenhardt J
+            -   name: Musharoff S
+            -   name: Kidd JM
+            -   name: Seth V
+            -   name: Stanley S
+            -   name: Brisbin A
+            -   name: Keinan A
+            -   name: Clark A
+            -   name: {name: Bustamante CD, person: *CarlosBustamante}
+
+    -   index: 7
+        title: >
+            Genome-wide patterns of population structure and admixture among 
+            Hispanic/Latino populations
+        urls:
+            -   label: paper
+                url: http://www.pnas.org/content/107/suppl.2/8954.full
+        journal: *pnas
+        date: {value: 2010-05, strftime: '%Y %b'}
+        authors:
+            -   name: {name: Bryc K, person: *KasiaBryc}
+            -   name: Velez C
+            -   name: Hammer M
+            -   name: Karafet T
+            -   name: Ostrer H
+            -   name: {name: Bustamante CD, person: *CarlosBustamante}
+
+    -   index: 6
+        title: >
+            Genome-wide SNP and haplotype analyses reveal a rich history underlying dog 
+            domestication
+        urls:
+            -   label: paper
+                url: http://www.nature.com/nature/journal/v464/n7290/full/nature08837.html
+        journal: *nature
+        date: {value: 2010-03, strftime: '%Y %b'}
+        authors:
+            -   name: VonHoldt BM
+            -   name: Han E
+            -   name: Pollinger J
+            -   name: Lohmueller K
+            -   name: Earl DA
+            -   name: Parker HG
+            -   name: Quignon P
+            -   name: Boyko A
+            -   name: Auton A
+            -   name: Reynolds A
+            -   name: {name: Bryc K, person: *KasiaBryc}
+            -   name: Brisbin A,Knowles J
+            -   name: Mosher DS
+            -   name: Spady TC
+            -   name: Elkahloun A
+            -   name: Pilot M
+            -   name: Grecco C
+            -   name: Randi E
+            -   name: Bannasch D
+            -   name: Kays R
+            -   name: Wilton A
+            -   name: Shearman J
+            -   name: Cargill M
+            -   name: Jones PG
+            -   name: Zuwei Q
+            -   name: Zhou W
+            -   name: Zhang Y
+            -   name: {name: Bustamante CD, person: *CarlosBustamante}
+            -   name: Ostrander EA
+            -   name: Novembre J
+            -   name: Wayne RK
+
+    -   index: 5
+        title: >
+            Genome-wide patterns of population structure and admixture in Africans and 
+            African Americans
+        urls:
+            label: paper
+            url: http://www.pnas.org/content/early/2009/12/10/0909559107.abstract
+        journal: *pnas
+        date: {value: 2010-01, strftime: '%Y %b'}
+        authors:
+            -   {name: Bryc K, person: *KasiaBryc}
+            -   name: Nelson MR
+            -   name: Oksenberg JR
+            -   name: Hauser SL
+            -   name: Williams S
+            -   name: {name: Bustamante CD, person: *CarlosBustamante}
+            -   name: Tishkoff SA
+
+    -   index: 4
+        title: >
+            Global distribution of genomic diversity underscores rich complex history of 
+            continental human populations
+        urls:
+            label: paper
+            url: http://genome.cshlp.org/content/early/2009/02/12/gr.088898.108.full.pdf
+        journal: *genomeresearch
+        date: 2009-05-01
+        authors:
+            -   name: Auton, A
+            -   name: {name: K Bryc, person: *KasiaBryc}
+            -   name: AR Boyko
+            -   name: K Lohmueller
+            -   name: K Wright
+            -   name: J Novembre
+            -   name: A Renyolds
+            -   name: A Indap
+            -   name: J Degenhardt
+            -   name: KS King
+            -   name: MR Nelson
+            -   name: {name: CD Bustamante, person: *CarlosBustamante}
+
+    -   index: 3
+        title: >
+            Genome-wide survey of SNP variation uncovers the genetic structure of cattle 
+            breeds
+        urls:
+            label: paper
+            url: http://www.sciencemag.org/cgi/content/full/324/5926/528
+        journal: *science
+        date: 2009-04-24
+        authors:
+            -   name: Bovine HapMap Consortium
+
+    -   index: 2
+        title: Genes mirror geography within Europe
+        urls:
+            -   label: paper
+                url: http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature07331.pdf
+        journal: *nature
+        date: 2008-08-31
+        authors:
+            -   name: Novembre J
+            -   name: Johnson T
+            -   name: {name: Bryc K, person: *KasiaBryc}
+            -   name: Kutalik Z
+            -   name: Boyko AR
+            -   name: Auton A
+            -   name: Indap A
+            -   name: King KS
+            -   name: Bergmann S
+            -   name: Nelson MR
+            -   name: Stephens M
+            -   name: {name: Bustamante CD, person: *CarlosBustamante}
+
+    -   item: 1
+        title: >
+            The Population Reference Sample, POPRES: A Resource for Population, Disease,
+            and Pharmacological Genetics Research.
+        urls:
+            label: paper
+            url: http://www.ncbi.nlm.nih.gov/pubmed/18760391
+        journal: *ajhg
+        date: 2008-08-27
+        authors:
+            -   name: Nelson MR
+            -   name: {name: Bryc K, person: *KasiaBryc}
+            -   name: King KS
+            -   name: Indap A
+            -   name: Boyko AR
+            -   name: Novembre J
+            -   name: Briley LP
+            -   name: Maruyama Y
+            -   name: Waterworth DM
+            -   name: Waeber G
+            -   name: Vollenweider P
+            -   name: Oksenberg JR
+            -   name: Hauser SL
+            -   name: Stirnadel HA
+            -   name: Kooner JS
+            -   name: Chambers JC
+            -   name: Jones B
+            -   name: Mooser V
+            -   name: {name: Bustamante CD, person: *CarlosBustamante}
+            -   name: Roses AD
+            -   name: Burns DK
+            -   name: Ehm MG
+            -   name: Lai EH
+
+conferences:
+    -   &ashg
+        name: American Society of Human Genetics
+
+presentations:
+    -   index: 5
+        title: > 
+            Differential relatedness of African Americans to populations within West 
+            Africa
+        activity: >
+            Presented at the annual meeting of the American Society of Human Genetics
+        date: 2012-08-12
+        location: San Francisco, California
+        conference: *ashg
+        awards: ASHG Research Trainee Award Semifinalist
+        authors:
+            -   name: {name: Bryc K, person: *KasiaBryc}
+            -   name: Williams A
+            -   name: {name: Patterson N, person: *NickPatterson}
+            -   name: Musani S
+            -   name: Sale M
+            -   name: Chen W
+            -   name: Divers J
+            -   name: Ng M
+            -   name: Bowden DW
+            -   name: Wilson JG
+            -   name: {name: Reich D, person: *DavidReich}
+
+    -   index: 4
+        title: >
+            Estimating heterozygosity rates of low-coverage sequence genomes by leveraging
+            joint spectra
+        activity: >
+            Presented at the 12th International Congress of Human Genetics/61st Annual 
+            Meeting of The American Society of Human Genetics
+        date: 2011-10-12
+        location: Montreal, Canada
+        conference: *ashg
+        awards: ASHG Trainee Award Semifinalist
+        authors:
+            -   name: {name: Bryc K, person: *KasiaBryc}
+            -   name: {name: Patterson N, person: *NickPatterson}
+            -   name: {name: Reich D, person: *DavidReich}
+
+    -   index: 3
+        title: >
+            Genome-wide patterns of population structure and admixture among 
+            Hispanic/Latino populations
+        activity: >
+            Presented at the annual meeting of The American Society of Human Genetics
+        date: 2009-10-21
+        location: Honolulu, Hawaii
+        conference: *ashg
+        awards: ASHG Trainee Award Finalist
+        authors:
+            -   {name: Bryc K, person: *KasiaBryc}
+            -   name: Velez C
+            -   name: Hammer M
+            -   name: Hernandez R
+            -   name: Reynolds A
+            -   name: Auton A
+            -   name: Karafet T
+            -   name: Ostrer H
+            -   {name: Bustamante CD, person: *CarlosBustamante}
+
+    -   index: 2
+        title: Identifying ancestry of genomic regions in admixed individuals
+        activity: >
+            Presented at the annual meeting of The American Society of Human Genetics
+        date: 2009-10-21
+        location: Honolulu, Hawaii
+        conference: *ashg
+        authors:
+            -   name: Brisbin A
+            -   name: {name: Bryc K, person: *KasiaBryc}
+            -   name: Degenhardt J
+            -   name: Reynolds A
+            -   name: Auton A
+            -   name: Mezey JG
+            -   name: Ostrer H
+            -   name: {name: Bustamante CD, person: *CarlosBustamante}
+
+    -   index: 1
+        title: >
+            Genome-wide patterns of population structure and admixture in Africans and 
+            African Americans
+        activity: >
+            Presented at the annual meeting of The American Society of Human Genetics
+        date: 2008-11-13
+        location: Philadelphia, Pennsylvania
+        conference: *ashg
+        authors:
+            -   {name: Bryc K, person: *KasiaBryc}
+            -   name: Nelson M
+            -   name: Oksenberg J
+            -   name: Hauser S
+            -   name: {name: Bustamante CD, person: *CarlosBustamante}
+            -   name: Tishkoff S.
+
+talks:
+    -   index: 1
