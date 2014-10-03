@@ -17,6 +17,8 @@ collections:
     talks: *noop
     software: *noop
     media: *noop
+    courses: *noop
+    datasets: *noop
 
 defaults:
     -
