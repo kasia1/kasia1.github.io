@@ -1,4 +1,4 @@
-# Kasia Bryc Personal Site
+# Kasia Bryc Homepage
 
 ## Setup local Jekyll environment
 * Review current [GitHub Pages Version Dependencies](http://pages.github.com/versions/)
