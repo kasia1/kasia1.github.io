@@ -61,6 +61,9 @@ journals:
     -   &genomeresearch
         name: Genome Research
 
+    -   &nature
+        name: Nature
+
 people:
     -   &KasiaBryc
         first: Katarzyna
@@ -103,7 +106,7 @@ publications:
             The genetic ancestry of African, Latino, and European Americans across the
             United States
         journal: *inprep
-        date: {value: 2014, strftime: '%Y'}
+        date: {value: 2014-01-01, strftime: '%Y'}
         authors:
             -   {name: Bryc K,     person: *KasiaBryc}
             -   {name: Durand E,   person: *EricDurand}
@@ -120,9 +123,9 @@ publications:
         urls:
             -   label: paper
                 url: http://www.sciencedirect.com/science/article/pii/S0040580913000701
-        journal: *tbp
+        journal: *tpb
         date: 2013-08-20
-        authors:
+        authors:    &tpb2013authors
             -   {name: Bryc K, person: *KasiaBryc}
             -   {name: Bryc W, person: *WlodekBryc}
             -   name: Silverstein JW
@@ -181,7 +184,7 @@ publications:
             -   label: paper
                 url: http://digitalcommons.wayne.edu/humbiol/vol84/iss4/5/
         journal: *humanbiology
-        date: {value: 2012-08, strftime: '%Y %b'}
+        date: {value: 2012-08-01, strftime: '%Y %b'}
         authors:
             -   name: Brisbin A
             -   {name: Bryc K, person: *KasiaBryc}
@@ -209,7 +212,7 @@ publications:
             -   name: Byrnes J
             -   name: Moreno-Estrada A
             -   name: Musharoff S
-            -   name: {name: Bryc K, person: *KasiaBryc}
+            -   {name: Bryc K, person: *KasiaBryc}
             -   name: Degenhardt JD
             -   name: Brisbin A
             -   name: Sheth V
@@ -307,7 +310,7 @@ publications:
         date: 2010-10-11
         authors:
             -   name: De La Vega FM
-            -   name: {name: Bryc K, person: *KasiaBryc}
+            -   {name: Bryc K, person: *KasiaBryc}
             -   name: Degenhardt J
             -   name: Musharoff S
             -   name: Kidd JM
@@ -316,7 +319,7 @@ publications:
             -   name: Brisbin A
             -   name: Keinan A
             -   name: Clark A
-            -   name: {name: Bustamante CD, person: *CarlosBustamante}
+            -   {name: Bustamante CD, person: *CarlosBustamante}
 
     -   index: 7
         title: >
@@ -326,14 +329,14 @@ publications:
             -   label: paper
                 url: http://www.pnas.org/content/107/suppl.2/8954.full
         journal: *pnas
-        date: {value: 2010-05, strftime: '%Y %b'}
+        date: {value: 2010-05-01, strftime: '%Y %b'}
         authors:
-            -   name: {name: Bryc K, person: *KasiaBryc}
+            -   {name: Bryc K, person: *KasiaBryc}
             -   name: Velez C
             -   name: Hammer M
             -   name: Karafet T
             -   name: Ostrer H
-            -   name: {name: Bustamante CD, person: *CarlosBustamante}
+            -   {name: Bustamante CD, person: *CarlosBustamante}
 
     -   index: 6
         title: >
@@ -343,7 +346,7 @@ publications:
             -   label: paper
                 url: http://www.nature.com/nature/journal/v464/n7290/full/nature08837.html
         journal: *nature
-        date: {value: 2010-03, strftime: '%Y %b'}
+        date: {value: 2010-03-01, strftime: '%Y %b'}
         authors:
             -   name: VonHoldt BM
             -   name: Han E
@@ -355,7 +358,7 @@ publications:
             -   name: Boyko A
             -   name: Auton A
             -   name: Reynolds A
-            -   name: {name: Bryc K, person: *KasiaBryc}
+            -   {name: Bryc K, person: *KasiaBryc}
             -   name: Brisbin A,Knowles J
             -   name: Mosher DS
             -   name: Spady TC
@@ -372,7 +375,7 @@ publications:
             -   name: Zuwei Q
             -   name: Zhou W
             -   name: Zhang Y
-            -   name: {name: Bustamante CD, person: *CarlosBustamante}
+            -   {name: Bustamante CD, person: *CarlosBustamante}
             -   name: Ostrander EA
             -   name: Novembre J
             -   name: Wayne RK
@@ -385,14 +388,14 @@ publications:
             label: paper
             url: http://www.pnas.org/content/early/2009/12/10/0909559107.abstract
         journal: *pnas
-        date: {value: 2010-01, strftime: '%Y %b'}
-        authors:
+        date: {value: 2010-01-01, strftime: '%Y %b'}
+        authors:    &pnas2010authors
             -   {name: Bryc K, person: *KasiaBryc}
             -   name: Nelson MR
             -   name: Oksenberg JR
             -   name: Hauser SL
             -   name: Williams S
-            -   name: {name: Bustamante CD, person: *CarlosBustamante}
+            -   {name: Bustamante CD, person: *CarlosBustamante}
             -   name: Tishkoff SA
 
     -   index: 4
@@ -406,7 +409,7 @@ publications:
         date: 2009-05-01
         authors:
             -   name: Auton, A
-            -   name: {name: K Bryc, person: *KasiaBryc}
+            -   {name: K Bryc, person: *KasiaBryc}
             -   name: AR Boyko
             -   name: K Lohmueller
             -   name: K Wright
@@ -416,7 +419,7 @@ publications:
             -   name: J Degenhardt
             -   name: KS King
             -   name: MR Nelson
-            -   name: {name: CD Bustamante, person: *CarlosBustamante}
+            -   {name: CD Bustamante, person: *CarlosBustamante}
 
     -   index: 3
         title: >
@@ -440,7 +443,7 @@ publications:
         authors:
             -   name: Novembre J
             -   name: Johnson T
-            -   name: {name: Bryc K, person: *KasiaBryc}
+            -   {name: Bryc K, person: *KasiaBryc}
             -   name: Kutalik Z
             -   name: Boyko AR
             -   name: Auton A
@@ -449,7 +452,7 @@ publications:
             -   name: Bergmann S
             -   name: Nelson MR
             -   name: Stephens M
-            -   name: {name: Bustamante CD, person: *CarlosBustamante}
+            -   {name: Bustamante CD, person: *CarlosBustamante}
 
     -   item: 1
         title: >
@@ -462,7 +465,7 @@ publications:
         date: 2008-08-27
         authors:
             -   name: Nelson MR
-            -   name: {name: Bryc K, person: *KasiaBryc}
+            -   {name: Bryc K, person: *KasiaBryc}
             -   name: King KS
             -   name: Indap A
             -   name: Boyko AR
@@ -479,110 +482,11 @@ publications:
             -   name: Chambers JC
             -   name: Jones B
             -   name: Mooser V
-            -   name: {name: Bustamante CD, person: *CarlosBustamante}
+            -   {name: Bustamante CD, person: *CarlosBustamante}
             -   name: Roses AD
             -   name: Burns DK
             -   name: Ehm MG
             -   name: Lai EH
 
-conferences:
-    -   &ashg
-        name: American Society of Human Genetics
 
-presentations:
-    -   index: 5
-        title: > 
-            Differential relatedness of African Americans to populations within West 
-            Africa
-        activity: >
-            Presented at the annual meeting of the American Society of Human Genetics
-        date: 2012-08-12
-        location: San Francisco, California
-        conference: *ashg
-        awards: ASHG Research Trainee Award Semifinalist
-        authors:
-            -   name: {name: Bryc K, person: *KasiaBryc}
-            -   name: Williams A
-            -   name: {name: Patterson N, person: *NickPatterson}
-            -   name: Musani S
-            -   name: Sale M
-            -   name: Chen W
-            -   name: Divers J
-            -   name: Ng M
-            -   name: Bowden DW
-            -   name: Wilson JG
-            -   name: {name: Reich D, person: *DavidReich}
 
-    -   index: 4
-        title: >
-            Estimating heterozygosity rates of low-coverage sequence genomes by leveraging
-            joint spectra
-        activity: >
-            Presented at the 12th International Congress of Human Genetics/61st Annual 
-            Meeting of The American Society of Human Genetics
-        date: 2011-10-12
-        location: Montreal, Canada
-        conference: *ashg
-        awards: ASHG Trainee Award Semifinalist
-        authors:
-            -   name: {name: Bryc K, person: *KasiaBryc}
-            -   name: {name: Patterson N, person: *NickPatterson}
-            -   name: {name: Reich D, person: *DavidReich}
-
-    -   index: 3
-        title: >
-            Genome-wide patterns of population structure and admixture among 
-            Hispanic/Latino populations
-        activity: >
-            Presented at the annual meeting of The American Society of Human Genetics
-        date: 2009-10-21
-        location: Honolulu, Hawaii
-        conference: *ashg
-        awards: ASHG Trainee Award Finalist
-        authors:
-            -   {name: Bryc K, person: *KasiaBryc}
-            -   name: Velez C
-            -   name: Hammer M
-            -   name: Hernandez R
-            -   name: Reynolds A
-            -   name: Auton A
-            -   name: Karafet T
-            -   name: Ostrer H
-            -   {name: Bustamante CD, person: *CarlosBustamante}
-
-    -   index: 2
-        title: Identifying ancestry of genomic regions in admixed individuals
-        activity: >
-            Presented at the annual meeting of The American Society of Human Genetics
-        date: 2009-10-21
-        location: Honolulu, Hawaii
-        conference: *ashg
-        authors:
-            -   name: Brisbin A
-            -   name: {name: Bryc K, person: *KasiaBryc}
-            -   name: Degenhardt J
-            -   name: Reynolds A
-            -   name: Auton A
-            -   name: Mezey JG
-            -   name: Ostrer H
-            -   name: {name: Bustamante CD, person: *CarlosBustamante}
-
-    -   index: 1
-        title: >
-            Genome-wide patterns of population structure and admixture in Africans and 
-            African Americans
-        activity: >
-            Presented at the annual meeting of The American Society of Human Genetics
-        date: 2008-11-13
-        location: Philadelphia, Pennsylvania
-        conference: *ashg
-        authors:
-            -   {name: Bryc K, person: *KasiaBryc}
-            -   name: Nelson M
-            -   name: Oksenberg J
-            -   name: Hauser S
-            -   name: {name: Bustamante CD, person: *CarlosBustamante}
-            -   name: Tishkoff S.
-
-talks:
-    -   index: 1

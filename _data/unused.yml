@@ -1,0 +1,135 @@
+# Unused structure from cv.yml, might be useful someday
+
+conferences:
+    -   &ashg
+        name: American Society of Human Genetics
+
+presentations:
+    -   index: 5
+        title: > 
+            Differential relatedness of African Americans to populations within West 
+            Africa
+        date: 2012-08-12        
+        authors:
+            -   name: {name: Bryc K, person: *KasiaBryc}
+            -   name: Williams A
+            -   name: {name: Patterson N, person: *NickPatterson}
+            -   name: Musani S
+            -   name: Sale M
+            -   name: Chen W
+            -   name: Divers J
+            -   name: Ng M
+            -   name: Bowden DW
+            -   name: Wilson JG
+            -   name: {name: Reich D, person: *DavidReich}
+        events:
+            -   title: American Society of Human Genetics 2012
+                date: 2012-08-12
+                location: San Francisco, California
+                conference: *ashg
+                awards: ASHG Research Trainee Award Semifinalist
+                activity: >
+                    Presented at the annual meeting of the American Society of Human 
+                    Genetics
+
+    -   index: 4
+        title: >
+            Estimating heterozygosity rates of low-coverage sequence genomes by leveraging
+            joint spectra
+        date: 2011-10-12
+        authors:
+            -   name: {name: Bryc K, person: *KasiaBryc}
+            -   name: {name: Patterson N, person: *NickPatterson}
+            -   name: {name: Reich D, person: *DavidReich}
+        events:
+            -   title: American Society of Human Genetics 2011
+                date: 2011-10-12
+                location: Montreal, Canada
+                conference: *ashg
+                awards: ASHG Trainee Award Semifinalist
+                activity: >
+                    Presented at the 12th International Congress of Human Genetics/61st 
+                    Annual Meeting of The American Society of Human Genetics
+
+    -   index: 3
+        title: >
+            Genome-wide patterns of population structure and admixture among 
+            Hispanic/Latino populations
+        date: 2009-10-21        
+        authors:
+            -   {name: Bryc K, person: *KasiaBryc}
+            -   name: Velez C
+            -   name: Hammer M
+            -   name: Hernandez R
+            -   name: Reynolds A
+            -   name: Auton A
+            -   name: Karafet T
+            -   name: Ostrer H
+            -   {name: Bustamante CD, person: *CarlosBustamante}
+        events: 
+            -   &ashg2009
+                title: American Society of Human Genetics 2009
+                date: 2009-10-21
+                location: Honolulu, Hawaii
+                conference: *ashg
+                awards: ASHG Trainee Award Finalist
+                activity: >
+                    Presented at the annual meeting of the American Society of Human 
+                    Genetics
+
+    -   index: 2
+        title: Identifying ancestry of genomic regions in admixed individuals
+        date: 2009-10-21
+        authors:
+            -   name: Brisbin A
+            -   name: {name: Bryc K, person: *KasiaBryc}
+            -   name: Degenhardt J
+            -   name: Reynolds A
+            -   name: Auton A
+            -   name: Mezey JG
+            -   name: Ostrer H
+            -   name: {name: Bustamante CD, person: *CarlosBustamante}
+        events: 
+            -   *ashg2009
+
+    -   index: 1
+        title: >
+            Genome-wide patterns of population structure and admixture in Africans and 
+            African Americans
+        date: 2008-11-13
+        authors: *pnas2010authors
+        events:
+            -   title: American Society of Human Genetics 2008
+                date: 2008-11-13
+                location: Philadelphia, Pennsylvania
+                conference: *ashg
+                awards: ASHG Trainee Award Semifinalist
+                activity: >
+                    Presented at the annual meeting of the American Society of Human 
+                    Genetics
+
+talks:
+    -   title: >
+            Separation of the largest eigenvalues in eigenanalysis of genotype data from
+            discrete populations
+        date: 2013-10-21
+        authors: *tpb2013authors
+        events:
+            -   title: Rosenberg Lab meeting
+                date: 2014-01-22
+                location: Stanford, California
+                activity: >
+                    Presented at Rosenberg Lab meeting, Stanford University
+                urls:
+                    -   label: slides
+                        url: /assets/static/Bryc_RosenbergLabMeeting.ppt
+            -   title: American Society of Human Genetics 2013
+                date: 2013-10-21
+                location: Boston, Massachusetts
+                conference: *ashg
+                activity: >
+                    Presented at the annual meeting of the American Society of Human 
+                    Genetics
+                urls:
+                    -   label: poster
+                        url: /assets/static/ASHG2013_Eigenvalues_BrycBrycSilverstein.pdf

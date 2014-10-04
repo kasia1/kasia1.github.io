@@ -1,0 +1,22 @@
+html {
+  font-size: 20px;
+}
+@media (max-width: 900px) {
+  html { font-size: 17px; }
+}
+@media (max-width: 400px) {
+  html { font-size: 13px; }
+}
+
+.title {
+	color: #800000;
+	font-size: 1.2rem;
+	font-weight: 500;
+}
+
+.citation ul, li { list-style-type: none; }
+.citation li { display: inline; }
+.citation .authors li { display: inline; list-style-type: none; }
+.citation .authors li:after { content: ", "; }
+.citation .authors li:last-child:after { content: "."; }
+.citation li.journal:after { content: ". "; }

@@ -3,9 +3,11 @@ title: About Me
 layout: page
 permalink: /index.html
 ---
-![kasia-image]
-
+{:about: class="col-xs-12 col-md-10"}
+![kasia-image]{: class="pull-right" width="170"}
+Katarzyna "Kasia" Bryc
 (pronunciation guide: /ˈkaɕa/[wiki][kasia-pronounce])
+
 
 I am a population geneticist interested in human anthropological genetics, especially in 
 the context of thinking about ancient human history and migrations, recent population 

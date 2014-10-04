@@ -51,6 +51,7 @@ markdown: kramdown
 
 kramdown:
     extensions: [autolink, footnotes, smart]
+#    auto_ids: true
 
 # GitHub Pages will enforce this anyway, precludes use of plugins
 safe: true
