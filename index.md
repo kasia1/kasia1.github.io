@@ -1,5 +1,6 @@
 ---
-title: About Me
+title: Kasia Bryc
+tagline: Population Geneticist
 layout: page
 permalink: /index.html
 ---
