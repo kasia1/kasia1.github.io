@@ -13,4 +13,4 @@ Mountain View, CA 94043<br/>
 [kasia1@gmail.com](mailto:kasia1@gmail.com)
 
 <div class="title">Curriculum Vitae</div>
-[Bryc CV](/cv/)
+[K Bryc CV](/cv/)
