@@ -3,7 +3,7 @@ title: Research
 group: navigation
 order: 100
 ---
-Some general themes that my research is nestled around:
+My research nestles around several general themes:
 
 <div class="title">Genetics as a tool for understanding history</div>
 Genetic data traces human history, both ancient and recent. In many cases, genetics
