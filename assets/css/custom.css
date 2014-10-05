@@ -1,3 +1,4 @@
+/*
 html {
   font-size: 20px;
 }
@@ -14,16 +15,22 @@ html {
 	font-size: 18px;
 	font-weight: 500;
 }
+*/
 
+/* Suppress Bootstrap 'brand', which would otherwise print 'Kasia Bryc' in navbar */
+.navbar-brand { display: none; }
+
+/* Hyperlink color, overrides salmon color in Bootstrap theme */
+a { color: #990000; }
+
+/* Impose a margin around headshot */
+#kasia-image { margin-left: 25px; }
+
+/* Formatting for publications */
 .year > .citation ul, div { display: block; list-style-type: none; margin: 0;}
 .citation li { display: inline; }
-
 .citation .authors li { display: inline; list-style-type: none; }
 .citation .authors li:after { content: ", "; }
 .citation .authors li:last-child:after { content: "."; }
 .citation li.journal:after { content: ". "; }
 
-.navbar-brand { display: none; }
-
-a { color: #990000; }
-#kasia-image { margin-left: 25px; }
