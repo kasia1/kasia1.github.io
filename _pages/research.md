@@ -5,7 +5,6 @@ order: 100
 ---
 Some general themes that my research is nestled around:
 
-
 <div class="title">Genetics as a tool for understanding history</div>
 Genetic data traces human history, both ancient and recent. In many cases, genetics
 mirrors geography [in Africa][africa] [in Europe][europe]. Genetics can sometimes cleanly separate
@@ -21,7 +20,7 @@ population history differences [in Latinos][latinos].
 The more we explore, the more we see the prevalence of gene flow between populations
 involved in shaping nearly all of human evolution, which is less linear than textbook
 timelines like to show. In my research, I develop methods for estimating local ancestry
-resulting from recent admixture [PCAdmix]{/software/), and study the complex history of
+resulting from recent admixture ([PCAdmix](/software/)) and study the complex history of
 many modern populations that reflect the impact of post-Columbian intercontinental
 migrations.
 
@@ -29,5 +28,5 @@ migrations.
 One of the biggest puzzles faced by researchers today is how to make sense of the egads of
 genetic data available. Luckily, statistics loves doing the heavy lifting necessary to
 extract signals from noise, and make inferences of estimates we are interested in, such as
-heterozygosity from low coverage sequence data [HetEM](/software/).
+heterozygosity from low coverage sequence data ([HetEM](/software/)).
 

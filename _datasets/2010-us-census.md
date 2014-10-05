@@ -1,10 +1,7 @@
 ---
-title: Data
-menu: Resources
-order: 200
+title: 
+date: 2010
 ---
-Datasets I’ve used in research, in case they are useful.
-
 <div class="title">2010 U.S. Census data</div>
 A data scrape of population density of African Americans and Latinos per U.S. 
 state. Counts of self-identified African Americans by state

@@ -4,7 +4,7 @@ production_url: http://kasiabryc.com
 #url: http://kasiabryc.com
 
 author:
-    name: Kasia Bryc
+    name: Katarzyna Bryc
     email: kasia1@gmail.com
     github: kasia1
 
@@ -29,13 +29,12 @@ defaults:
             layout: page
 
 JB:
-    #BASE_PATH: false
+    BASE_PATH: /
     #ASSET_PATH: false
     analytics:
         google:
             tracking_id: foo
-    themes:
-        provider: flatly
+    theme: journal
 
 # Timezone for blog posts
 timezone: America/Los_Angeles

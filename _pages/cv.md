@@ -1,5 +1,7 @@
 ---
 title: Curriculum Vitae
+menu: Resources
+order: 600
 ---
 Because sometimes you want all the details.
 

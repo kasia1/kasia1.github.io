@@ -1,23 +1,23 @@
 ---
-title: Kasia Bryc
-tagline: Population Geneticist
+title: Population Geneticist
 layout: page
 permalink: /index.html
+group: navigation
+order: 000
 ---
-{:about: class="col-xs-12 col-md-10"}
-![kasia-image]{: class="pull-right" width="170"}
+![kasia-image]{: id="kasia-image" class="pull-right" width="170"}
 Katarzyna "Kasia" Bryc
 (pronunciation guide: /ˈkaɕa/[wiki][kasia-pronounce])
 
-
-I am a population geneticist interested in human anthropological genetics, especially in 
-the context of thinking about ancient human history and migrations, recent population 
+I am a population geneticist interested in human anthropological genetics, especially in
+the context of thinking about ancient human history and migrations, recent population
 admixture and other unknown forces shaping the human genome.
 
-Since March 2014, I have been a part of the [Research Team][23andme-research] at 
-[23andMe][23andme]. Previously, I was a Postdoctoral Research Fellow at Harvard Medical 
-School with [David Reich][reich] in the [Department of Genetics][harvard-genetics]. 
-I received a M.S. and Ph.D. in [Biometry][cornell-biometry] at Cornell under [Carlos Bustamante][bustamante], and a B.A. from Stanford in [M&CS][stanford-mcs].
+Since March 2014, I have been a part of the [Research Team][23andme-research] at
+[23andMe][23andme]. Previously, I was a Postdoctoral Research Fellow at Harvard Medical
+School with [David Reich][reich] in the [Department of Genetics][harvard-genetics]. I
+received a M.S. and Ph.D. in [Biometry][cornell-biometry] at Cornell under [Carlos
+Bustamante][bustamante], and a B.A. from Stanford in [M&CS][stanford-mcs].
 
 Read more about my [research](/research/).
 

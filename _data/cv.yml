@@ -1,4 +1,4 @@
-# date: value, strftime
+# date: {value: value, strftime
 #
 # Contains either an ISO date string (YYYY-mm-dd, partials are OK, e.g. YYYY-mm, YYYY) or
 # an associative array with two members:
@@ -44,7 +44,7 @@ journals:
         name: Human Biology
 
     -   &ajhg
-        name: Ammerican Journal of Human Genetics
+        name: American Journal of Human Genetics
 
     -   &plosone
         name: PLoS One
@@ -106,7 +106,8 @@ publications:
             The genetic ancestry of African, Latino, and European Americans across the
             United States
         journal: *inprep
-        date: {value: 2014-01-01, strftime: '%Y'}
+        date: 2014-01-01
+        strftime: '%Y'
         authors:
             -   {name: Bryc K,     person: *KasiaBryc}
             -   {name: Durand E,   person: *EricDurand}
@@ -184,7 +185,8 @@ publications:
             -   label: paper
                 url: http://digitalcommons.wayne.edu/humbiol/vol84/iss4/5/
         journal: *humanbiology
-        date: {value: 2012-08-01, strftime: '%Y %b'}
+        date: 2012-08-01
+        strftime: '%Y %b'
         authors:
             -   name: Brisbin A
             -   {name: Bryc K, person: *KasiaBryc}
@@ -266,7 +268,7 @@ publications:
             -   name: Rohland N
             -   name: Tandon A
             -   name: Siebauer M
-            -   name: Green RE
+            -   name: Green RE}
             -   {name: Bryc K, person: *KasiaBryc}
             -   name: Briggs AW
             -   name: Stenzel U
@@ -329,7 +331,8 @@ publications:
             -   label: paper
                 url: http://www.pnas.org/content/107/suppl.2/8954.full
         journal: *pnas
-        date: {value: 2010-05-01, strftime: '%Y %b'}
+        date: 2010-05-01
+        strftime: '%Y %b'
         authors:
             -   {name: Bryc K, person: *KasiaBryc}
             -   name: Velez C
@@ -346,7 +349,8 @@ publications:
             -   label: paper
                 url: http://www.nature.com/nature/journal/v464/n7290/full/nature08837.html
         journal: *nature
-        date: {value: 2010-03-01, strftime: '%Y %b'}
+        date: 2010-03-01
+        strftime: '%Y %b'
         authors:
             -   name: VonHoldt BM
             -   name: Han E
@@ -385,10 +389,11 @@ publications:
             Genome-wide patterns of population structure and admixture in Africans and 
             African Americans
         urls:
-            label: paper
-            url: http://www.pnas.org/content/early/2009/12/10/0909559107.abstract
+            -   label: paper
+                url: http://www.pnas.org/content/early/2009/12/10/0909559107.abstract
         journal: *pnas
-        date: {value: 2010-01-01, strftime: '%Y %b'}
+        date: 2010-01-01
+        strftime: '%Y %b'
         authors:    &pnas2010authors
             -   {name: Bryc K, person: *KasiaBryc}
             -   name: Nelson MR
@@ -403,8 +408,8 @@ publications:
             Global distribution of genomic diversity underscores rich complex history of 
             continental human populations
         urls:
-            label: paper
-            url: http://genome.cshlp.org/content/early/2009/02/12/gr.088898.108.full.pdf
+            -   label: paper
+                url: http://genome.cshlp.org/content/early/2009/02/12/gr.088898.108.full.pdf
         journal: *genomeresearch
         date: 2009-05-01
         authors:
@@ -426,8 +431,8 @@ publications:
             Genome-wide survey of SNP variation uncovers the genetic structure of cattle 
             breeds
         urls:
-            label: paper
-            url: http://www.sciencemag.org/cgi/content/full/324/5926/528
+            -   label: paper
+                url: http://www.sciencemag.org/cgi/content/full/324/5926/528
         journal: *science
         date: 2009-04-24
         authors:
@@ -459,8 +464,8 @@ publications:
             The Population Reference Sample, POPRES: A Resource for Population, Disease,
             and Pharmacological Genetics Research.
         urls:
-            label: paper
-            url: http://www.ncbi.nlm.nih.gov/pubmed/18760391
+            -   label: paper
+                url: http://www.ncbi.nlm.nih.gov/pubmed/18760391
         journal: *ajhg
         date: 2008-08-27
         authors:
