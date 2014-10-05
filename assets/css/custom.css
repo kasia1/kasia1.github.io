@@ -8,6 +8,7 @@ html {
 @media (max-width: 400px) {
   html { font-size: 13px; }
 }
+*/
 
 .title {
 	color: #800000;
@@ -15,7 +16,6 @@ html {
 	font-size: 18px;
 	font-weight: 500;
 }
-*/
 
 /* Suppress Bootstrap 'brand', which would otherwise print 'Kasia Bryc' in navbar */
 .navbar-brand { display: none; }
