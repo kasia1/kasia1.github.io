@@ -7,35 +7,28 @@ Past invited talks, presentations, and lectures
 
 <div class="title">Introduction to population genetics forces lectures</div>
 As part of the Stanford Genetics and Genomics Certificate, August 2014 
-[[course link][stanford-course]]
+[[course link](http://geneticscertificate.stanford.edu/faculty.php)]
 
 <div class="title">Separation of the largest eigenvalues in eigenanalysis of genotype 
 data from discrete populations</div>
-Rosenberg Lab meeting, Stanford University, January 22, 2014 [[slides][rosen]]
-<br/>ASHG Annual Meeting, Boston, MA, October 21, 2013 [[poster][ashg-2013]]
+Rosenberg Lab meeting, Stanford University, January 22, 2014 
+[[slides](/assets/static/Bryc_RosenbergLabMeeting.ppt)]
+<br/>ASHG Annual Meeting, Boston, MA, October 21, 2013 
+[[poster](/assets/static/ASHG2013_Eigenvalues_BrycBrycSilverstein.pdf)]
 
----
-title: Patterns of population structure and admixture among human populations.
-date: 2012-02-19
----
-* OEB 275br Guest Lecture, Harvard University, February 19, 2013 [[slides][oeb275]]
-[oeb275]: /assets/static/Bryc_OEB275br_compressed.pptx
----
-title: Differential relatedness of African Americans to populations within West Africa.
-date: 2012-11-05
----
-* ASHG Annual Meeting, San Francisco, CA, November 5, 2012 [[slides][ashg]]
-* DJ Club, Department of Genetics, Harvard Medical School, June 10, 2012 [[slides][djclub]]
+<div class="title">Patterns of population structure and admixture among human 
+populations</div>
+OEB 275br Guest Lecture, Harvard University, February 19, 2013 
+[[slides](/assets/static/Bryc_OEB275br_compressed.pptx)]
 
-[djclub]: /assets/static/2012_06_18-DJ_Club-AfricanAmericans.ppt
-[ashg]: /assets/static/Bryc_ASHG2012_V04.pptx
----
-title: Robust estimates of heterozygosity from low coverage sequencing data. 
-date: 2012-06-23
----
-* SMBE Annual Meeting, Dublin, Ireland June 23-26, 2012 
+<div class="title">Differential relatedness of African Americans to populations within
+West Africa</div>
+ASHG Annual Meeting, San Francisco, CA, November 5, 2012 
+[[slides](/assets/static/Bryc_ASHG2012_V04.pptx)]
+<br/>DJ Club, Department of Genetics, Harvard Medical School, June 10, 2012 
+[[slides](/assets/static/2012_06_18-DJ_Club-AfricanAmericans.ppt)]
+
+<div class="title">Robust estimates of heterozygosity from low coverage sequencing 
+data</div>
+SMBE Annual Meeting, Dublin, Ireland June 23-26, 2012 
 [[poster](/assets/static/2012.06.14_BrycSMBE_Poster.pdf)]
-
-[rosen]: /assets/static/Bryc_RosenbergLabMeeting.ppt
-[ashg-2013]: /assets/static/ASHG2013_Eigenvalues_BrycBrycSilverstein.pdf
-[stanford-course]: http://geneticscertificate.stanford.edu/faculty.php
