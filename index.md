@@ -16,7 +16,7 @@ admixture and other unknown forces shaping the human genome.
 Since March 2014, I have been a part of the [Research Team][23andme-research] at
 [23andMe][23andme]. Previously, I was a Postdoctoral Research Fellow at Harvard Medical
 School with [David Reich][reich] in the [Department of Genetics][harvard-genetics]. I
-received a M.S. and Ph.D. in [Biometry][cornell-biometry] at Cornell under [Carlos
+received M.S. and Ph.D. degrees in [Biometry][cornell-biometry] at Cornell under [Carlos
 Bustamante][bustamante], and a B.A. from Stanford in [M&CS][stanford-mcs].
 
 Read more about my [research](/research/).
