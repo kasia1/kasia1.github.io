@@ -33,4 +33,4 @@ a { color: #990000; }
 .citation .authors li:after { content: ", "; }
 .citation .authors li:last-child:after { content: "."; }
 .citation li.journal:after { content: ". "; }
-
+.citation .abstract .content { display: none; }

@@ -8,6 +8,7 @@ Or find me on [Google][google] and [PubMed][pubmed]
 [google]: http://scholar.google.com/citations?user=wFAq3OMAAAAJ&hl=en&oi=ao
 [pubmed]: http://www.ncbi.nlm.nih.gov/pubmed/?term=bryc+k%5Bau%5D
 
+
 <div class="publications" markdown="0">
 {% assign publication_list = site.data.cv.publications | sort: 'date' | reverse %}
 {% for paper in publication_list %}
@@ -33,38 +34,46 @@ Or find me on [Google][google] and [PubMed][pubmed]
         {% endif %}
     {% endif %}
 
-        <div class="citation">
-            <ul>
-                <li class="title">{{ paper.title }}</li>
-            </ul>
-            <ul class="authors">
-                {% for author in paper.authors %}
-                    {% if author.person.email == site.author.email %}
-                        <li><strong>{{ author.name }}</strong></li>
-                    {% else %}
-                        <li>{{ author.name }}</li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-            <ul>
-                <li class="journal">{{ paper.journal.name }}</li>
-                <li class="date">{{ pub_date | date: strftime }}</li>
-                {% for link in paper.urls %}
-                    <li>[<a href="{{ link.url }}">{{ link.label }}</a>]</li>
-                {% endfor %}
-            </ul>
-            {% if paper.abstract %}
-            <ul>
-                <li class="abstract-label">Abstract</li><!-- Use this to show/hide -->
-                <li class="abstract-content" markdown="1">{{ paper.abstract }}</li><!-- Show/hide this -->
-            </ul>
-            {% endif %}
+            <div class="citation">
+                <ul>
+                    <li class="title">{{ paper.title }}</li>
+                </ul>
+                <ul class="authors">
+                    {% for author in paper.authors %}
+                        {% if author.person.email == site.author.email %}
+                            <li><strong>{{ author.name }}</strong></li>
+                        {% else %}
+                            <li>{{ author.name }}</li>
+                        {% endif %}
+                    {% endfor %}
+                </ul>
+                <ul>
+                    <li class="journal">{{ paper.journal.name }}</li>
+                    <li class="date">{{ pub_date | date: strftime }}</li>
+                    {% for link in paper.urls %}
+                        <li>[<a href="{{ link.url }}">{{ link.label }}</a>]</li>
+                    {% endfor %}
+                </ul>
+                {% if paper.abstract %}
+                <ul class="abstract">
+                    <!-- Use this to show/hide -->
+                    <li>
+                        <a class="toggle" href="#!">
+                            <span class="glyphicon glyphicon-chevron-down"></span>&nbsp;Abstract
+                        </a>
+                    </li>
+<!-- Show/hide this -->
+<li class="content"  markdown="1">
+{{ paper.abstract }}
+</li>
+                </ul>
+                {% endif %}
 
-        </div>
+            </div>
 
     {% if forloop.last %}
         </div>
     {% endif %}
-
 {% endfor %}
+</div>
 </div>
