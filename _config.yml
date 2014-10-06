@@ -32,9 +32,10 @@ JB:
     BASE_PATH: /
     #ASSET_PATH: false
     analytics:
-        provider: google
-        google:
+        provider: googleUA
+        googleUA:
             tracking_id: UA-51964066-2
+            property_name: kasiabryc.com
     theme: journal
 
 # Timezone for blog posts
