@@ -10,6 +10,12 @@ html {
 }
 */
 
+/* 
+    Forces display of vertical scroll bar even when it's not needed, so Publications
+    displays the same way as no-scroll (short) pages
+ */
+html { overflow-y: scroll; } 
+
 .title {
 	color: #800000;
 	color: black;
@@ -27,10 +33,11 @@ a { color: #990000; }
 #kasia-image { margin-left: 25px; }
 
 /* Formatting for publications */
-.year > .citation ul, div { display: block; list-style-type: none; margin: 0;}
+div.citation { margin: 1rem 0 1rem 6.5rem; }
+.citation ul { display: block; list-style-type: none; margin: 0; padding: 0; line-height: 1.3em; }
 .citation li { display: inline; }
-.citation .authors li { display: inline; list-style-type: none; }
 .citation .authors li:after { content: ", "; }
 .citation .authors li:last-child:after { content: "."; }
+.citation ul.authors { margin: 0.2rem 0 0.2rem 0; }
 .citation li.journal:after { content: ". "; }
-.citation .abstract .content { display: none; }
+.citation .abstract .content { display: none; line-height: 1.3em; }

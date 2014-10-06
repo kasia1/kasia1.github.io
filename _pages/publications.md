@@ -9,6 +9,10 @@ Or find me on [Google][google] and [PubMed][pubmed]
 [pubmed]: http://www.ncbi.nlm.nih.gov/pubmed/?term=bryc+k%5Bau%5D
 
 
+<!--
+    Changes below this line are only necessary to change display of publications,
+    edit _data/cv.yml to add/change content
+ -->
 <div class="publications" markdown="0">
 {% assign publication_list = site.data.cv.publications | sort: 'date' | reverse %}
 {% for paper in publication_list %}
@@ -62,7 +66,7 @@ Or find me on [Google][google] and [PubMed][pubmed]
                             <span class="glyphicon glyphicon-chevron-down"></span>&nbsp;Abstract
                         </a>
                     </li>
-<!-- Show/hide this -->
+<!-- Must be left-aligned (no preceding whitespace) for Kramdown parser -->
 <li class="content"  markdown="1">
 {{ paper.abstract }}
 </li>
@@ -76,4 +80,4 @@ Or find me on [Google][google] and [PubMed][pubmed]
     {% endif %}
 {% endfor %}
 </div>
-</div>
+

@@ -179,8 +179,8 @@ publications:
 
     -   index: 12
         title: >
-            Principal Components-based assignment of ancestry along each chromosome in 
-            individuals with admixed ancestry from two or more populations
+            PCAdmix: Principal Components-based assignment of ancestry along each
+            chromosome in individuals with admixed ancestry from two or more populations
         urls: 
             -   label: paper
                 url: http://digitalcommons.wayne.edu/humbiol/vol84/iss4/5/
@@ -198,6 +198,23 @@ publications:
             -   name: Ostrer H
             -   name: Mezey JG
             -   {name: Bustamante CD, person: *CarlosBustamante}
+        abstract: |
+            Identifying ancestry along each chromosome in admixed individuals provides a
+            wealth of information for understanding the population genetic history of
+            admixture events and is valuable for admixture mapping and identifying recent
+            targets of selection. We present
+            [PCAdmix](http://sites.google.com/site/pcadmix/home), a Principal
+            Components-based algorithm for determining ancestry along each chromosome from
+            a high-density, genome-wide set of phased single-nucleotide polymorphism (SNP)
+            genotypes of admixed individuals. We compare our method to HAPMIX on simulated
+            data from two ancestral populations, and we find high concordance between the
+            methods. Our method also has better accuracy than LAMP when applied to
+            three-population admixture, a situation as yet unaddressed by HAPMIX. Finally,
+            we apply our method to a data set of four Latino populations with European,
+            African, and Native American ancestry. We find evidence of assortative mating
+            in each of the four populations, and we identify regions of shared ancestry
+            that may be recent targets of selection and could serve as candidate regions
+            for admixture-based association mapping.
 
     -   index: 11
         title: >
@@ -242,6 +259,29 @@ publications:
             -   name: Butte AJ
             -   name: De La Vega FM
             -   {name: Bustamante CD, person: *CarlosBustamante}
+        abstract: |
+            Full sequencing of individual human genomes has greatly expanded our
+            understanding of human genetic variation and population history. Here, we
+            present a systematic analysis of 50 human genomes from 11 diverse global
+            populations sequenced at high coverage. Our sample includes 12 individuals who
+            have admixed ancestry and who have varying degrees of recent (within the last
+            500 years) African, Native American, and European ancestry. We found over 21
+            million single-nucleotide variants that contribute to a 1.75-fold range in
+            nucleotide heterozygosity across diverse human genomes. This heterozygosity
+            ranged from a high of one heterozygous site per kilobase in west African
+            genomes to a low of 0.57 heterozygous sites per kilobase in segments inferred
+            to have diploid Native American ancestry from the genomes of Mexican and
+            Puerto Rican individuals. We show evidence of all three continental ancestries
+            in the genomes of Mexican, Puerto Rican, and African American populations, and
+            the genome-wide statistics are highly consistent across individuals from a
+            population once ancestry proportions have been accounted for. Using a
+            generalized linear model, we identified subtle variations across populations
+            in the proportion of neutral versus deleterious variation and found that
+            genome-wide statistics vary in admixed populations even once ancestry
+            proportions have been factored in. We further infer that multiple periods of
+            gene flow shaped the diversity of admixed populations in the Americas-70% of
+            the European ancestry in today’s African Americans dates back to European gene
+            flow happening only 7-8 generations ago.
 
     -   index: 10
         title: A high-coverage genome sequence from an archaic Denisovan individual
@@ -285,6 +325,16 @@ publications:
             -   {name: Reich D, person: *DavidReich}
             -   name: Kelso J
             -   name: Pääbo S
+        abstract: |
+            We present a DNA library preparation method that has allowed us to reconstruct
+            a high-coverage (30×) genome sequence of a Denisovan, an extinct relative of
+            Neandertals. The quality of this genome allows a direct estimation of
+            Denisovan heterozygosity indicating that genetic diversity in these archaic
+            hominins was extremely low. It also allows tentative dating of the specimen on
+            the basis of “missing evolution” in its genome, detailed measurements of
+            Denisovan and Neandertal admixture into present-day human populations, and the
+            generation of a near-complete catalog of genetic changes that swept to high
+            frequency in modern humans since their divergence from Denisovans.
 
     -   index: 9
         title: >
@@ -299,6 +349,15 @@ publications:
             -   name: Gao H
             -   {name: Bryc K, person: *KasiaBryc}
             -   {name: Bustamante CD, person: *CarlosBustamante}
+        abstract: |
+            Inferring population structure using bayesian clustering programs often
+            requires a priori specification of the number of subpopulations, K, from which
+            the sample has been drawn. Here, we explore the utility of a common bayesian
+            model selection criterion, the Deviance Information Criterion (DIC), for
+            estimating K. We evaluate the accuracy of DIC, as well as other popular
+            approaches, on datasets generated by coalescent simulations under various
+            demographic scenarios. We find that DIC outperforms competing methods in many
+            genetic contexts, validating its application in assessing population structure.
 
     -   index: 8
         title: >
@@ -322,6 +381,18 @@ publications:
             -   name: Keinan A
             -   name: Clark A
             -   {name: Bustamante CD, person: *CarlosBustamante}
+        # abstract populated based on 'Background' in URL, no existing abstract to migrate
+        abstract: |
+            Understanding the contribution of rare and common genetic variants to disease
+            susceptibility will probably require multi- and trans- ethnic sequencing
+            studies that compare the genomes of many individuals with and without a
+            particular disease. Accounting for the role of population stratification at
+            fine scales, both in terms of genomic and geographic location, will be
+            important because rare alleles are likely to show more population
+            stratification. Here, we present results from sequencing, assembly and genomic
+            analysis of two genomes from the Phase 3 HapMap. The donor individuals are of
+            Mexican and African ancestry and represent the first 'admixed' genomes to be
+            sequenced to high coverage.
 
     -   index: 7
         title: >
@@ -340,6 +411,33 @@ publications:
             -   name: Karafet T
             -   name: Ostrer H
             -   {name: Bustamante CD, person: *CarlosBustamante}
+        abstract: |
+            Hispanic/Latino populations possess a complex genetic structure that reflects
+            recent admixture among and potentially ancient substructure within Native
+            American, European, and West African source populations. Here, we quantify
+            genome-wide patterns of SNP and haplotype variation among 100 individuals with
+            ancestry from Ecuador, Colombia, Puerto Rico, and the Dominican Republic
+            genotyped on the Illumina 610-Quad arrays and 112 Mexicans genotyped on
+            Affymetrix 500K platform. Intersecting these data with previously collected
+            high-density SNP data from 4,305 individuals, we use principal component
+            analysis and clustering methods FRAPPE and STRUCTURE to investigate
+            genome-wide patterns of African, European, and Native American population
+            structure within and among Hispanic/Latino populations. Comparing autosomal, X
+            and Y chromosome, and mtDNA variation, we find evidence of a significant sex
+            bias in admixture proportions consistent with disproportionate contribution of
+            European male and Native American female ancestry to present-day populations.
+            We also find that patterns of linkage-disequilibria in admixed Hispanic/Latino
+            populations are largely affected by the admixture dynamics of the populations,
+            with faster decay of LD in populations of higher African ancestry. Finally,
+            using the locus-specific ancestry inference method LAMP, we reconstruct
+            fine-scale chromosomal patterns of admixture. We document moderate power to
+            differentiate among potential subcontinental source populations within the
+            Native American, European, and African segments of the admixed Hispanic/Latino
+            genomes. Our results suggest future genome-wide association scans in
+            Hispanic/Latino populations may require correction for local genomic ancestry
+            at a subcontinental scale when associating differences in the genome with
+            disease risk, progression, and drug efficacy, as well as for admixture mapping.
+
 
     -   index: 6
         title: >
@@ -383,6 +481,25 @@ publications:
             -   name: Ostrander EA
             -   name: Novembre J
             -   name: Wayne RK
+        abstract: |
+            Advances in genome technology have facilitated a new understanding of the
+            historical and genetic processes crucial to rapid phenotypic evolution under
+            domestication. To understand the process of dog diversification better, we
+            conducted an extensive genome-wide survey of more than 48,000 single
+            nucleotide polymorphisms in dogs and their wild progenitor, the grey wolf.
+            Here we show that dog breeds share a higher proportion of multi-locus
+            haplotypes unique to grey wolves from the Middle East, indicating that they
+            are a dominant source of genetic diversity for dogs rather than wolves from
+            east Asia, as suggested by mitochondrial DNA sequence data. Furthermore, we
+            find a surprising correspondence between genetic and phenotypic/functional
+            breed groupings but there are exceptions that suggest phenotypic
+            diversification depended in part on the repeated crossing of individuals with
+            novel phenotypes. Our results show that Middle Eastern wolves were a critical
+            source of genome diversity, although interbreeding with local wolf populations
+            clearly occurred elsewhere in the early history of specific lineages. More
+            recently, the evolution of modern dog breeds seems to have been an iterative
+            process that drew on a limited genetic toolkit to create remarkable phenotypic
+            diversity.
 
     -   index: 5
         title: >
@@ -402,6 +519,30 @@ publications:
             -   name: Williams S
             -   {name: Bustamante CD, person: *CarlosBustamante}
             -   name: Tishkoff SA
+        abstract: |
+            Quantifying patterns of population structure in Africans and African Americans
+            illuminates the history of human populations and is critical for undertaking
+            medical genomic studies on a global scale. To obtain a fine-scale genome-wide
+            perspective of ancestry, we analyze Affymetrix GeneChip 500K genotype data
+            from African Americans (n = 365) and individuals with ancestry from West
+            Africa (n = 203 from 12 populations) and Europe (n = 400 from 42 countries).
+            We find that population structure within the West African sample reflects
+            primarily language and secondarily geographical distance, echoing the Bantu
+            expansion. Among African Americans, analysis of genomic admixture by a
+            principal component-based approach indicates that the median proportion of
+            European ancestry is 18.5% (25th–75th percentiles: 11.6–27.7%), with very
+            large variation among individuals. In the African-American sample as a whole,
+            few autosomal regions showed exceptionally high or low mean African ancestry,
+            but the X chromosome showed elevated levels of African ancestry, consistent
+            with a sex-biased pattern of gene flow with an excess of European male and
+            African female ancestry. We also find that genomic profiles of individual
+            African Americans afford personalized ancestry reconstructions differentiating
+            ancient vs. recent European and African ancestry. Finally, patterns of genetic
+            similarity among inferred African segments of African-American genomes and
+            genomes of contemporary African populations included in this study suggest
+            African ancestry is most similar to non-Bantu Niger-Kordofanian-speaking
+            populations, consistent with historical documents of the African Diaspora and
+            trans-Atlantic slave trade.
 
     -   index: 4
         title: >
@@ -425,6 +566,25 @@ publications:
             -   name: KS King
             -   name: MR Nelson
             -   {name: CD Bustamante, person: *CarlosBustamante}
+        abstract: |
+            Characterizing patterns of genetic variation within and among human
+            populations is important for understanding human evolutionary history and for
+            careful design of medical genetic studies. Here, we analyze patterns of
+            variation across 443,434 single nucleotide polymorphisms (SNPs) genotyped in
+            3845 individuals from four continental regions. This unique resource allows us
+            to illuminate patterns of diversity in previously under-studied populations at
+            the genome-wide scale including Latin America, South Asia, and Southern
+            Europe. Key insights afforded by our analysis include quantifying the degree
+            of admixture in a large collection of individuals from Guadalajara, Mexico;
+            identifying language and geography as key determinants of population structure
+            within India; and elucidating a north–south gradient in haplotype diversity
+            within Europe. We also present a novel method for identifying long-range
+            tracts of homozygosity indicative of recent common ancestry. Application of
+            our approach suggests great variation within and among populations in the
+            extent of homozygosity, suggesting both demographic history (such as
+            population bottlenecks) and recent ancestry events (such as consanguinity)
+            play an important role in patterning variation in large modern human
+            populations.
 
     -   index: 3
         title: >
@@ -437,6 +597,19 @@ publications:
         date: 2009-04-24
         authors:
             -   name: Bovine HapMap Consortium
+        abstract: |
+            The imprints of domestication and breed development on the genomes of
+            livestock likely differ from those of companion animals. A deep draft sequence
+            assembly of shotgun reads from a single Hereford female and comparative
+            sequences sampled from six additional breeds were used to develop probes to
+            interrogate 37,470 single-nucleotide polymorphisms (SNPs) in 497 cattle from
+            19 geographically and biologically diverse breeds. These data show that cattle
+            have undergone a rapid recent decrease in effective population size from a
+            very large ancestral population, possibly due to bottlenecks associated with
+            domestication, selection, and breed formation. Domestication and artificial
+            selection appear to have left detectable signatures of selection within the
+            cattle genome, yet the current levels of diversity within breeds are at least
+            as great as exists within humans.
 
     -   index: 2
         title: Genes mirror geography within Europe
@@ -458,6 +631,24 @@ publications:
             -   name: Nelson MR
             -   name: Stephens M
             -   {name: Bustamante CD, person: *CarlosBustamante}
+        abstract: |
+            Understanding the genetic structure of human populations is of fundamental
+            interest to medical, forensic and anthropological sciences. Advances in
+            high-throughput genotyping technology have markedly improved our understanding
+            of global patterns of human genetic variation and suggest the potential to use
+            large samples to uncover variation among closely spaced populations. Here we
+            characterize genetic variation in a sample of 3,000 European individuals
+            genotyped at over half a million variable DNA sites in the human genome.
+            Despite low average levels of genetic differentiation among Europeans, we find
+            a close correspondence between genetic and geographic distances; indeed, a
+            geographical map of Europe arises naturally as an efficient two-dimensional
+            summary of genetic variation in Europeans. The results emphasize that when
+            mapping the genetic basis of a disease phenotype, spurious associations can
+            arise if genetic structure is not properly accounted for. In addition, the
+            results are relevant to the prospects of genetic ancestry testing6; an
+            individual’s DNA can be used to infer their geographic origin with surprising
+            accuracy—often to within a few hundred kilometres.
+
 
     -   item: 1
         title: >
@@ -492,6 +683,27 @@ publications:
             -   name: Burns DK
             -   name: Ehm MG
             -   name: Lai EH
-
-
-
+        abstract: |
+            Technological and scientific advances, stemming in large part from the Human
+            Genome and HapMap projects, have made large-scale, genome-wide investigations
+            feasible and cost effective. These advances have the potential to dramatically
+            impact drug discovery and development by identifying genetic factors that
+            contribute to variation in disease risk as well as drug pharmacokinetics,
+            treatment efficacy, and adverse drug reactions. In spite of the technological
+            advancements, successful application in biomedical research would be limited
+            without access to suitable sample collections. To facilitate exploratory
+            genetics research, we have assembled a DNA resource from a large number of
+            subjects participating in multiple studies throughout the world. This growing
+            resource was initially genotyped with a commercially available genome-wide
+            500,000 single-nucleotide polymorphism panel. This project includes nearly
+            6,000 subjects of African-American, East Asian, South Asian, Mexican, and
+            European origin. Seven informative axes of variation identified via
+            principal-component analysis (PCA) of these data confirm the overall integrity
+            of the data and highlight important features of the genetic structure of
+            diverse populations. The potential value of such extensively genotyped
+            collections is illustrated by selection of genetically matched population
+            controls in a genome-wide analysis of abacavir-associated hypersensitivity
+            reaction. We find that matching based on country of origin, identity-by-state
+            distance, and multidimensional PCA do similarly well to control the type I
+            error rate. The genotype and demographic data from this reference sample are
+            freely available through the NCBI database of Genotypes and Phenotypes (dbGaP).
