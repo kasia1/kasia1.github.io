@@ -33,7 +33,7 @@ JB:
     #ASSET_PATH: false
     analytics:
         google:
-            tracking_id: foo
+            tracking_id: UA-51964066-2
     theme: journal
 
 # Timezone for blog posts
