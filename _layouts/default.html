@@ -80,6 +80,10 @@
           
                   return false;
             } );
+
+            $('#email').prop('href', 'mailto:{{ site.author.email }}');
+            $('#email').text('{{ site.author.email }}');
+
         } );
     </script>
   </body>

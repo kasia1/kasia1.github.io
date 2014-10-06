@@ -10,7 +10,7 @@ Kasia Bryc<br/>
 Mountain View, CA 94043<br/>
 
 <div class="title">Email</div>
-[kasia1@gmail.com](mailto:kasia1@gmail.com)
+<a id="email" href="#!">test@example.com</a>
 
 <div class="title">Curriculum Vitae</div>
 [K Bryc CV](/cv/)
