@@ -14,8 +14,8 @@ the context of thinking about ancient human history and migrations, recent popul
 admixture and other unknown forces shaping the human genome.
 
 Since March 2014 I have been a part of the [Research Team][23andme-research] at
-[23andMe][23andme]. Previously, I was a Postdoctoral Research Fellow at Harvard Medical
-School with [David Reich][reich] in the [Department of Genetics][harvard-genetics]. I
+[23andMe][23andme]. Previously, I was a Postdoctoral Research Fellow at [Harvard Medical
+School][harvard-genetics] with [David Reich][reich]. I
 received M.S. and Ph.D. degrees in [Biometry][cornell-biometry] at Cornell under [Carlos
 Bustamante][bustamante] and a B.A. from Stanford in [M&CS][stanford-mcs].
 
