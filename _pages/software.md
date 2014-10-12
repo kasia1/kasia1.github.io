@@ -19,6 +19,6 @@ Download software
 Heterozygosity EM is an Expectation-Maximization algorithm for estimating genome-wide 
 heterozygosity from sequence data. [paper](/assets/static/Bryc2013.pdf)
 
-Download software from GitHub: [heterozygosity-em][heterozygosity-github]
+Download software from GitHub: [coming soon!]<!-- [heterozygosity-em][heterozygosity-github]-->
 
 [heterozygosity-github]: http://github.com/kasia1/heterozygosity-em
