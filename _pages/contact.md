@@ -13,4 +13,4 @@ Mountain View, CA 94043<br/>
 <a id="email" href="#!">test@example.com</a>
 
 <div class="title">Curriculum Vitae</div>
-[CV](/assets/Bryc_CV.pdf)
+[CV](/assets/static/Bryc_CV.pdf)
