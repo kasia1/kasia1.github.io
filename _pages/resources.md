@@ -17,8 +17,9 @@ Links to press releases and things I've been quoted in
 [Talks](/talks/)
 Reference slides for past talks I've given
 
+<!--
 [Courses](/courses/)
 Materials for teaching I've prepared
-
+-->
 [CV](/cv/)
 When you want all the details
