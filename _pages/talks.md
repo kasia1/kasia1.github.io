@@ -32,3 +32,5 @@ ASHG Annual Meeting, San Francisco, CA, November 5, 2012
 data</div>
 SMBE Annual Meeting, Dublin, Ireland June 23-26, 2012 
 [[poster](/assets/static/2012.06.14_BrycSMBE_Poster.pdf)]
+
+Interested in an older talk? Contact [me](/contact/)
