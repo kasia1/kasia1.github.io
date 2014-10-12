@@ -7,8 +7,8 @@ Datasets I’ve used in research, in case they are useful.
 
 <div class="title">2010 U.S. Census data</div>
 A data scrape of population density of African Americans and Latinos per U.S. 
-state. Counts of self-identified African Americans by state
+state. Counts of self-identified African Americans by state [Coming soon]
 
 <div class="title">A database of African American ancestry estimates</div>
 A reference compiled through literature survey including geographic 
-coordinates and references of populations studied.
+coordinates and references of populations studied. [Coming soon]
