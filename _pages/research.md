@@ -7,14 +7,14 @@ My research nestles around several general themes:
 
 <div class="title">Genetics as a tool for understanding history</div>
 Genetic data traces human history, both ancient and recent. In many cases, genetics
-mirrors geography [in Africa][africa] [in Europe][europe]. Genetics can sometimes cleanly separate
+mirrors geography, like [in Africa][africa] and [in Europe][europe]. Genetics can sometimes cleanly separate
 continental and subcontinental populations [world-wide][worldwide]. Other times it reflects subtle
-population history differences [in Latinos][latinos].
+population history differences, such as [in Latinos][latinos].
 
-[africa]: /assets/static/Bryc2010.pdf
-[europe]: /assets/static/Novembre2008b.pdf
-[worldwide]: /assets/static/Auton2009.pdf
-[latinos]: /assets/static/BrycVelez2010b.pdf
+[africa]: http://www.pnas.org/content/early/2009/12/10/0909559107.abstract
+[europe]: http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature07331.pdf
+[worldwide]: http://genome.cshlp.org/content/early/2009/02/12/gr.088898.108.full.pdf
+[latinos]: http://www.pnas.org/content/107/suppl.2/8954.full
 
 <div class="title">Everyone is admixed</div>
 The more we explore, the more we see the prevalence of gene flow between populations
