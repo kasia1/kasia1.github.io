@@ -12,7 +12,7 @@ Implementations and documentation available for download
 Some of the datasets that I've utilized in my research
 
 [Media](/media/)
-Links to press releases and things I've been quoted in
+Links to press releases and pingbacks
 
 [Talks](/talks/)
 Reference slides for past talks I've given
