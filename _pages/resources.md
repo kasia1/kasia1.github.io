@@ -14,8 +14,8 @@ Some of the datasets that I've utilized in my research
 [Media](/media/)
 Links to press releases and pingbacks
 
-[Talks](/talks/)
-Reference slides for past talks I've given
+[Presentations](/talks/)
+Reference slides and posters for past talks I've given
 
 <!--
 [Courses](/courses/)
