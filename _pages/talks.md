@@ -5,6 +5,10 @@ order: 400
 ---
 Past invited talks, presentations, and lectures
 
+<div class="title">The genetic ancestry ofAfrican, Latino, and European Americansacross the United States</div>
+ASHG Annual Meeting, San Diego, CA, October 20, 2014 
+[[poster](/assets/static/Bryc_ASHG2014.pdf]
+
 <div class="title">Introduction to population genetics forces lectures</div>
 As part of the Stanford Genetics and Genomics Certificate, August 2014 
 [[course link](http://geneticscertificate.stanford.edu/faculty.php)]
