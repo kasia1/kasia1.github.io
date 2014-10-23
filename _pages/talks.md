@@ -5,7 +5,7 @@ order: 400
 ---
 Past invited talks, presentations, and lectures
 
-<div class="title">The genetic ancestry ofAfrican, Latino, and European Americans across the United States</div>
+<div class="title">The genetic ancestry of African, Latino, and European Americans across the United States</div>
 ASHG Annual Meeting, San Diego, CA, October 20, 2014 
 [coming soon!]
 
