@@ -3,8 +3,7 @@ title: Media
 menu: Resources
 order: 300
 ---
-<span class="title">The genetic ancestry of African, Latino, and European Americans across the United States</span>
-<br/><span class="title">aka, The genetic landscape of the US</span>
+<span class="title">The genetic landscape of the US</span>
 <br/>preprint on Haldane's sieve [[haldanes][haldanes]]
 <br/>support from Dienekes [[dienekes][dienekes2]]
 
