@@ -4,7 +4,7 @@ menu: Resources
 order: 300
 ---
 <span class="title">The genetic landscape of the US</span>
-<br/>preprint on Haldane's sieve [[haldanes][haldanes]]
+<br/>preprint on Haldane's sieve [[haldane's][haldanes]]
 <br/>support from Dienekes [[dienekes][dienekes2]]
 
 <span class="title">DNA USA</span> 
