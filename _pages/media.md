@@ -25,7 +25,7 @@ by Dr. Henry Louis Gates Jr.
 
 [dienekes2]: http://dienekes.blogspot.com/2014/09/23andme-mega-study-on-different.html
 [haldanes]: http://haldanessieve.org/2014/09/19/the-genetic-ancestry-of-african-latino-and-european-americans-across-the-united-states/
-[weill]: http://www.theroot.com/articles/history/2014/04/why_most_black_people_aren_t_part_indian.html
+[weill]: http://www.youtube.com/watch?v=J3uwNFtblxs
 [theroot-2014-04]: http://www.theroot.com/articles/history/2014/04/why_most_black_people_aren_t_part_indian.html
 [theroot-2014-03]: http://www.theroot.com/articles/history/2014/03/how_many_white_people_have_hidden_black_ancestry.html?wpisrc=topstories 
 [23andme]: http://blog.23andme.com/23andme-research/dna-usa-2/
