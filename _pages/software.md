@@ -9,7 +9,7 @@ admixed individual using genotyping data. High confidence assessment of local an
 along the genome in admixed individuals is critical for applications such as basic 
 ancestry inference and admixture mapping of traits for disease variants. First published 
 as a two-way method [[paper](/assets/static/Bryc2010.pdf)], it is now extended to three or 
-more populations using phased data (Brisbin et al. 2012) [[paper](/assets/static/Brsbin2012.pdf)]
+more populations using phased data (Brisbin et al. 2012) [[paper](/assets/static/Brisbin2012.pdf)]
 
 Download software
 [here](https://sites.google.com/site/pcadmix/downloads/copyright_1-0).
