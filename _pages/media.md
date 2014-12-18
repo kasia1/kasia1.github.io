@@ -11,6 +11,7 @@ order: 300
 <br/>"History written in our DNA" [[23andme blog][23andmeblog]]
 <br/>"La historia de los Estados Unidos está escrita en su mapa genético" [[agencias](http://www.agenciasinc.es/Noticias/La-historia-de-los-Estados-Unidos-esta-escrita-en-su-mapa-genetico)]
 <br/>"Genetic ancestry of different ethnic groups varies across the United States" [[all web news](http://www.allwebsolutions.net/science-technology/genetic-ancestry-of-different-ethnic-groups-varies-across-the-united-states/)] [[science daily](http://www.sciencedaily.com/releases/2014/12/141218131409.htm)]
+<br/>"You Can Self-identify With Any Ancestry You Want, But Genetically..." [[science20](http://www.science20.com/news_articles/you_can_selfidentify_with_any_ancestry_you_want_but_genetically-151564)]
 
 <span class="title">The genetic landscape of the US</span>
 <br/>preprint on Haldane's sieve [[haldane's][haldanes]]
