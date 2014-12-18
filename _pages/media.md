@@ -3,7 +3,7 @@ title: Media
 menu: Resources
 order: 300
 ---
-<span class="title">The genetic ancestry of African Americans, Latinos, and European Americans across the United States</span>
+<span class="title">Press coverage for: The genetic ancestry of African Americans, Latinos, and European Americans across the United States</span>
 <br/>"Think You're All European or African? Most Are Mixed" [[discovery][discovery]]
 <br/>"23andMe study sketches genetic portrait of the US" [[medicalxpress][medicalxpress]] [[eurekalert][eurekalert]] [[newswise][newswise]] [[prnewswire][prnewswire]] [[biospace][biospace]] [[eurekalert pub release][eurekalertpub]]
 <br/>"History written in our DNA" [[23andme blog][23andmeblog]]
