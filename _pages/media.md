@@ -5,6 +5,8 @@ order: 300
 ---
 <span class="title">The genetic ancestry of African Americans, Latinos, and European Americans across the United States</span>
 <br/>Think You're All European or African? Most Are Mixed [[discovery][discovery]]
+<br/>23andMe study sketches genetic portrait of the US [[medicalxpress][medicalxpress]]
+<br/>23andMe Study Sketches Genetic Portrait of the United States [[eurekalert][eurekalert]] [[newswise][newswise]] [[prnewswire][prnewswire]] [[biospace][biospace]]
 
 <span class="title">The genetic landscape of the US</span>
 <br/>preprint on Haldane's sieve [[haldane's][haldanes]]
@@ -26,6 +28,11 @@ by Dr. Henry Louis Gates Jr.
 <span class="title">Weill Hall dedication video</span>
 <br/>where I talk about my interdisciplinary research at Cornell [[YouTube][weill]]
 
+[eurekalert]: http://www.eurekalert.org/pub_releases/2014-12/epr-2ss121814.php
+[prnewswire]: http://www.prnewswire.com/news-releases/23andme-study-sketches-genetic-portrait-of-the-united-states-300011931.html
+[biospace]: http://www.biospace.com/news_story.aspx?StoryID=358782&full=1
+[newswise]: http://www.newswise.com/articles/23andme-study-sketches-genetic-portrait-of-the-united-states
+[medicalxpress]: http://medicalxpress.com/news/2014-12-23andme-genetic-portrait.html
 [discovery]: http://news.discovery.com/human/genetics/think-youre-all-european-or-african-most-are-mixed-141218.htm
 [dienekes2]: http://dienekes.blogspot.com/2014/09/23andme-mega-study-on-different.html
 [haldanes]: http://haldanessieve.org/2014/09/19/the-genetic-ancestry-of-african-latino-and-european-americans-across-the-united-states/
