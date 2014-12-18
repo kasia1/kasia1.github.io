@@ -112,7 +112,9 @@ publications:
         date: 2014-12-18
         authors:
             -   {name: Bryc K,     person: *KasiaBryc}
-            -   {name: Durand E,   person: *EricDurand}
+            -   {name: Durand EY,   person: *EricDurand}
+            -   {name: Macpherson M}
+            -   {name: Reich D,   person: *DavidReich}
             -   {name: Mountain J, person: *JoannaMountain}
         abstract: |
             Over the past 500 years, North America has been the site of ongoing mixing of Native Americans, European settlers, and Africans
