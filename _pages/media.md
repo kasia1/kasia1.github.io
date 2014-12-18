@@ -9,6 +9,7 @@ order: 300
 <br/>"23andMe study sketches genetic portrait of the US" [[medicalxpress][medicalxpress]] [[eurekalert][eurekalert]] [[newswise][newswise]] [[prnewswire][prnewswire]] [[biospace][biospace]] [[eurekalert pub release][eurekalertpub]]
 <br/>"History written in our DNA" [[23andme blog][23andmeblog]]
 <br/>"La historia de los Estados Unidos está escrita en su mapa genético" [[agencias](http://www.agenciasinc.es/Noticias/La-historia-de-los-Estados-Unidos-esta-escrita-en-su-mapa-genetico)]
+<br/>"Genetic ancestry of different ethnic groups varies across the United States" [[all web news](http://www.allwebsolutions.net/science-technology/genetic-ancestry-of-different-ethnic-groups-varies-across-the-united-states/)]
 
 <span class="title">The genetic landscape of the US</span>
 <br/>preprint on Haldane's sieve [[haldane's][haldanes]]
