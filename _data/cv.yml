@@ -110,7 +110,6 @@ publications:
                 url: http://www.cell.com/ajhg/pdf/S0002-9297(14)00476-5.pdf
         journal: *ajhg
         date: 2014-12-18
-        strftime: '%Y'
         authors:
             -   {name: Bryc K,     person: *KasiaBryc}
             -   {name: Durand E,   person: *EricDurand}
