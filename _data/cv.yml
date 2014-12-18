@@ -103,7 +103,7 @@ people:
 publications:
     -   index: 15
         title: >
-            The genetic ancestry of African, Latino, and European Americans across the
+            The genetic ancestry of African Americans, Latinos, and European Americans across the
             United States
         journal: *inprep
         date: 2014-01-01
@@ -114,13 +114,13 @@ publications:
             -   {name: Mountain J, person: *JoannaMountain}
         abstract: |
             Over the past 500 years, North America has been the site of ongoing mixing of Native Americans, European settlers, and Africans
-(brought largely by the trans-Atlantic slave trade), shaping the early history of what became the United States. We studied the genetic
-ancestry of 5,269 self-described African Americans, 8,663 Latinos, and 148,789 European Americans who are 23andMe customers and
-show that the legacy of these historical interactions is visible in the genetic ancestry of present-day Americans. We document pervasive
-mixed ancestry and asymmetrical male and female ancestry contributions in all groups studied. We show that regional ancestry differences
-reflect historical events, such as early Spanish colonization, waves of immigration from many regions of Europe, and forced relocation
-of Native Americans within the US. This study sheds light on the fine-scale differences in ancestry within and across the United
-States and informs our understanding of the relationship between racial and ethnic identities and genetic ancestry.
+            (brought largely by the trans-Atlantic slave trade), shaping the early history of what became the United States. We studied the genetic
+            ancestry of 5,269 self-described African Americans, 8,663 Latinos, and 148,789 European Americans who are 23andMe customers and
+            show that the legacy of these historical interactions is visible in the genetic ancestry of present-day Americans. We document pervasive
+            mixed ancestry and asymmetrical male and female ancestry contributions in all groups studied. We show that regional ancestry differences
+            reflect historical events, such as early Spanish colonization, waves of immigration from many regions of Europe, and forced relocation
+            of Native Americans within the US. This study sheds light on the fine-scale differences in ancestry within and across the United
+            States and informs our understanding of the relationship between racial and ethnic identities and genetic ancestry.
 
     -   index: 14
         title: >
