@@ -3,6 +3,9 @@ title: Media
 menu: Resources
 order: 300
 ---
+<span class="title">The genetic ancestry of African Americans, Latinos, and European Americans across the United States</span>
+<br/>Think You're All European or African? Most Are Mixed [[discovery][discovery]]
+
 <span class="title">The genetic landscape of the US</span>
 <br/>preprint on Haldane's sieve [[haldane's][haldanes]]
 <br/>noted on Dienekes' blog [[dienekes][dienekes2]]
@@ -11,7 +14,6 @@ order: 300
 by Scott Hadly
 <br/>on the dynamic admixed ancestry in the United States [[blog.23andme.com][23andme]]
 <br/>also picked up on the blog-o-sphere [[dienekes][dienekes]]
-<br/>Think You're All European or African? Most Are Mixed [[discovery][discovery]]
 
 <span class="title">High Cheekbones and Straight Black Hair?</span> 
 by Dr. Henry Louis Gates Jr.
