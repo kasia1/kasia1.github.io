@@ -7,7 +7,7 @@ order: 300
 <br/>"Think You're All European or African? Most Are Mixed" [[discovery][discovery]]
 <br/>"23andMe study sketches genetic portrait of the US" [[medicalxpress][medicalxpress]] [[eurekalert][eurekalert]] [[newswise][newswise]] [[prnewswire][prnewswire]] [[biospace][biospace]] [[eurekalert pub release][eurekalertpub]]
 <br/>"History written in our DNA" [[23andme blog][23andmeblog]]
-"La historia de los Estados Unidos está escrita en su mapa genético" [[agencias](http://www.agenciasinc.es/Noticias/La-historia-de-los-Estados-Unidos-esta-escrita-en-su-mapa-genetico)]
+<br/>"La historia de los Estados Unidos está escrita en su mapa genético" [[agencias](http://www.agenciasinc.es/Noticias/La-historia-de-los-Estados-Unidos-esta-escrita-en-su-mapa-genetico)]
 
 <span class="title">The genetic landscape of the US</span>
 <br/>preprint on Haldane's sieve [[haldane's][haldanes]]
