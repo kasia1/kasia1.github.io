@@ -11,6 +11,7 @@ order: 300
 by Scott Hadly
 <br/>on the dynamic admixed ancestry in the United States [[blog.23andme.com][23andme]]
 <br/>also picked up on the blog-o-sphere [[dienekes][dienekes]]
+<br/>Think You're All European or African? Most Are Mixed [[discovery][discovery]]
 
 <span class="title">High Cheekbones and Straight Black Hair?</span> 
 by Dr. Henry Louis Gates Jr.
@@ -23,6 +24,7 @@ by Dr. Henry Louis Gates Jr.
 <span class="title">Weill Hall dedication video</span>
 <br/>where I talk about my interdisciplinary research at Cornell [[YouTube][weill]]
 
+[discovery]: http://news.discovery.com/human/genetics/think-youre-all-european-or-african-most-are-mixed-141218.htm
 [dienekes2]: http://dienekes.blogspot.com/2014/09/23andme-mega-study-on-different.html
 [haldanes]: http://haldanessieve.org/2014/09/19/the-genetic-ancestry-of-african-latino-and-european-americans-across-the-united-states/
 [weill]: http://www.youtube.com/watch?v=J3uwNFtblxs
