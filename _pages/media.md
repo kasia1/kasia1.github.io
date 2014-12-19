@@ -6,6 +6,8 @@ order: 300
 <span class="title">Press coverage for: The genetic ancestry of African Americans, Latinos, and European Americans across the United States</span>
 <br/>"Genetic study reveals surprising ancestry of many Americans" [[science mag](http://news.sciencemag.org/biology/2014/12/genetic-study-reveals-surprising-ancestry-many-americans)]
 <br/>"23andMe Study Shows Diverse Genetic Ancestry within Three Major US Population Groups" [[genomeweb](https://www.genomeweb.com/genetic-research/23andme-study-shows-diverse-genetic-ancestry-within-three-major-us-population)]
+<br/>"Study Paints Complex Picture of Americans’ Ethnicity" [[voa](http://www.voanews.com/content/study-paints-complex-picture-american-ethnicity/2564901.html)]
+<br/>"The genetic ancestry of the United States, according to 23andMe" [[fast company](http://www.fastcompany.com/3040191/the-genetic-ancestry-of-the-united-states-according-to-23andme)]
 <br/>"Think You're All European or African? Most Are Mixed" [[discovery][discovery]]
 <br/>"23andMe study sketches genetic portrait of the US" [[medicalxpress][medicalxpress]] [[eurekalert][eurekalert]] [[newswise][newswise]] [[prnewswire][prnewswire]] [[biospace][biospace]] [[eurekalert pub release][eurekalertpub]]
 <br/>"History written in our DNA" [[23andme blog][23andmeblog]]
