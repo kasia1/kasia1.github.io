@@ -9,11 +9,13 @@ order: 300
 <br/>"Study Paints Complex Picture of Americans’ Ethnicity" [[voa](http://www.voanews.com/content/study-paints-complex-picture-american-ethnicity/2564901.html)]
 <br/>"The genetic ancestry of the United States, according to 23andMe" [[fast company](http://www.fastcompany.com/3040191/the-genetic-ancestry-of-the-united-states-according-to-23andme)]
 <br/>"Think You're All European or African? Most Are Mixed" [[discovery][discovery]]
+<br/>"Black And White In America: Study Reveals Many Americans Have Mixed Race Background They Were Unaware Of" [[medical daily](http://www.medicaldaily.com/black-and-white-america-study-reveals-many-americans-have-mixed-race-background-they-314920)]
+<br/>"Genetic Ancestry of Americans Varies by Region Across the United States" [[science world report](http://www.scienceworldreport.com/articles/20271/20141219/genetic-ancestry-americans-varies-region-united-states.htm)]
 <br/>"23andMe study sketches genetic portrait of the US" [[medicalxpress][medicalxpress]] [[eurekalert][eurekalert]] [[newswise][newswise]] [[prnewswire][prnewswire]] [[biospace][biospace]] [[eurekalert pub release][eurekalertpub]]
 <br/>"History written in our DNA" [[23andme blog][23andmeblog]]
 <br/>"La historia de los Estados Unidos está escrita en su mapa genético" [[agencias](http://www.agenciasinc.es/Noticias/La-historia-de-los-Estados-Unidos-esta-escrita-en-su-mapa-genetico)]
-<br/>"Genetic ancestry of different ethnic groups varies across the United States" [[all web news](http://www.allwebsolutions.net/science-technology/genetic-ancestry-of-different-ethnic-groups-varies-across-the-united-states/)] [[science daily](http://www.sciencedaily.com/releases/2014/12/141218131409.htm)]
-<br/>"You Can Self-identify With Any Ancestry You Want, But Genetically..." [[science20](http://www.science20.com/news_articles/you_can_selfidentify_with_any_ancestry_you_want_but_genetically-151564)]
+<br/>"Genetic ancestry of different ethnic groups varies across the United States" [[all web news](http://www.allwebsolutions.net/science-technology/genetic-ancestry-of-different-ethnic-groups-varies-across-the-united-states/)] [[science daily](http://www.sciencedaily.com/releases/2014/12/141218131409.htm)][[science codex](http://www.sciencecodex.com/genetic_ancestry_of_different_ethnic_groups_varies_across_the_united_states-147844)]
+<br/>"You Can Self-identify With Any Ancestry You Want, But Genetically..." [[science2.0](http://www.science20.com/news_articles/you_can_selfidentify_with_any_ancestry_you_want_but_genetically-151564)]
 
 <span class="title">The genetic landscape of the US</span>
 <br/>preprint on Haldane's sieve [[haldane's][haldanes]]
