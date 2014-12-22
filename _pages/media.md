@@ -16,6 +16,7 @@ order: 300
 <br/>"La historia de los Estados Unidos está escrita en su mapa genético" [[agencias](http://www.agenciasinc.es/Noticias/La-historia-de-los-Estados-Unidos-esta-escrita-en-su-mapa-genetico)]
 <br/>"Genetic ancestry of different ethnic groups varies across the United States" [[all web news](http://www.allwebsolutions.net/science-technology/genetic-ancestry-of-different-ethnic-groups-varies-across-the-united-states/)] [[science daily](http://www.sciencedaily.com/releases/2014/12/141218131409.htm)][[science codex](http://www.sciencecodex.com/genetic_ancestry_of_different_ethnic_groups_varies_across_the_united_states-147844)]
 <br/>"You Can Self-identify With Any Ancestry You Want, But Genetically..." [[science2.0](http://www.science20.com/news_articles/you_can_selfidentify_with_any_ancestry_you_want_but_genetically-151564)]
+<br/>"Genetic Analysis Reveals the U.S. is Truly a Melting Pot" [[discovermagazine](http://blogs.discovermagazine.com/d-brief/2014/12/19/genetic-melting-pot/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A%20DiscoverTopStories%20%28Discover%20Top%20Stories%29#.VJhK7MAAA)]
 
 <span class="title">The genetic landscape of the US</span>
 <br/>preprint on Haldane's sieve [[haldane's][haldanes]]
