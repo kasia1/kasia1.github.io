@@ -18,8 +18,22 @@ order: 300
 <br/>"You Can Self-identify With Any Ancestry You Want, But Genetically..." [[science2.0](http://www.science20.com/news_articles/you_can_selfidentify_with_any_ancestry_you_want_but_genetically-151564)]
 <br/>"Genetic Analysis Reveals the U.S. is Truly a Melting Pot" [[discovermagazine](http://blogs.discovermagazine.com/d-brief/2014/12/19/genetic-melting-pot/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A%20DiscoverTopStories%20%28Discover%20Top%20Stories%29#.VJhK7MAAA)]
 <br/>"Study: ‘White’ Southerners have more African ancestry than they know" [[vox](http://www.vox.com/2014/12/22/7431391/guess-where-white-americans-have-the-most-african-ancestry)]
+<br/>By Jenee Desmond-Harris December 22, 2014
 <br/>"A lot of Southern whites are a little bit black" [[washington post](http://www.washingtonpost.com/blogs/wonkblog/wp/2014/12/22/a-lot-of-southern-whites-are-a-little-bit-black/)]
+<br/>By Christopher Ingraham  December 22, 2014
 <br/>"Genetic study shows how much America really is a melting pot" [[mashable](http://mashable.com/2014/12/21/americans-mixed-ancestry/)]
+<br/>"White Southerners Likely To Have More Black DNA Than Whites Elsewhere In The US: Study" [[International Business Times](http://www.ibtimes.com/white-southerners-likely-have-more-black-dna-whites-elsewhere-us-study-1765498)]
+<br/>By Suman Varandani December 23, 2014
+<br/>"White Southerners Have More Black DNA Than Whites In Other Parts of US: Study"[[West Texas News](http://wtexas.com/content/14121420-white-southerners-have-more-black-dna-whites-other-parts-us)]
+<br/>By Leah Gardiner December 23, 2014
+<br/>"Southern Whites Have More Black DNA Than Whites In The Rest Of US: Study"[[Raw Story](http://www.rawstory.com/rs/2014/12/southern-whites-have-more-black-dna-than-whites-in-the-rest-of-us-study/)]
+<br/>By David Edwards December 22, 2014
+<br/>"Study Proves Southern White People Have More Black DNA Than Those In The Rest Of The U.S" [[The Grio](http://thegrio.com/2014/12/22/study-southern-white-people-more-black-dna/)]
+<br/>By Blue Telusma December 22, 2014
+<br/>"America Really Is A “Melting Pot,” Study Says" [[Red Orbit](http://www.redorbit.com/news/science/1113303795/america-really-is-a-melting-pot-study-says-122214/)]
+<br/>By John Hopton December 22, 2014
+<br/>"Study: Many Self-Identified White People Have Some African Ancestry" [[UPI](http://www.upi.com/Science_News/2014/12/22/Study-Many-self-identified-white-people-have-some-African-ancestry/5941419305079/)]
+<br/>By Thor Benson December 22, 2014
 
 <span class="title">The genetic landscape of the US</span>
 <br/>preprint on Haldane's sieve [[haldane's][haldanes]]
