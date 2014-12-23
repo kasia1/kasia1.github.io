@@ -30,6 +30,8 @@ order: 300
 <br/>[[science2.0](http://www.science20.com/news_articles/you_can_selfidentify_with_any_ancestry_you_want_but_genetically-151564)]
 <br/>- **Genetic Analysis Reveals the U.S. is Truly a Melting Pot**
 <br/>[[discovermagazine](http://blogs.discovermagazine.com/d-brief/2014/12/19/genetic-melting-pot/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A%20DiscoverTopStories%20%28Discover%20Top%20Stories%29#.VJhK7MAAA)]
+<br/>- **New Genetic Study Unravels Complex Ethnicity of Americans**  
+[[tech times](http://www.techtimes.com/articles/22644/20141221/new-genetic-study-unravels-complex-ethnicity-americans.htm)] By Dianne Depra December 21,2014
 <br/>- **Study: ‘White’ Southerners have more African ancestry than they know**
 <br/>[[vox](http://www.vox.com/2014/12/22/7431391/guess-where-white-americans-have-the-most-african-ancestry)] By Jenee Desmond-Harris December 22, 2014
 <br/>- **A lot of Southern whites are a little bit black**
