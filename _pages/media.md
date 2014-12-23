@@ -5,15 +5,15 @@ order: 300
 ---
 <span class="title">Press coverage for: The genetic ancestry of African Americans, Latinos, and European Americans across the United States</span>
 <br/>"Genetic study reveals surprising ancestry of many Americans"
-<br/>[[science mag](http://news.sciencemag.org/biology/2014/12/genetic-study-reveals-surprising-ancestry-many-americans)]
+<br/>[[science mag](http://news.sciencemag.org/biology/2014/12/genetic-study-reveals-surprising-ancestry-many-americans)] By Lizzie Wade December 18, 2014
 <br/>"23andMe Study Shows Diverse Genetic Ancestry within Three Major US Population Groups" 
-<br/>[[genomeweb](https://www.genomeweb.com/genetic-research/23andme-study-shows-diverse-genetic-ancestry-within-three-major-us-population)]
+<br/>[[genomeweb](https://www.genomeweb.com/genetic-research/23andme-study-shows-diverse-genetic-ancestry-within-three-major-us-population)] By Julia Karow Dec 18, 2014
 <br/>"Study Paints Complex Picture of Americans’ Ethnicity" 
-<br/>[[voa](http://www.voanews.com/content/study-paints-complex-picture-american-ethnicity/2564901.html)]
-<br/>"The genetic ancestry of the United States, according to 23andMe"
-<br/>[[fast company](http://www.fastcompany.com/3040191/the-genetic-ancestry-of-the-united-states-according-to-23andme)]
+<br/>[[voa](http://www.voanews.com/content/study-paints-complex-picture-american-ethnicity/2564901.html)] By Art Chimes December 18, 2014
 <br/>"Think You're All European or African? Most Are Mixed"
-<br/>[[discovery][discovery]]
+<br/>[[discovery][discovery]]  By Jennifer Viegas December 18, 2014
+<br/>"The genetic ancestry of the United States, according to 23andMe"
+<br/>[[fast company](http://www.fastcompany.com/3040191/the-genetic-ancestry-of-the-united-states-according-to-23andme)] By Chris Gayomali December 19, 2014
 <br/>"Black And White In America: Study Reveals Many Americans Have Mixed Race Background They Were Unaware Of"
 <br/>[[medical daily](http://www.medicaldaily.com/black-and-white-america-study-reveals-many-americans-have-mixed-race-background-they-314920)]
 <br/>"Genetic Ancestry of Americans Varies by Region Across the United States"
