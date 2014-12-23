@@ -563,7 +563,7 @@ publications:
         journal: *genomeresearch
         date: 2009-05-01
         authors:
-            -   name: Auton, A
+            -   name: A Auton
             -   {name: K Bryc, person: *KasiaBryc}
             -   name: AR Boyko
             -   name: K Lohmueller
