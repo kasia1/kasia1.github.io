@@ -50,6 +50,14 @@ order: 300
 <br/>[[International Business Times](http://www.ibtimes.com/white-southerners-likely-have-more-black-dna-whites-elsewhere-us-study-1765498)] By Suman Varandani December 23, 2014
 <br/>- **White Southerners Have More Black DNA Than Whites In Other Parts of US: Study**
 <br/>[[West Texas News](http://wtexas.com/content/14121420-white-southerners-have-more-black-dna-whites-other-parts-us)] By Leah Gardiner December 23, 2014
+<br/>- **White? Black? A Murky Distinction Grows Still Murkier**
+<br/>[[NY Times](http://www.nytimes.com/2014/12/25/science/23andme-genetic-ethnicity-study.html)] By Carl Zimmer December 24, 2014
+<br/>- **American Racial Boundaries Are Quite Distinct (For Now)**
+<br/>[[unz](http://www.unz.com/gnxp/american-racial-boundaries-are-quite-distinct-for-now/)] By Razib Khan December 25, 2014
+<br/>- **NYT: "White? Black? A Murky Distinction Grows Still Murkier"**
+<br/>[[unz](http://www.unz.com/isteve/nyt-white-black-a-murky-distinction-grows-still-murkier/?utm_source=feedly&utm_reader=feedly&utm_medium=rss&utm_campaign=nyt-white-black-a-murky-distinction-grows-still-murkier)] By Steve Sailer • December 24, 2014
+
+
 
 <span class="title">The genetic landscape of the US</span>
 <br/>preprint on Haldane's sieve [[haldane's][haldanes]]
