@@ -5,15 +5,15 @@ order: 300
 ---
 <span class="title">Press coverage for: The genetic ancestry of African Americans, Latinos, and European Americans across the United States</span> [[paper metrics](http://www.altmetric.com/details.php?domain=www.cell.com&citation_id=2996515)]
 <br/>- **Genetic study reveals surprising ancestry of many Americans**
-<br/>[[science mag](http://news.sciencemag.org/biology/2014/12/genetic-study-reveals-surprising-ancestry-many-americans)] By Lizzie Wade December 18, 2014
+<br/>[[science mag](http://news.sciencemag.org/biology/2014/12/genetic-study-reveals-surprising-ancestry-many-americans)] By Lizzie Wade • December 18, 2014
 <br/>- **23andMe Study Shows Diverse Genetic Ancestry within Three Major US Population Groups** 
-<br/>[[genomeweb](https://www.genomeweb.com/genetic-research/23andme-study-shows-diverse-genetic-ancestry-within-three-major-us-population)] By Julia Karow Dec 18, 2014
+<br/>[[genomeweb](https://www.genomeweb.com/genetic-research/23andme-study-shows-diverse-genetic-ancestry-within-three-major-us-population)] By Julia Karow • December 18, 2014
 <br/>- **Study Paints Complex Picture of Americans’ Ethnicity** 
-<br/>[[voa](http://www.voanews.com/content/study-paints-complex-picture-american-ethnicity/2564901.html)] By Art Chimes December 18, 2014
+<br/>[[voa](http://www.voanews.com/content/study-paints-complex-picture-american-ethnicity/2564901.html)] By Art Chimes • December 18, 2014
 <br/>- **Think You're All European or African? Most Are Mixed**
 <br/>[[discovery][discovery]]  By Jennifer Viegas December 18, 2014
 <br/>- **The genetic ancestry of the United States, according to 23andMe**
-<br/>[[fast company](http://www.fastcompany.com/3040191/the-genetic-ancestry-of-the-united-states-according-to-23andme)] By Chris Gayomali December 19, 2014
+<br/>[[fast company](http://www.fastcompany.com/3040191/the-genetic-ancestry-of-the-united-states-according-to-23andme)] By Chris Gayomali • December 19, 2014
 <br/>- **Black And White In America: Study Reveals Many Americans Have Mixed Race Background They Were Unaware Of**
 <br/>[[medical daily](http://www.medicaldaily.com/black-and-white-america-study-reveals-many-americans-have-mixed-race-background-they-314920)]
 <br/>- **Genetic Ancestry of Americans Varies by Region Across the United States**
@@ -21,7 +21,7 @@ order: 300
 <br/>- **23andMe study sketches genetic portrait of the US** 
 <br/>[[medicalxpress][medicalxpress]] [[eurekalert][eurekalert]] [[newswise][newswise]] [[prnewswire][prnewswire]] [[biospace][biospace]] [[eurekalert pub release][eurekalertpub]]
 <br/>- **History written in our DNA**
-<br/>[[23andme blog][23andmeblog]] By Scott Hadly December 18, 2014
+<br/>[[23andme blog][23andmeblog]] By Scott Hadly • December 18, 2014
 <br/>- **La historia de los Estados Unidos está escrita en su mapa genético** 
 <br/>[[agencias](http://www.agenciasinc.es/Noticias/La-historia-de-los-Estados-Unidos-esta-escrita-en-su-mapa-genetico)]
 <br/>- **Genetic ancestry of different ethnic groups varies across the United States**
@@ -31,29 +31,29 @@ order: 300
 <br/>- **Genetic Analysis Reveals the U.S. is Truly a Melting Pot**
 <br/>[[discovermagazine](http://blogs.discovermagazine.com/d-brief/2014/12/19/genetic-melting-pot/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A%20DiscoverTopStories%20%28Discover%20Top%20Stories%29#.VJhK7MAAA)]
 <br/>- **New Genetic Study Unravels Complex Ethnicity of Americans**  
-[[tech times](http://www.techtimes.com/articles/22644/20141221/new-genetic-study-unravels-complex-ethnicity-americans.htm)] By Dianne Depra December 21,2014
+[[tech times](http://www.techtimes.com/articles/22644/20141221/new-genetic-study-unravels-complex-ethnicity-americans.htm)] By Dianne Depra • December 21,2014
 <br/>- **Study: ‘White’ Southerners have more African ancestry than they know**
-<br/>[[vox](http://www.vox.com/2014/12/22/7431391/guess-where-white-americans-have-the-most-african-ancestry)] By Jenee Desmond-Harris December 22, 2014
+<br/>[[vox](http://www.vox.com/2014/12/22/7431391/guess-where-white-americans-have-the-most-african-ancestry)] By Jenee Desmond-Harris • December 22, 2014
 <br/>- **A lot of Southern whites are a little bit black**
-<br/>[[washington post](http://www.washingtonpost.com/blogs/wonkblog/wp/2014/12/22/a-lot-of-southern-whites-are-a-little-bit-black/)] By Christopher Ingraham  December 22, 2014
+<br/>[[washington post](http://www.washingtonpost.com/blogs/wonkblog/wp/2014/12/22/a-lot-of-southern-whites-are-a-little-bit-black/)] By Christopher Ingraham  • December 22, 2014
 <br/>- **Genetic study shows how much America really is a melting pot**
 <br/>[[mashable](http://mashable.com/2014/12/21/americans-mixed-ancestry/)]
 <br/>- **Southern Whites Have More Black DNA Than Whites In The Rest Of US: Study**
-<br/>[[Raw Story](http://www.rawstory.com/rs/2014/12/southern-whites-have-more-black-dna-than-whites-in-the-rest-of-us-study/)] By David Edwards December 22, 2014
+<br/>[[Raw Story](http://www.rawstory.com/rs/2014/12/southern-whites-have-more-black-dna-than-whites-in-the-rest-of-us-study/)] By David Edwards • December 22, 2014
 <br/>- **Study Proves Southern White People Have More Black DNA Than Those In The Rest Of The U.S** 
-<br/>[[The Grio](http://thegrio.com/2014/12/22/study-southern-white-people-more-black-dna/)] By Blue Telusma December 22, 2014
+<br/>[[The Grio](http://thegrio.com/2014/12/22/study-southern-white-people-more-black-dna/)] By Blue Telusma • December 22, 2014
 <br/>- **America Really Is A “Melting Pot,” Study Says** 
-<br/>[[Red Orbit](http://www.redorbit.com/news/science/1113303795/america-really-is-a-melting-pot-study-says-122214/)] By John Hopton December 22, 2014
+<br/>[[Red Orbit](http://www.redorbit.com/news/science/1113303795/america-really-is-a-melting-pot-study-says-122214/)] By John Hopton • December 22, 2014
 <br/>- **Study: Many Self-Identified White People Have Some African Ancestry** 
-<br/>[[UPI](http://www.upi.com/Science_News/2014/12/22/Study-Many-self-identified-white-people-have-some-African-ancestry/5941419305079/)] By Thor Benson December 22, 2014
+<br/>[[UPI](http://www.upi.com/Science_News/2014/12/22/Study-Many-self-identified-white-people-have-some-African-ancestry/5941419305079/)] By Thor Benson • December 22, 2014
 <br/>- **White Southerners Likely To Have More Black DNA Than Whites Elsewhere In The US: Study**
-<br/>[[International Business Times](http://www.ibtimes.com/white-southerners-likely-have-more-black-dna-whites-elsewhere-us-study-1765498)] By Suman Varandani December 23, 2014
+<br/>[[International Business Times](http://www.ibtimes.com/white-southerners-likely-have-more-black-dna-whites-elsewhere-us-study-1765498)] By Suman Varandani • December 23, 2014
 <br/>- **White Southerners Have More Black DNA Than Whites In Other Parts of US: Study**
-<br/>[[West Texas News](http://wtexas.com/content/14121420-white-southerners-have-more-black-dna-whites-other-parts-us)] By Leah Gardiner December 23, 2014
+<br/>[[West Texas News](http://wtexas.com/content/14121420-white-southerners-have-more-black-dna-whites-other-parts-us)] By Leah Gardiner • December 23, 2014
 <br/>- **White? Black? A Murky Distinction Grows Still Murkier**
-<br/>[[NY Times](http://www.nytimes.com/2014/12/25/science/23andme-genetic-ethnicity-study.html)] By Carl Zimmer December 24, 2014
+<br/>[[NY Times](http://www.nytimes.com/2014/12/25/science/23andme-genetic-ethnicity-study.html)] By Carl Zimmer • December 24, 2014
 <br/>- **American Racial Boundaries Are Quite Distinct (For Now)**
-<br/>[[unz](http://www.unz.com/gnxp/american-racial-boundaries-are-quite-distinct-for-now/)] By Razib Khan December 25, 2014
+<br/>[[unz](http://www.unz.com/gnxp/american-racial-boundaries-are-quite-distinct-for-now/)] By Razib Khan • December 25, 2014
 <br/>- **NYT: "White? Black? A Murky Distinction Grows Still Murkier"**
 <br/>[[unz](http://www.unz.com/isteve/nyt-white-black-a-murky-distinction-grows-still-murkier/?utm_source=feedly&utm_reader=feedly&utm_medium=rss&utm_campaign=nyt-white-black-a-murky-distinction-grows-still-murkier)] By Steve Sailer • December 24, 2014
 
