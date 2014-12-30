@@ -62,5 +62,8 @@
     {% assign altmetric_url = include.article.urls[0].url %}
     <li>{% include altmetric_badge uri=altmetric_url %}</li>
 {% endif %}
+{% if publication %}
+<li>{% include altmetric_badge doi=publication.doi %}</li>
+{% endif %}
 
 {% assign publication = nil %}
