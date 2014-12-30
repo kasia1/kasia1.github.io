@@ -59,7 +59,8 @@
 </li>
 {% endif %}
 {% if publication %}
-<li>{% include altmetric_badge doi=publication.doi %}</li>
+<li class="altmetric">{% include altmetric_badge doi=publication.doi %}</li>
 {% endif %}
+<li>foobaR</li>
 
 {% assign publication = nil %}
