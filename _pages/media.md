@@ -12,8 +12,6 @@ order: 300
 <br/>[[voa](http://www.voanews.com/content/study-paints-complex-picture-american-ethnicity/2564901.html)] By Art Chimes • December 18, 2014
 <br/>- **Think You're All European or African? Most Are Mixed**
 <br/>[[discovery][discovery]]  By Jennifer Viegas December 18, 2014
-<br/>- **The genetic ancestry of the United States, according to 23andMe**
-<br/>[[fast company](http://www.fastcompany.com/3040191/the-genetic-ancestry-of-the-united-states-according-to-23andme)] By Chris Gayomali • December 19, 2014
 <br/>- **Black And White In America: Study Reveals Many Americans Have Mixed Race Background They Were Unaware Of**
 <br/>[[medical daily](http://www.medicaldaily.com/black-and-white-america-study-reveals-many-americans-have-mixed-race-background-they-314920)]
 <br/>- **Genetic Ancestry of Americans Varies by Region Across the United States**
@@ -30,6 +28,10 @@ order: 300
 <br/>[[science2.0](http://www.science20.com/news_articles/you_can_selfidentify_with_any_ancestry_you_want_but_genetically-151564)]
 <br/>- **Genetic Analysis Reveals the U.S. is Truly a Melting Pot**
 <br/>[[discovermagazine](http://blogs.discovermagazine.com/d-brief/2014/12/19/genetic-melting-pot/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A%20DiscoverTopStories%20%28Discover%20Top%20Stories%29#.VJhK7MAAA)]
+<br/>- **The ethnic maps of America: Researchers reveal where those with African American, Latino, and European American heritage are most likely to live**
+<br/>[[dailymail.co.uk](http://www.dailymail.co.uk/sciencetech/article-2881198/The-ethnic-map-America-Researchers-reveal-African-Americans-Latinos-European-American-heritage-likely-live.html)] By Mark Prigg • December 19, 2014
+<br/>- **The genetic ancestry of the United States, according to 23andMe**
+<br/>[[fast company](http://www.fastcompany.com/3040191/the-genetic-ancestry-of-the-united-states-according-to-23andme)] By Chris Gayomali • December 19, 2014
 <br/>- **New Genetic Study Unravels Complex Ethnicity of Americans**  
 [[tech times](http://www.techtimes.com/articles/22644/20141221/new-genetic-study-unravels-complex-ethnicity-americans.htm)] By Dianne Depra • December 21,2014
 <br/>- **Study: ‘White’ Southerners have more African ancestry than they know**
