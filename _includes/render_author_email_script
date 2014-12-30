@@ -1,0 +1,8 @@
+{% if page.scripts contains 'render_author_email' %}
+    <script type='text/javascript'> 
+        $(document).ready(function(){
+            $('#email').prop('href', 'mailto:{{ site.author.email | url_escape }}');
+            $('#email').text('{{ site.author.email }}');
+        } );
+    </script>
+{% endif %}

@@ -1,7 +1,5 @@
 ---
-title: Media
-menu: Resources
-order: 300
+title: Media (old)
 ---
 <span class="title">Press coverage for: The genetic ancestry of African Americans, Latinos, and European Americans across the United States</span> [[paper metrics](http://www.altmetric.com/details.php?domain=www.cell.com&citation_id=2996515)]
 <br/>- **Genetic study reveals surprising ancestry of many Americans**

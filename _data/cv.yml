@@ -109,12 +109,13 @@ publications:
             -   label: paper
                 url: http://www.cell.com/ajhg/pdf/S0002-9297(14)00476-5.pdf
         journal: *ajhg
+        doi: 10.1016/j.ajhg.2014.11.010
         date: 2014-12-18
         authors:
             -   {name: Bryc K,     person: *KasiaBryc}
-            -   {name: Durand EY,   person: *EricDurand}
+            -   {name: Durand EY,  person: *EricDurand}
             -   {name: Macpherson M}
-            -   {name: Reich D,   person: *DavidReich}
+            -   {name: Reich D,    person: *DavidReich}
             -   {name: Mountain J, person: *JoannaMountain}
         abstract: |
             Over the past 500 years, North America has been the site of ongoing mixing of Native Americans, European settlers, and Africans
@@ -134,6 +135,7 @@ publications:
             -   label: paper
                 url: http://www.sciencedirect.com/science/article/pii/S0040580913000701
         journal: *tpb
+        doi: 10.1016/j.tpb.2013.08.004
         date: 2013-08-20
         authors:    &tpb2013authors
             -   {name: Bryc K, person: *KasiaBryc}
@@ -155,6 +157,7 @@ publications:
             -   label: paper
                 url: http://www.genetics.org/content/195/2/553.abstract
         journal: *genetics
+        doi: 10.1534/genetics.113.154500
         date: 2013-08-09
         authors:
             -   {name: Bryc K,      person: *KasiaBryc}
@@ -194,6 +197,7 @@ publications:
             -   label: paper
                 url: http://digitalcommons.wayne.edu/humbiol/vol84/iss4/5/
         journal: *humanbiology
+        doi: 10.3378/027.084.0401
         date: 2012-08-01
         strftime: '%Y %b'
         authors:
@@ -233,6 +237,7 @@ publications:
             -   label: paper
                 url: http://www.sciencedirect.com/science/article/pii/S0002929712004661
         journal: *ajhg
+        doi: 10.1016/j.ajhg.2012.08.025
         date: 2012-10-05
         authors:
             -   name: Kidd JM
@@ -298,6 +303,7 @@ publications:
             -   label: paper
                 url: http://www.ncbi.nlm.nih.gov/pubmed/22936568
         journal: *science
+        doi: 10.1126/science.1224344
         date: 2012-10-12
         authors:
             -   name: Meyer M
@@ -353,6 +359,7 @@ publications:
             -   label: paper
                 url: http://www.ncbi.nlm.nih.gov/pubmed/21738600
         journal: *plosone
+        doi: 10.1371/journal.pone.0021014
         date: 2011-06-28
         authors:
             -   name: Gao H
@@ -377,6 +384,7 @@ publications:
             -   label: paper
                 url: http://genomebiology.com/2010/11/S1/O4
         journal: *genomebiology
+        doi: 10.1186/gb-2010-11-s1-o4
         date: 2010-10-11
         authors:
             -   name: De La Vega FM
@@ -411,6 +419,7 @@ publications:
             -   label: paper
                 url: http://www.pnas.org/content/107/suppl.2/8954.full
         journal: *pnas
+        doi: 10.1073/pnas.0914618107
         date: 2010-05-01
         strftime: '%Y %b'
         authors:
@@ -456,6 +465,7 @@ publications:
             -   label: paper
                 url: http://www.nature.com/nature/journal/v464/n7290/full/nature08837.html
         journal: *nature
+        doi: 10.1038/nature08837
         date: 2010-03-01
         strftime: '%Y %b'
         authors:
@@ -518,6 +528,7 @@ publications:
             -   label: paper
                 url: http://www.pnas.org/content/early/2009/12/10/0909559107.abstract
         journal: *pnas
+        doi: 10.1073/pnas.0909559107
         date: 2010-01-01
         strftime: '%Y %b'
         authors:    &pnas2010authors
@@ -561,6 +572,7 @@ publications:
             -   label: paper
                 url: http://genome.cshlp.org/content/early/2009/02/12/gr.088898.108.full.pdf
         journal: *genomeresearch
+        doi: 10.1101/gr.088898.108
         date: 2009-05-01
         authors:
             -   name: A Auton
@@ -603,6 +615,7 @@ publications:
             -   label: paper
                 url: http://www.sciencemag.org/cgi/content/full/324/5926/528
         journal: *science
+        doi: 10.1126/science.1167936
         date: 2009-04-24
         authors:
             -   name: Bovine HapMap Consortium
@@ -626,6 +639,7 @@ publications:
             -   label: paper
                 url: http://www.nature.com/nature/journal/vaop/ncurrent/pdf/nature07331.pdf
         journal: *nature
+        doi: 10.1038/nature07331
         date: 2008-08-31
         authors:
             -   name: Novembre J
@@ -667,6 +681,7 @@ publications:
             -   label: paper
                 url: http://www.ncbi.nlm.nih.gov/pubmed/18760391
         journal: *ajhg
+        doi: 10.1016/j.ajhg.2008.08.005
         date: 2008-08-27
         authors:
             -   name: Nelson MR

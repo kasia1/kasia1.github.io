@@ -2,6 +2,7 @@
 title: Publications
 group: navigation
 order: 200
+scripts: [ altmetric, expand_collapse_toggle ]
 ---
 Or find me on [Google][google] and [PubMed][pubmed]
 
@@ -38,7 +39,7 @@ Or find me on [Google][google] and [PubMed][pubmed]
         {% endif %}
     {% endif %}
 
-            <div class="citation">
+            <div class="citation" id="{{ paper.index }}">
                 <ul>
                     <li class="title">{{ paper.title }}</li>
                 </ul>
@@ -57,6 +58,7 @@ Or find me on [Google][google] and [PubMed][pubmed]
                     {% for link in paper.urls %}
                         <li>[<a href="{{ link.url }}">{{ link.label }}</a>]</li>
                     {% endfor %}
+                    <li>{% include altmetric_badge doi=paper.doi %}</li>
                 </ul>
                 {% if paper.abstract %}
                 <ul class="abstract">

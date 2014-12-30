@@ -35,9 +35,38 @@ a { color: #990000; }
 /* Formatting for publications */
 div.citation { margin: 1rem 0 1rem 6.5rem; }
 .citation ul { display: block; list-style-type: none; margin: 0; padding: 0; line-height: 1.3em; }
-.citation li { display: inline; }
+.citation li { display: inline-block; }
 .citation .authors li:after { content: ", "; }
 .citation .authors li:last-child:after { content: "."; }
 .citation ul.authors { margin: 0.2rem 0 0.2rem 0; }
 .citation li.journal:after { content: ". "; }
 .citation .abstract .content { display: none; line-height: 1.3em; }
+
+/* Formatting for media articles */
+.articles ul.article { list-style-type: none; padding: 0; padding-bottom: 1rem;}
+.articles ul.article > li { display: inline-block; }
+.articles ul.article ul.showhide { list-style-type: none; padding: 0;}
+.articles ul.article li.title, li.children { display: block; }
+.articles ul.article li.children { display: block; }
+.articles ul.article ul.children { list-style-type: circle; }
+.articles ul.article li.content { display: none; }
+
+.articles ul.children ul.article { padding-left: 0; padding-bottom: 0.5rem; }
+.articles ul.children ul.article li:last-child { padding-bottom: 0; }
+.articles ul.children li.title { font-size: 15px; }
+
+.articles ul.article ul.authors li:first-child:before { content: "by "; }
+.articles li.date:before { content: "on ";}
+
+.articles ul.journals { padding-left: 0; }
+.articles ul.journals li { display: inline-block; }
+.articles ul.journals li:first-child:before { }
+.articles ul.journals li:before { content: "["; }
+.articles ul.journals li:after { content: "]"; }
+
+ul.semantic-list { padding-left: 0; }
+ul.semantic-list li { display: inline-block; }
+ul.semantic-list li:after { content: ", "; }
+ul.semantic-list li:nth-last-child(2):after { content: " and "; }
+ul.semantic-list li:last-child:after { content: ""; }
+

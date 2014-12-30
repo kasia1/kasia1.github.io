@@ -2,6 +2,7 @@
 title: Contact
 group: navigation
 order: 999
+scripts: render_author_email
 ---
 <div class="title">Mail</div>
 Kasia Bryc<br/>

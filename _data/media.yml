@@ -1,0 +1,328 @@
+journals:
+    -   &science
+        Science
+
+    -   &genomeweb
+        GenomeWeb
+
+    -   &discovery
+        Discovery
+
+    -   &discover
+        Discover
+
+    -   &voa
+        Voice of America
+
+    -   &fastcompany
+        Fast Company
+
+    -   &23andmeblog
+        23andMe Blog
+
+    -   &vox
+        Vox
+
+    -   &washingtonpost
+        Washington Post
+
+    -   &upi
+        UPI
+
+    -   &ibt
+        International Business Times
+
+    -   &theroot
+        The Root
+
+    -   &youtube
+        YouTube
+
+people:
+    -   &HenryLouisGates
+        name: Dr. Henry Louis Gates Jr.
+
+    -   &ScottHadly
+        name: Scott Hadly
+
+articles:
+    -   publication: 
+            index: 15
+        date: 2014-12-18
+        articles:
+        -   title: >
+                Genetic study reveals surprising ancestry of many Americans
+            date: 2014-12-18
+            authors: 
+                -   name: Lizzie Wade
+                -   name: CHANGE ME
+            urls:
+                -   label: *science
+                    url: http://news.sciencemag.org/biology/2014/12/genetic-study-reveals-surprising-ancestry-many-americans
+
+        -   title: >
+                23andMe Study Shows Diverse Genetic Ancestry within Three Major US Population Groups
+            date: 2014-12-18
+            authors:
+                -   name: Julia Karow
+            urls:
+                -   label:  *genomeweb 
+                    url: http://www.genomeweb.com/genetic-research/23andme-study-shows-diverse-genetic-ancestry-within-three-major-us-population 
+
+        -   title: >
+                Study Paints Complex Picture of Americans’ Ethnicity
+            date: 2014-12-18
+            authors:
+                -   name: Art Chimes
+            urls:
+                -   label:  *voa
+                    url: http://www.voanews.com/content/study-paints-complex-picture-american-ethnicity/2564901.html
+
+        -   title: >
+                Think You're All European or African? Most Are Mixed
+            date: 2014-12-18
+            authors:
+                -   name: Jennifer Viegas
+            urls:
+                -   label: *discovery
+                    url: http://news.discovery.com/human/genetics/think-youre-all-european-or-african-most-are-mixed-141218.htm
+                -   label:  mashable
+                    url: http://mashable.com/2014/12/21/americans-mixed-ancestry/
+
+        -   title: >
+                The genetic ancestry of the United States, according to 23andMe
+            date: 2014-12-19
+            authors:
+                -   name: Chris Gayomali
+            urls:
+                -   label: *fastcompany
+                    url: http://www.fastcompany.com/3040191/the-genetic-ancestry-of-the-united-states-according-to-23andme
+
+        -   title: >
+                Black And White In America: Study Reveals Many Americans Have Mixed Race Background They Were Unaware Of
+            date: 2014-12-18
+            authors:
+                -   name: Dana Dovey
+            urls:
+                -   label:  Medical Daily
+                    url: http://www.medicaldaily.com/black-and-white-america-study-reveals-many-americans-have-mixed-race-background-they-314920
+
+        -   title: >
+                Genetic Ancestry of Americans Varies by Region Across the United States
+            date: 2014-12-19 07:26
+            authors:
+                -   name: Catherine Griffin
+            urls:
+                -   label: Science World Report
+                    url: http://www.scienceworldreport.com/articles/20271/20141219/genetic-ancestry-americans-varies-region-united-states.htm
+
+        -   title: >
+                23andMe study sketches genetic portrait of the US
+            date: 2014-12-18
+            authors:
+                -   name: Jackie Kahn
+            urls:
+                -   label:  EurekAlert
+                    url: http://www.eurekalert.org/pub_releases/2014-12/epr-2ss121814.php
+                -   label:  Newswise
+                    url: http://www.newswise.com/articles/23andme-study-sketches-genetic-portrait-of-the-united-states
+                -   label:  PR Newswire
+                    url: http://www.prnewswire.com/news-releases/23andme-study-sketches-genetic-portrait-of-the-united-states-300011931.html
+                -   label:  BioSpace
+                    url: http://www.biospace.com/news_story.aspx?StoryID=358782
+                -   label:  Medical Xpress
+                    url: http://medicalxpress.com/news/2014-12-23andme-genetic-portrait.html
+
+        -   title: >
+                History written in our DNA
+            date: 2014-12-18
+            authors:
+                -   *ScottHadly
+            urls:
+                -   label:  *23andmeblog
+                    url: http://blog.23andme.com/23andme-research/history-written-in-our-dna/
+
+        -   title: >
+                La historia de los Estados Unidos está escrita en su mapa genético
+            date: 2014-12-18
+            urls:
+                -   label: Agencias
+                    url: http://www.agenciasinc.es/Noticias/La-historia-de-los-Estados-Unidos-esta-escrita-en-su-mapa-genetico
+
+        -   title: >
+                Genetic ancestry of different ethnic groups varies across the United States
+            date: 2014-12-18 17:31
+            urls:
+                -   label:  Science Codex
+                    url: http://www.sciencecodex.com/genetic_ancestry_of_different_ethnic_groups_varies_across_the_united_states-147844
+                -   label:  All Web News
+                    url: http://www.allwebsolutions.net/science-technology/genetic-ancestry-of-different-ethnic-groups-varies-across-the-united-states/
+                -   label:  Science Daily
+                    url: http://www.sciencedaily.com/releases/2014/12/141218131409.htm
+
+        -   title: >
+                You Can Self-identify With Any Ancestry You Want, But Genetically...
+            date: 2014-12-18 13:56
+            urls:
+                -   label:  Science 2.0
+                    url: http://www.science20.com/news_articles/you_can_selfidentify_with_any_ancestry_you_want_but_genetically-151564
+
+        -   title: >
+                Genetic Analysis Reveals the U.S. is Truly a Melting Pot
+            date: 2014-12-19
+            authors:
+                -   name: Carl Engelking
+            urls:
+                -   label: *discover
+                    url: http://blogs.discovermagazine.com/d-brief/2014/12/19/genetic-melting-pot/
+
+        -   title: >
+                New Genetic Study Unravels Complex Ethnicity of Americans
+            date: 2014-12-21
+            authors:
+                -   name: Dianne Depra
+            urls:
+                -   label: Tech Times
+                    url: http://www.techtimes.com/articles/22644/20141221/new-genetic-study-unravels-complex-ethnicity-americans.htm
+
+        -   title: >
+                Study: ‘White’ Southerners have more African ancestry than they know
+            date: 2014-12-22
+            authors:
+                -   name: Jenee Desmond-Harris
+            urls:
+                -   label:  *vox
+                    url: http://www.vox.com/2014/12/22/7431391/guess-where-white-americans-have-the-most-african-ancestry
+
+        -   title: >
+                A lot of Southern whites are a little bit black
+            date: 2014-12-22
+            authors:
+                -   name: Christopher Ingraham
+            urls:
+                -   label: *washingtonpost
+                    url: http://www.washingtonpost.com/blogs/wonkblog/wp/2014/12/22/a-lot-of-southern-whites-are-a-little-bit-black/
+
+        -   title: >
+                Southern Whites Have More Black DNA Than Whites In The Rest Of US
+            date: 2014-12-22
+            authors:
+                -   name: David Edwards
+            urls:
+                -   label:  Raw Story
+                    url: http://www.rawstory.com/rs/2014/12/southern-whites-have-more-black-dna-than-whites-in-the-rest-of-us-study/
+
+        -   title: >
+                Study Proves Southern White People Have More Black DNA Than Those In The Rest Of The U.S
+            date: 2014-12-22
+            authors:
+                -   name: Blue Telusma
+            urls:
+                -   label:  theGrio
+                    url: http://thegrio.com/2014/12/22/study-southern-white-people-more-black-dna/
+
+        -   title: >
+                America Really Is A “Melting Pot,” Study Says
+            date: 2014-12-22
+            authors:
+                -   name: John Hopton
+            urls:
+                -   label:  redOrbit
+                    url: http://www.redorbit.com/news/science/1113303795/america-really-is-a-melting-pot-study-says-122214
+
+        -   title: >
+                Study: Many Self-Identified White People Have Some African Ancestry
+            date: 2014-12-22
+            authors:
+                -   name: Thor Benson
+            urls:
+                -   label:  *upi
+                    url: http://www.upi.com/Science_News/2014/12/22/Study-Many-self-identified-white-people-have-some-African-ancestry/5941419305079/
+
+        -   title: >
+                White Southerners Likely To Have More Black DNA Than Whites Elsewhere In The US: Study
+            date: 2014-12-23
+            authors:
+                -   name: Suman Varandani
+            urls:
+                -   label: *ibt
+                    url: http://www.ibtimes.com/white-southerners-likely-have-more-black-dna-whites-elsewhere-us-study-1765498
+
+        -   title: >
+                White Southerners Have More Black DNA Than Whites In Other Parts of US: Study
+            date: 2014-12-23
+            authors:
+                -   name: Leah Gardiner
+            urls:
+                -   label: West Texas News
+                    url: http://wtexas.com/content/14121420-white-southerners-have-more-black-dna-whites-other-parts-us
+
+        -   title: >
+                White? Black? A Murky Distinction Grows Still Murkier
+            date: 2014-12-24
+            authors:
+                -   name: Carl Zimmer
+            urls:
+                -   label: New York Times
+                    url: http://www.nytimes.com/2014/12/25/science/23andme-genetic-ethnicity-study.html
+
+        -   title: >
+                The genetic ancestry of African, Latino, and European Americans across the United States.
+            subtitle: discussion of preprint
+            date: 2014-09-19
+            urls:
+                -   label:  Haldane's Sieve
+                    url: http://haldanessieve.org/2014/09/19/the-genetic-ancestry-of-african-latino-and-european-americans-across-the-united-states/
+
+        -   title: 23andMe mega-study on different American groups
+            subtitle: discussion of preprint
+            date: 2014-09-18
+            article: *23andme-2014-dnausa
+            urls:
+                -   label:  Dienekes
+                    url: http://dienekes.blogspot.com/2014/09/23andme-mega-study-on-different.html
+
+
+    -   title: DNA USA
+        subtitle: on the dynamic admixed ancestry in the United States
+        date: 2014-03-04
+        authors:
+            -   *ScottHadly
+        urls:
+            -   label:  *23andmeblog
+                url: http://blog.23andme.com/23andme-research/dna-usa-2/
+        articles:
+            -   title: Admixture in US populations
+                date: 2013-03-04
+                urls:
+                    -   label:  Dienekes
+                        url: http://dienekes.blogspot.com/2014/03/admixture-in-us-populations.html
+
+    -   title: >
+            High Cheekbones and Straight Black Hair?
+
+        subtitle: on Native American ancestry in African Americans
+        date: 2014-04-21
+        authors:
+            -   *HenryLouisGates
+        urls:
+            -   label: *theroot
+                url: http://www.theroot.com/articles/history/2014/04/why_most_black_people_aren_t_part_indian.html
+
+    -   title: >
+            How Many ‘White’ People Are Passing?
+
+        subtitle: on African ancestry in European Americans
+        date: 2014-03-17
+        authors:
+            -   *HenryLouisGates
+        urls:
+            -   label: *theroot
+                url: http://www.theroot.com/articles/history/2014/03/how_many_white_people_have_hidden_black_ancestry.html
+
+    -   title: Weill Hall dedication video
+        subtitle: where I talk about my interdisciplinary research at Cornell
+        date: 2008-12-18
+        urls:
+            -   label:  *youtube
+                url: http://www.youtube.com/watch?v=J3uwNFtblxs

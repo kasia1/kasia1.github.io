@@ -1,0 +1,22 @@
+{% capture altmetric_identifier %}
+    {% if include.doi %}
+        data-doi="{{ include.doi | strip | url_escape }}"
+    {% elsif include.arxiv-id %}
+        data-arxiv-id="{{ include.arxiv-id | strip | url_escape }}"
+    {% elsif include.handle %}
+        data-handle="{{ include.handle | strip | url_escape }}"
+    {% elsif include.uri %}
+        data-uri="{{ include.uri | strip | url_escape }}"
+    {% elsif include.pmid %}
+        data-pmid="{{ include.pmid | strip | url_escape }}"
+    {% endif %}
+{% endcapture %}
+
+{% if altmetric_identifier and page.scripts contains 'altmetric' %}
+    <div 
+        data-badge-type="4"
+        data-hide-no-mentions="true"
+        data-badge-popover="right"
+        {{ altmetric_identifier }}
+        class="altmetric-embed"></div>
+{% endif %}

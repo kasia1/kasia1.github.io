@@ -1,0 +1,66 @@
+{% if include.article.publication %}
+    {% for pub in site.data.cv.publications %}
+        {% assign publication = pub %}
+        {% if include.article.publication.index == pub.index %}        {% break %}{% endif %}
+        {% if include.article.publication.doi has pub.doi %}           {% break %}{% endif %}
+        {% if include.article.publication.arxiv-id has pub.arxiv-id %} {% break %}{% endif %}
+        {% if include.article.publication.handle has pub.handle %}     {% break %}{% endif %}
+        {% if include.article.publication.uri has pub.uri %}           {% break %}{% endif %}
+        {% if include.article.publication.pmid has pub.pmid %}         {% break %}{% endif %}
+        {% assign publication = nil %}
+    {% endfor %}
+{% endif %}
+
+
+{% capture strftime %}
+    {% if include.article.strftime %}
+        {{ include.article.strftime }}
+    {% elsif publication and publication.strftime %}
+        {{ publication.strftime }}
+    {% else %}
+        %b %-d, %Y
+    {% endif %}
+{% endcapture %}
+
+{% capture subtitle %}
+    {% if publication %}
+        Coverage for paper published in {{ publication.journal.name }} on {{ publication.date | date: strftime }}
+    {% else %}
+        {{ include.article.subtitle }}
+    {% endif %}
+{% endcapture %}
+
+<li class="title">
+    {% if publication %}
+        <a href="/publications/#{{ publication.index }}">{{ publication.title }}</a>
+    {% else %}
+        {{ include.article.title }}
+    {% endif %}
+</li>
+{% if subtitle.size %}
+    <li class="subtitle">{{ subtitle }}</li>
+{% endif %}
+{% if include.article.authors %}
+<li>
+    <ul class="authors semantic-list">
+    {% for author in include.article.authors %}
+        <li class="author">{{ author.name }}</li>
+    {% endfor %}
+    </ul>
+</li>
+{% endif %}
+{% if include.article.urls %}
+<li>
+    <ul class="journals">
+    {% for link in include.article.urls %}
+        <li class="journal"><a href="{{ link.url }}">{{ link.label }}</a></li>
+    {% endfor %}
+    </ul>
+</li>
+{% endif %}
+{% if include.article.urls | size == 1 and page.scripts contains 'altmetric' %}
+    {% assign altmetric_url = include.article.urls[0].url %}
+    <li>{% include altmetric_badge uri=altmetric_url %}</li>
+{% endif %}
+
+{% assign publication = nil %}
