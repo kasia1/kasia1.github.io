@@ -55,7 +55,6 @@ articles:
             date: 2014-12-18
             authors: 
                 -   name: Lizzie Wade
-                -   name: CHANGE ME
             urls:
                 -   label: *science
                     url: http://news.sciencemag.org/biology/2014/12/genetic-study-reveals-surprising-ancestry-many-americans

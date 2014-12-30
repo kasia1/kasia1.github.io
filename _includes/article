@@ -58,10 +58,6 @@
     </ul>
 </li>
 {% endif %}
-{% if include.article.urls | size == 1 and page.scripts contains 'altmetric' %}
-    {% assign altmetric_url = include.article.urls[0].url %}
-    <li>{% include altmetric_badge uri=altmetric_url %}</li>
-{% endif %}
 {% if publication %}
 <li>{% include altmetric_badge doi=publication.doi %}</li>
 {% endif %}
