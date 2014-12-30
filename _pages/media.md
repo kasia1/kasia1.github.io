@@ -52,6 +52,8 @@ order: 300
 <br/>[[International Business Times](http://www.ibtimes.com/white-southerners-likely-have-more-black-dna-whites-elsewhere-us-study-1765498)] By Suman Varandani • December 23, 2014
 <br/>- **White Southerners Have More Black DNA Than Whites In Other Parts of US: Study**
 <br/>[[West Texas News](http://wtexas.com/content/14121420-white-southerners-have-more-black-dna-whites-other-parts-us)] By Leah Gardiner • December 23, 2014
+<br/>- **The Genetics of American Settlers vs. Immigrants**
+<br/>[[unz](http://www.unz.com/gnxp/the-genetics-of-american-settlers-vs-immigrants/)] By Razib Khan • December 23, 2014
 <br/>- **White? Black? A Murky Distinction Grows Still Murkier**
 <br/>[[NY Times](http://www.nytimes.com/2014/12/25/science/23andme-genetic-ethnicity-study.html)] By Carl Zimmer • December 24, 2014
 <br/>- **American Racial Boundaries Are Quite Distinct (For Now)**
