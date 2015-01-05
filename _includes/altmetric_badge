@@ -11,12 +11,22 @@
         data-pmid="{{ include.pmid | strip | url_escape }}"
     {% endif %}
 {% endcapture %}
+{% capture altmetric_date %}
+    {% if include.date %}
+        {{ include.date }}
+    {% else %}
+        {{ site.time }}
+    {% endif %}
+{% endcapture %}
+{% assign altmetric_date = altmetric_date | date: '%s' | plus: 0 %}
 
 {% if altmetric_identifier and page.scripts contains 'altmetric' %}
+{% if  altmetric_date >= 1325376000 %}
     <div 
         data-badge-type="4"
         data-hide-no-mentions="true"
         data-badge-popover="right"
         {{ altmetric_identifier }}
         class="altmetric-embed"></div>
+{% endif %}
 {% endif %}
