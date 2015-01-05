@@ -58,7 +58,7 @@ Or find me on [Google][google] and [PubMed][pubmed]
                     {% for link in paper.urls %}
                         <li>[<a href="{{ link.url }}">{{ link.label }}</a>]</li>
                     {% endfor %}
-                    <li>{% include altmetric_badge doi=paper.doi %}</li>
+                    <li>{% include altmetric_badge doi=paper.doi date=pub_date %}</li>
                 </ul>
                 {% if paper.abstract %}
                 <ul class="abstract">
