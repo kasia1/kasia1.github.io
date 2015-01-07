@@ -2,7 +2,7 @@
 title: Media
 menu: Resources
 order: 300
-scripts: [ altmetric, expand_collapse_toggle ]
+scripts: expand_collapse_toggle
 ---
 <!--
     Changes below this line are only necessary to change display of publications,
