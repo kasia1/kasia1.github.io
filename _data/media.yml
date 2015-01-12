@@ -292,7 +292,7 @@ articles:
 
 
     -   title: DNA USA
-        subtitle: on the dynamic admixed ancestry in the United States
+        subtitle: The dynamic admixed ancestry in the United States from studies of the 23andMe database
         date: 2014-03-04
         authors:
             -   *ScottHadly
@@ -306,27 +306,27 @@ articles:
                     -   label:  Dienekes
                         url: http://dienekes.blogspot.com/2014/03/admixture-in-us-populations.html
 
-    -   title: >
-            High Cheekbones and Straight Black Hair?
-
-        subtitle: on Native American ancestry in African Americans
-        date: 2014-04-21
-        authors:
-            -   *HenryLouisGates
-        urls:
-            -   label: *theroot
-                url: http://www.theroot.com/articles/history/2014/04/why_most_black_people_aren_t_part_indian.html
-
-    -   title: >
-            How Many ‘White’ People Are Passing?
-
-        subtitle: on African ancestry in European Americans
-        date: 2014-03-17
-        authors:
-            -   *HenryLouisGates
-        urls:
-            -   label: *theroot
-                url: http://www.theroot.com/articles/history/2014/03/how_many_white_people_have_hidden_black_ancestry.html
+            -   title: >
+                    High Cheekbones and Straight Black Hair?
+        
+                subtitle: on Native American ancestry in African Americans
+                date: 2014-04-21
+                authors:
+                    -   *HenryLouisGates
+                urls:
+                    -   label: *theroot
+                        url: http://www.theroot.com/articles/history/2014/04/why_most_black_people_aren_t_part_indian.html
+        
+            -   title: >
+                    How Many ‘White’ People Are Passing?
+        
+                subtitle: on African ancestry in European Americans
+                date: 2014-03-17
+                authors:
+                    -   *HenryLouisGates
+                urls:
+                    -   label: *theroot
+                        url: http://www.theroot.com/articles/history/2014/03/how_many_white_people_have_hidden_black_ancestry.html
 
     -   title: Weill Hall dedication video
         subtitle: where I talk about my interdisciplinary research at Cornell
