@@ -264,22 +264,31 @@ articles:
             urls:
                 -   label: New York Times
                     url: http://www.nytimes.com/2014/12/25/science/23andme-genetic-ethnicity-study.html
-
         -   title: >
-                The genetic ancestry of African, Latino, and European Americans across the United States.
-            subtitle: discussion of preprint
-            date: 2014-09-19
+                Can You Guess How Many White Americans Have African Ancestry?
+            date: 2015-1-12
+            authors:
+                -   name: *HenryLouisGates
             urls:
-                -   label:  Haldane's Sieve
-                    url: http://haldanessieve.org/2014/09/19/the-genetic-ancestry-of-african-latino-and-european-americans-across-the-united-states/
+                -   label: The Root
+                    url: http://www.theroot.com/photos/2015/01/take_a_quiz_how_much_do_you_know_about_african_ancestry_in_america.html
+                    
 
-        -   title: 23andMe mega-study on different American groups
-            subtitle: discussion of preprint
-            date: 2014-09-18
-            article: *23andme-2014-dnausa
-            urls:
-                -   label:  Dienekes
-                    url: http://dienekes.blogspot.com/2014/09/23andme-mega-study-on-different.html
+    -   title: >
+            The genetic ancestry of African, Latino, and European Americans across the United States.
+        subtitle: discussion of preprint
+        date: 2014-09-19
+        urls:
+            -   label:  Haldane's Sieve
+                url: http://haldanessieve.org/2014/09/19/the-genetic-ancestry-of-african-latino-and-european-americans-across-the-united-states/
+
+    -   title: 23andMe mega-study on different American groups
+        subtitle: discussion of preprint
+        date: 2014-09-18
+        article: *23andme-2014-dnausa
+        urls:
+            -   label:  Dienekes
+                url: http://dienekes.blogspot.com/2014/09/23andme-mega-study-on-different.html
 
 
     -   title: DNA USA
