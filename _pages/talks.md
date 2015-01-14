@@ -4,6 +4,7 @@ menu: Resources
 order: 400
 ---
 Past invited talks, presentations, and lectures
+
 <div class="title">DNA Based Ancestry Searching</div>
 Technology and Science Committee, Mountain View, CA January 14, 2014
 
