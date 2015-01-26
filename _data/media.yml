@@ -289,8 +289,14 @@ articles:
             urls:
                 -   label: The Root
                     url: http://www.theroot.com/photos/2015/01/take_a_quiz_how_much_do_you_know_about_african_ancestry_in_america.html
-                    
-
+        -   title: >
+                Genetically Speaking, Americans Really Are a Melting Pot of Diversity
+            date: 2015-1-26
+            authors:
+                -   name: Dr. Barry Starr
+            urls:
+                -   label: KQED Science
+                    url: http://blogs.kqed.org/science/2015/01/26/genetically-speaking-americans-really-are-a-melting-pot-of-diversity/
 
 
     -   title: DNA USA
