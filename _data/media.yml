@@ -46,6 +46,13 @@ people:
         name: Scott Hadly
 
 articles:
+    -   title: No, I’m Not Irish
+        subtitle: On my red hair, by Kasia Bryc
+        date: 2015-01-27
+        urls:
+            -   label:  23andMe blog
+                url: http://blog.23andme.com/health-traits/no-im-not-irish/
+
     -   publication: 
             index: 15
         date: 2014-12-18
