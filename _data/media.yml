@@ -304,6 +304,14 @@ articles:
             urls:
                 -   label: KQED Science
                     url: http://blogs.kqed.org/science/2015/01/26/genetically-speaking-americans-really-are-a-melting-pot-of-diversity/
+        -   title: >
+                Gene tests fill in the heritage blanks
+            date: 2015-2-5
+            authors:
+                -   name: Tracy Loew
+            urls:
+                -   label: USA Today
+                    url: http://www.usatoday.com/story/news/2015/02/04/black-history-genealogy/22891287/
 
 
     -   title: DNA USA
