@@ -5,6 +5,9 @@ order: 500
 ---
 Various resources that might be useful:
 
+[Research](/research/)
+Read more about my research themes and interests
+
 [Software](/software/)
 Implementations and documentation available for download
 
