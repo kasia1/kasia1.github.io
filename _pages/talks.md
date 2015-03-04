@@ -3,7 +3,22 @@ title: Talks
 group: navigation
 order: 400
 ---
-Past invited talks, presentations, and lectures
+
+
+## Upcoming talks and presentations
+<div class="title">The genetic landscape of the US</div>
+University of New Mexico, Albuquerque, NM | April 8, 2015
+Interdisciplinary Biological and Biomedical Sciences -- 4:00pm
+
+<div class="title">DNA Based Ancestry Searching</div>
+San Mateo County Genealogical Society, San Mateo, CA | March 21, 2015
+2825 Alameda de las Pulgas -- 9:30am
+
+<div class="title">We're all related. The (big) data proves it.</div>
+Panel discussion at SXSW, Austin, TX | March 17, 2015
+JW Marriott -- 11:00am
+
+## Past invited talks, presentations, and lectures
 
 <div class="title">DNA Based Ancestry Searching</div>
 Technology and Science Committee, Mountain View, CA January 14, 2014
