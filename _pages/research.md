@@ -1,6 +1,6 @@
 ---
 title: Research
-group: navigation
+menu: Resources
 order: 100
 ---
 My research nestles around several general themes:
