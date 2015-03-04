@@ -1,7 +1,7 @@
 ---
 title: Resources
 group: navigation
-order: 300
+order: 500
 ---
 Various resources that might be useful:
 
