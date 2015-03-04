@@ -6,7 +6,7 @@ scripts: render_author_email
 ---
 <div class="title">Mail</div>
 Kasia Bryc<br/>
-Population Geneticist
+Population Geneticist<br/>
 [23andMe](http://23andme.com/), Inc.<br/>
 1390 Shorebird Way<br/>
 Mountain View, CA 94043<br/>
