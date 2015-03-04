@@ -1,6 +1,6 @@
 ---
 title: Media
-menu: Resources
+group: navigation
 order: 300
 scripts: expand_collapse_toggle
 ---
