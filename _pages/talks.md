@@ -5,7 +5,7 @@ order: 400
 ---
 
 
-## Upcoming talks and presentations
+### Upcoming talks and presentations
 <div class="title">The genetic landscape of the US</div>
 University of New Mexico, Albuquerque, NM | April 8, 2015
 Interdisciplinary Biological and Biomedical Sciences -- 4:00pm
@@ -18,7 +18,7 @@ San Mateo County Genealogical Society, San Mateo, CA | March 21, 2015
 Panel discussion at SXSW, Austin, TX | March 17, 2015
 JW Marriott -- 11:00am
 
-## Past invited talks, presentations, and lectures
+### Past invited talks, presentations, and lectures
 
 <div class="title">DNA Based Ancestry Searching</div>
 Technology and Science Committee, Mountain View, CA January 14, 2014
