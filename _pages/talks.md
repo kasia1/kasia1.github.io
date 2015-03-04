@@ -1,6 +1,6 @@
 ---
 title: Talks
-menu: Resources
+group: navigation
 order: 400
 ---
 Past invited talks, presentations, and lectures
