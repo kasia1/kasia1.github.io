@@ -10,6 +10,10 @@ order: 400
 Global Family Reunion, hosted by AJ Jacobs
 <br/>NYC | June 6, 2015 -- 7:00pm
 
+<div class="title">Inference of individual-level admixture dates</div>
+Biology of Genomes Conference | May 5-9, 2015
+<br/>Cold Spring Harbor Laboratory, Long Island, NY
+
 <div class="title">Genetic ancestry and self-identity</div>
 Guest lecturer, "Identity" seminar course
 <br/>Mt. San Jacinto College | April 24, 2015
