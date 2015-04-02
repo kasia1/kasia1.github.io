@@ -8,7 +8,7 @@ order: 400
 ### Upcoming talks and presentations
 <div class="title">Cousins!</div>
 Global Family Reunion, hosted by AJ Jacobs
-NYC | June 6, 2015 -- 7:00pm
+<br/>NYC | June 6, 2015 -- 7:00pm
 
 <div class="title">Genetic ancestry and self-identity</div>
 Guest lecturer, "Identity" seminar course
