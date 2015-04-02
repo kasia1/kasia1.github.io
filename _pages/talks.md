@@ -6,7 +6,7 @@ order: 400
 
 
 ### Upcoming talks and presentations
-<div class="title">Cousins!</div>
+<div class="title">The genetics of cousins</div>
 Global Family Reunion, hosted by AJ Jacobs
 <br/>NYC | June 6, 2015 -- 7:00pm
 
