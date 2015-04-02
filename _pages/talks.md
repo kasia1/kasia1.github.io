@@ -7,6 +7,7 @@ order: 400
 
 ### Upcoming talks and presentations
 <div class="title">Genetic ancestry and self-identity</div>
+Guest lecturer, "Identity" seminar course
  Mt. San Jacinto College | April 24, 2015
 
 <div class="title">The genetic landscape of the US</div>
