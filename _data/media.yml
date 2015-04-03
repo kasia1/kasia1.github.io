@@ -46,6 +46,13 @@ people:
         name: Scott Hadly
 
 articles:
+    -   title: Everyone Is Related. The (Big) Data Proves It
+        subtitle: On the speaking at SXSW with AJ Jacobs, host of the Global Family Reunion, by Kasia Bryc
+        date: 2015-01-27
+        urls:
+            -   label:  23andMe blog
+                url: http://blog.23andme.com/ancestry/everyone-is-related-the-big-data-proves-it/
+
     -   title: No, I’m Not Irish
         subtitle: On the genetics of red hair and why I love evolution, by Kasia Bryc
         date: 2015-01-27
