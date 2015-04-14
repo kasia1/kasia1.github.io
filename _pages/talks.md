@@ -18,11 +18,12 @@ Biology of Genomes Conference | May 5-9, 2015
 Guest lecturer, "Identity" seminar course
 <br/>Mt. San Jacinto College | April 24, 2015
 
-<div class="title">The genetic landscape of the US</div>
-University of New Mexico, Albuquerque, NM | April 8, 2015
-<br/>Interdisciplinary Biological and Biomedical Sciences -- 4:00pm
+<div class="title">The Neanderthal in us</div>
+<br/>Stanford Center for Professional Development | April 2015
 
 ### Past invited talks, presentations, and lectures
+<div class="title">The genetic landscape of the US</div>
+University of New Mexico, Albuquerque, NM | April 8, 2015
 
 <div class="title">DNA Based Ancestry Searching</div>
 San Mateo County Genealogical Society, San Mateo, CA | March 21, 2015
