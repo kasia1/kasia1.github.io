@@ -19,7 +19,7 @@ Guest lecturer, "Identity" seminar course
 <br/>Mt. San Jacinto College | April 24, 2015
 
 <div class="title">The Neanderthal in us</div>
-<br/>Stanford Center for Professional Development | April 2015
+Stanford Center for Professional Development | April 2015
 
 ### Past invited talks, presentations, and lectures
 <div class="title">The genetic landscape of the US</div>
