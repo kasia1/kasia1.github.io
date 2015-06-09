@@ -6,22 +6,22 @@ order: 400
 
 
 ### Upcoming talks and presentations
+None scheduled at present
+
+### Past invited talks, presentations, and lectures
+
 <div class="title">The genetics of cousins</div>
-Global Family Reunion, hosted by AJ Jacobs
-<br/>NYC | June 6, 2015 -- 7:00pm
+Global Family Reunion, hosted by AJ Jacobs, NYC | June 6, 2015 [[watch online](http://livestream.com/GlobalFamilyReunion/gallery/videos/89454524)]
 
 <div class="title">Inference of individual-level admixture dates</div>
-Biology of Genomes Conference | May 5-9, 2015
-<br/>Cold Spring Harbor Laboratory, Long Island, NY
+Biology of Genomes Conference, Long Island, NY | May 5-9, 2015
 
 <div class="title">Genetic ancestry and self-identity</div>
-Guest lecturer, "Identity" seminar course
-<br/>Mt. San Jacinto College | April 24, 2015
+Guest lecturer, "Identity" seminar course, Mt. San Jacinto College | April 24, 2015 
 
 <div class="title">The Neanderthal in us</div>
 Stanford Center for Professional Development | April 2015
 
-### Past invited talks, presentations, and lectures
 <div class="title">The genetic landscape of the US</div>
 University of New Mexico, Albuquerque, NM | April 8, 2015
 
