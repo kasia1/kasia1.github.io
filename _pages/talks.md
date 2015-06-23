@@ -6,7 +6,9 @@ order: 400
 
 
 ### Upcoming talks and presentations
-None scheduled at present
+<div class="title">DNA Based Ancestry Searching</div>
+Santa Clara County Historical and Genealogical Society
+<br/>Santa Clara Library,Santa Clara, CA | November 4, 2015 at 1pm
 
 ### Past invited talks, presentations, and lectures
 
