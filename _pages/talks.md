@@ -34,7 +34,7 @@ San Mateo County Genealogical Society, San Mateo, CA | March 21, 2015
 Panel discussion at SXSW, Austin, TX | March 17, 2015
 
 <div class="title">DNA Based Ancestry Searching</div>
-Technology and Science Committee, Mountain View, CA | January 14, 2014
+Technology and Science Committee, Mountain View, CA | January 14, 2015
 
 <div class="title">The genetic ancestry of African, Latino, and European Americans across the United States</div>
 ASHG Annual Meeting, San Diego, CA | October 20, 2014 
