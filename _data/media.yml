@@ -46,6 +46,13 @@ people:
         name: Scott Hadly
 
 articles:
+    -   title: How Long Ago Did African Ancestry Enter My Family Tree?
+        subtitle: On the how to interpret your ancestry results, by Kasia Bryc
+        date: 2015-07-12
+        urls:
+            -   label:  theRoot
+                url: http://www.theroot.com/articles/history/2015/07/african_ancestry_how_long_ago_did_it_enter_my_family_tree.html
+
     -   title: Everyone Is Related. The (Big) Data Proves It
         subtitle: On the speaking at SXSW with AJ Jacobs, host of the Global Family Reunion, by Kasia Bryc
         date: 2015-01-27
