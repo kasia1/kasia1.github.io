@@ -46,6 +46,13 @@ people:
         name: Scott Hadly
 
 articles:
+    -   title: Korean adoptees are using DNA kits to get a glimpse of their ancestry
+        subtitle: On PRI's The World, by Kaomi Goetz | July 21, 2015
+        date: 2015-07-21
+        urls:
+            -   label:  PRI's The World
+                url: http://www.pri.org/stories/2015-07-21/korean-adoptees-are-using-dna-kits-get-glimpse-their-ancestry
+
     -   title: How Long Ago Did African Ancestry Enter My Family Tree?
         subtitle: How to interpret your small-bit of ancestry results, by Kasia Bryc
         date: 2015-07-12
