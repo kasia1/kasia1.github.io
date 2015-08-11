@@ -46,6 +46,20 @@ people:
         name: Scott Hadly
 
 articles:
+    -   title: Extreme Genes podcast
+        subtitle: Speaking on the power of DNA testing | August 11, 2015
+        date: 2015-08-11
+        urls:
+            -   label:  Extreme Genes
+                url: http://extremegenes.com/ep-99-23andme-on-dna-genealogy/
+
+    -   title: The way way back
+        subtitle: by Scott Hadly | August 11, 2015
+        date: 2015-08-11
+        urls:
+            -   label:  23andMe blog
+                url: http://blog.23andme.com/ancestry/the-way-way-back/
+
     -   title: Korean adoptees are using DNA kits to get a glimpse of their ancestry
         subtitle: On PRI's The World, by Kaomi Goetz | July 21, 2015
         date: 2015-07-21
