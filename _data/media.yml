@@ -46,6 +46,13 @@ people:
         name: Scott Hadly
 
 articles:
+    -   title: Help! I’m Baffled by My Neanderthal DNA Test Results
+        subtitle: Why can DNA tests identify ancient Neanderthal ancestry, but can only pinpoint human-ancestry admixture back several generations? | October 16, 2015
+        date: 2015-10-16
+        urls:
+            -   label:  theRoot
+                url: http://www.theroot.com/articles/history/2015/10/dna_test_results_neanderthal_vs_autosomal.html
+
     -   title: Extreme Genes hosted by Scott Fisher
         subtitle: Speaking on the power of DNA testing | August 11, 2015
         date: 2015-08-11
