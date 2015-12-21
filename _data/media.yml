@@ -46,6 +46,13 @@ people:
         name: Scott Hadly
 
 articles:
+    -   title: Getting down with our genome
+        subtitle: Talking with Rebecca Lehrer on Mashup Americans about your DNA and mashiness (aka, admixture)  | December 18, 2015
+        date: 2015-12-18
+        urls:
+            -   label:  Podcast
+                url: http://www.mashupamericans.com/listen/podcast-ep-4/
+
     -   title: Help! I’m Baffled by My Neanderthal DNA Test Results
         subtitle: Why can DNA tests identify ancient Neanderthal ancestry, but can only pinpoint human-ancestry admixture back several generations? | October 16, 2015
         date: 2015-10-16
