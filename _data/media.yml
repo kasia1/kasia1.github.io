@@ -82,21 +82,21 @@ articles:
                 url: http://www.pri.org/stories/2015-07-21/korean-adoptees-are-using-dna-kits-get-glimpse-their-ancestry
 
     -   title: How Long Ago Did African Ancestry Enter My Family Tree?
-        subtitle: How to interpret your small-bit of ancestry results, by Kasia Bryc
+        subtitle: How to interpret your small-bit of ancestry results, by Kasia Bryc  | July 12, 2015
         date: 2015-07-12
         urls:
             -   label:  theRoot
                 url: http://www.theroot.com/articles/history/2015/07/african_ancestry_how_long_ago_did_it_enter_my_family_tree.html
 
     -   title: Everyone Is Related. The (Big) Data Proves It
-        subtitle: On speaking at SXSW with AJ Jacobs, host of the Global Family Reunion, by Kasia Bryc
-        date: 2015-01-27
+        subtitle: On speaking at SXSW with AJ Jacobs, host of the Global Family Reunion, by Kasia Bryc  | March 23, 2015
+        date: 2015-03-23
         urls:
             -   label:  23andMe blog
                 url: http://blog.23andme.com/ancestry/everyone-is-related-the-big-data-proves-it/
 
     -   title: No, I’m Not Irish
-        subtitle: The genetics of red hair and why I love evolution, by Kasia Bryc
+        subtitle: The genetics of red hair and why I love evolution, by Kasia Bryc  | January 27, 2015
         date: 2015-01-27
         urls:
             -   label:  23andMe blog
@@ -108,14 +108,14 @@ articles:
         articles:
         -   title: >
                 The genetic ancestry of African, Latino, and European Americans across the United States.
-            subtitle: Discussion of BiorXiv preprint
+            subtitle: Discussion of BiorXiv preprint | September 19, 2014
             date: 2014-09-19
             urls:
                 -   label:  Haldane's Sieve
                     url: http://haldanessieve.org/2014/09/19/the-genetic-ancestry-of-african-latino-and-european-americans-across-the-united-states/
     
         -   title: 23andMe mega-study on different American groups
-            subtitle: Discussion of BiorXiv preprint
+            subtitle: Discussion of BiorXiv preprint | September 18, 2014
             date: 2014-09-18
             article: *23andme-2014-dnausa
             urls:
@@ -419,7 +419,7 @@ articles:
                         url: http://www.theroot.com/articles/history/2014/03/how_many_white_people_have_hidden_black_ancestry.html
 
     -   title: Weill Hall dedication video
-        subtitle: where I talk about my interdisciplinary research at Cornell
+        subtitle: where I talk about my interdisciplinary research at Cornell  | December 18, 2008
         date: 2008-12-18
         urls:
             -   label:  *youtube
