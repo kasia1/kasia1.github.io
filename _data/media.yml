@@ -46,7 +46,7 @@ people:
         name: Scott Hadly
 
 articles:
-    -   title: Getting down with our genome
+    -   title: Getting down with our genome podcast
         subtitle: Talking with Rebecca Lehrer on Mashup Americans about your DNA and mashiness (aka, admixture)  | December 18, 2015
         date: 2015-12-18
         urls:
@@ -60,8 +60,8 @@ articles:
             -   label:  theRoot
                 url: http://www.theroot.com/articles/history/2015/10/dna_test_results_neanderthal_vs_autosomal.html
 
-    -   title: Extreme Genes hosted by Scott Fisher
-        subtitle: Speaking on the power of DNA testing | August 11, 2015
+    -   title: Extreme Genes radio show 
+        subtitle: Speaking with Scott Fisher on the power of DNA testing | August 11, 2015
         date: 2015-08-11
         urls:
             -   label:  Extreme Genes
