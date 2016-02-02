@@ -46,6 +46,13 @@ people:
         name: Scott Hadly
 
 articles:
+    -   title: This one factor may explain why you're a morning person or a night owl
+        subtitle: Including my map of morning people  | February 2, 2015
+        date: 2016-2-2
+        urls:
+            -   label:  Business Insider
+                url: http://www.businessinsider.com/being-a-morning-person-or-a-night-owl-is-in-your-genes-2016-2
+
     -   title: Getting down with our genome podcast
         subtitle: Talking with Rebecca Lehrer on Mashup Americans about your DNA and mashiness (aka, admixture)  | December 18, 2015
         date: 2015-12-18
