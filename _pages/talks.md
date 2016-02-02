@@ -5,8 +5,6 @@ order: 400
 ---
 
 
-### Upcoming talks and presentations
-
 ### Past invited talks, presentations, and lectures
 
 <div class="title">The genetics of cousins</div>
