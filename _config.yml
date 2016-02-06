@@ -1,5 +1,5 @@
-title: Kasia Bryc 
-tagline: Population Genetecist 
+title: Kasia Bryc
+tagline: Population Genetecist
 production_url: http://kasiabryc.com
 #url: http://kasiabryc.com
 
@@ -9,24 +9,16 @@ author:
     github: kasia1
 
 collections:
-    pages:
+    content:
+        # organizes static pages in a sub directory rather than root
         output: true
         permalink: /:path/index.html
-    publications: &noop
-        output: false
-    talks: *noop
-    software: *noop
-    media: *noop
-    courses: *noop
-    datasets: *noop
 
 defaults:
-    -
-        scope:
-            path: ""
-            type: pages
-        values:
-            layout: page
+    -   scope: { path: "", type: pages }
+        values: { layout: page }
+    -   scope: { path: "", type: content }
+        values: { layout: page }
 
 JB:
     BASE_PATH: /

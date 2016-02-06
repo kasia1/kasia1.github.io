@@ -12,7 +12,7 @@
 
     <link href="//cdnjs.cloudflare.com/ajax/libs/bootswatch/3.2.0+2/{{ site.JB.theme }}/bootstrap.min.css" rel="stylesheet">
     <link href="/assets/css/custom.css" rel="stylesheet">
-  
+
     <!--[if lt IE 9]>
       <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
@@ -40,7 +40,8 @@
             {% else %}
             <li><a href="/">Home</a></li>
             {% endif %}
-            {% assign pages_list = site.collections.pages.docs + site.pages | sort: 'order' %}
+            {% assign content_list = site.collections | where: "label", "content" | first %}
+            {% assign pages_list =  site.content | sort: 'order' %}
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
           </ul>

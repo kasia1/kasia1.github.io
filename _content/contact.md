@@ -8,8 +8,8 @@ scripts: render_author_email
 Kasia Bryc<br/>
 Population Geneticist<br/>
 [23andMe](http://23andme.com/), Inc.<br/>
-1390 Shorebird Way<br/>
-Mountain View, CA 94043<br/>
+899 West Evelyn Ave<br/>
+Mountain View, CA 94041<br/>
 
 <div class="title">Email</div>
 <a id="email" href="#!">test@example.com</a>

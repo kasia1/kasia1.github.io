@@ -82,4 +82,3 @@ Or find me on [Google][google] and [PubMed][pubmed]
     {% endif %}
 {% endfor %}
 </div>
-
