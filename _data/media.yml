@@ -47,8 +47,15 @@ people:
 
 articles:
 
+    -   title: A Valentines DNA Day With 23andMe
+        subtitle: Talking with Scott Fisher  | February 16, 2016
+        date: 2016-02-16
+        urls:
+            -   label:  Extreme Genes
+                url: http://extremegenes.com/ep-126-a-roots-tech-breakdown-with-fisher-and-david-a-valentines-dna-day-with-23andme/
+
     -   title: This one factor may explain why you're a morning person or a night owl
-        subtitle: Including my map of morning people  | February 2, 2016
+        subtitle: Including a map of where morning people live  | February 2, 2016
         date: 2016-02-02
         urls:
             -   label:  Business Insider
