@@ -46,6 +46,33 @@ people:
         name: Scott Hadly
 
 articles:
+    -   title:  A Webinar on the Genetic Landscape of the USA
+        subtitle: Webinar announcement, part of 23andMe’s program for Educators  | April 10, 2016
+        date: 2016-04-10
+        urls:
+            -   label:  23andMe Blog
+                url: http://blog.23andme.com/featured/a-webinar-on-the-genetic-landscape-of-the-usa/
+
+    -   title:  23andMe Scientists Improving Diversity in Genetic Research
+        subtitle: 23andMe's SBIR Admixture Mapping grant  | April 5, 2016
+        date: 2016-04-05
+        urls:
+            -   label:  23andMe Blog
+                url: http://blog.23andme.com/featured/a-webinar-on-the-genetic-landscape-of-the-usa/
+
+    -   title:  23andMe Lands $250K NIH SBIR Grant to Develop Admixture Mapping-Based Genomic Analysis Pipeline
+        subtitle: 23andMe's SBIR Admixture Mapping grant  | April 5, 2016
+        date: 2016-04-05
+        urls:
+            -   label:  Genomeweb
+                url: https://www.genomeweb.com/research-funding/23andme-lands-250k-nih-sbir-grant-develop-admixture-mapping-based-genomic-analysis
+
+    -   title: New Effort by 23andMe Could Increase Diversity in Genetic Research
+        subtitle: 23andMe's SBIR Admixture Mapping grant  | April 5, 2016
+        date: 2016-04-05
+        urls:
+            -   label:  Yahoo Finance
+                url: http://finance.yahoo.com/news/effort-23andme-could-increase-diversity-150000951.html
 
     -   title: A Valentines DNA Day With 23andMe
         subtitle: Talking with Scott Fisher on couples and assortative mating  | February 16, 2016
