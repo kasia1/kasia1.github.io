@@ -37,7 +37,7 @@ Technology and Science Committee, Mountain View, CA | January 14, 2015
 <div class="title">The genetic ancestry of African, Latino, and European Americans across the United States</div>
 ASHG Annual Meeting, San Diego, CA | October 20, 2014 
 [[poster](/assets/static/Bryc_ASHG2014.pdf)]  
-Bay Area Population Genetics meeting, UC Davis, Davis, CA, December 6, 2014 [[poster](/assets/static/Bryc_ASHG2014.pdf)]
+Bay Area Population Genetics meeting, UC Davis, Davis, CA | December 6, 2014 [[poster](/assets/static/Bryc_ASHG2014.pdf)]
 
 <div class="title">Introduction to population genetics forces lectures</div>
 As part of the Stanford Genetics and Genomics Certificate | August 2014 
