@@ -46,6 +46,13 @@ people:
         name: Scott Hadly
 
 articles:
+    -   title:  A Conversation with 23andMe’s Kasia Bryc
+        subtitle: by Scott Hadly  | April 18, 2016
+        date: 2016-04-18
+        urls:
+            -   label:  23andMe Blog
+                url: http://blog.23andme.com/23andme-research/a-conversation-with-23andmes-kasia-bryc/
+
     -   title:  A Webinar on the Genetic Landscape of the USA
         subtitle: Webinar announcement, part of 23andMe’s program for Educators  | April 10, 2016
         date: 2016-04-10
