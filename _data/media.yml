@@ -46,6 +46,13 @@ people:
         name: Scott Hadly
 
 articles:
+    -   title:  Sizing up your genes: Genetics bring results in woman’s search for family
+        subtitle: By Erin McIntyre   | May 12, 2016
+        date: 2016-05-12
+        urls:
+            -   label:  The Daily Sentinel
+                url: http://www.gjsentinel.com/lifestyle/articles/sizing-up-your-genes-genetics-bring-results-in-wom
+
     -   title:  A Conversation with 23andMe’s Kasia Bryc
         subtitle: by Scott Hadly  | April 18, 2016
         date: 2016-04-18
