@@ -46,6 +46,21 @@ people:
         name: Scott Hadly
 
 articles:
+    -   title:  Would testing Elizabeth Warren’s DNA resolve the fight over her heritage?
+        subtitle: By Sharon Begley  | June 29, 2016
+        date: 2016-06-29
+        urls:
+            -   label:  STAT
+                url: https://www.statnews.com/2016/06/29/testing-elizabeth-warrens-dna-resolve-pocohontas-fight/
+
+    -   title:  Roots identity project
+        subtitle: A series of interviews with cast and crew of Roots  | May  2016
+        date: 2016-05-01
+        urls:
+            -   label:  Roots
+                url: http://roots.history.com/identity
+
+
     -   title:  Sizing up your genes -- Genetics bring results in woman’s search for family
         subtitle: by Erin McIntyre   | May 12, 2016
         date: 2016-05-12
