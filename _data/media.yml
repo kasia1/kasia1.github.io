@@ -46,6 +46,27 @@ people:
         name: Scott Hadly
 
 articles:
+    -   title:  White Nonsense: Alt-right trolls are arguing over genetic tests they think “prove” their whiteness
+        subtitle: By Elspeth Reeve  | Oct 9, 2016
+        date: 2016-10-09
+        urls:
+            -   label:  vice
+                url: https://news.vice.com/story/alt-right-trolls-are-getting-23andme-genetic-tests-to-prove-their-whiteness
+
+    -   title:  Fact-Checking Family Folklore With DNA Tests
+        subtitle: By Cameronn McWhirter  | Oct 4, 2016
+        date: 2016-10-04
+        urls:
+            -   label:  WSJ
+                url: http://www.wsj.com/articles/fact-checking-family-folklore-with-dna-tests-1475598736
+
+    -   title:  If you’re black, DNA ancestry results can reveal an awkward truth
+        subtitle: By Cara Rose DeFabio  |  Sept 29, 2016
+        date: 2016-09-29
+        urls:
+            -   label:  fusion
+                url: http://fusion.net/story/351054/dna-ancestry-reveal-videos/
+
     -   title:  Would testing Elizabeth Warren’s DNA resolve the fight over her heritage?
         subtitle: By Sharon Begley  | June 29, 2016
         date: 2016-06-29
