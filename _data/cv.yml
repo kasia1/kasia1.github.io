@@ -417,7 +417,7 @@ publications:
             Hispanic/Latino populations
         urls:
             -   label: paper
-                url: http://www.pnas.org/content/107/suppl.2/8954.full
+                url: http://www.pnas.org/content/107/Supplement_2/8954.full.pdf?sid=367950c0-2508-4957-acc7-37631c1bcd73
         journal: *pnas
         doi: 10.1073/pnas.0914618107
         date: 2010-05-01
