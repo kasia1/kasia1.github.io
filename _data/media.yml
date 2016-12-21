@@ -46,6 +46,13 @@ people:
         name: Scott Hadly
 
 articles:
+    -   title:  Latinos Got Their DNA Tested To See What Their Actual Ancestry Is And Were Shocked
+        subtitle: By Curly Vasquez and the BuzzFeed staff  | Dec 21, 2016
+        date: 2016-12-21
+        urls:
+            -   label:  BuzzFeed
+                url: https://www.buzzfeed.com/curlyvelasquez/latinos-got-tested-to-see-what-their-actual-ancestry-is-and?utm_term=.erx5eRYnX#.jmDKYvna7
+
     -   title:  In An Election Defined By Race, How Do We Define Race?
         subtitle: By Farai Chideya  | Nov 6, 2016
         date: 2016-11-06
