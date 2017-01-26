@@ -11,7 +11,7 @@ order: 400
 ### Past invited talks, presentations, and lectures
 
 <div class="title">The genetics of cousins</div>
-Global Family Reunion, hosted by AJ Jacobs, NYC | June 6, 2015 [[watch online](http://livestream.com/GlobalFamilyReunion/gallery/videos/89454524)]
+Global Family Reunion, hosted by AJ Jacobs, NYC | June 6, 2015 [[watch online](https://www.youtube.com/watch?v=G75LQuXotc0)]
 
 <div class="title">Inference of individual-level admixture dates</div>
 Biology of Genomes Conference, Long Island, NY | May 5-9, 2015
