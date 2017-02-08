@@ -5,10 +5,14 @@ order: 400
 ---
 ### Upcoming
 
-<div class="title">Who Do You Think You Are? The Complex Genetic Portrait of the U.S.</div>
-23andMe Education Webinar | April 11, 2016 [[watch online](https://education.23andme.org/genetic-landscape-webinar/?_ga=1.194531502.243861678.1410711814)]
+<div class="title">The genetic landscape of the US</div>
+Data Science Initiative Colloquium, Brown University | February 17, 2017
 
 ### Past invited talks, presentations, and lectures
+
+
+<div class="title">Who Do You Think You Are? The Complex Genetic Portrait of the U.S.</div>
+23andMe Education Webinar | April 11, 2016 [[watch online](https://education.23andme.org/genetic-landscape-webinar/?_ga=1.194531502.243861678.1410711814)]
 
 <div class="title">The genetics of cousins</div>
 Global Family Reunion, hosted by AJ Jacobs, NYC | June 6, 2015 [[watch online](https://www.youtube.com/watch?v=G75LQuXotc0)]
