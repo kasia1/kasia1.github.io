@@ -46,6 +46,13 @@ people:
         name: Scott Hadly
 
 articles:
+    -   title:  This man gained a family after doing a simple at-home genetic test kit
+        subtitle: By Craig Melvin  | Feb 19, 2017
+        date: 2017-02-19
+        urls:
+            -   label:  TODAY Show
+                url: http://www.today.com/news/man-gained-family-after-doing-simple-home-genetic-test-kit-t108356
+
     -   title:  Latinos Got Their DNA Tested To See What Their Actual Ancestry Is And Were Shocked
         subtitle: By Curly Vasquez and the BuzzFeed staff  | Dec 21, 2016
         date: 2016-12-21
