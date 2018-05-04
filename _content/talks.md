@@ -5,11 +5,16 @@ order: 400
 ---
 ### Upcoming
 
-<div class="title">The genetic landscape of the US</div>
-Data Science Initiative Colloquium, Brown University | February 17, 2017
-
 ### Past invited talks, presentations, and lectures
 
+<div class="title">The genetic landscape of the US </div>
+Broad Institute Journal Club | May 4, 2018 [[watch online](https://www.youtube.com/channel/UC3rEe12QkMC3oNCzImaSVpg/videos)]
+
+<div class="title">The ethics of ancient DNA studies</div>
+Panel Discussion, SMBE satellite meeting on Ancient DNA | April 5, 2018 [[SMBE Ancient DNA](http://www.smbeadna2018.com/)]
+
+<div class="title">The genetic landscape of the US</div>
+Data Science Initiative Colloquium, Brown University | February 17, 2017
 
 <div class="title">Who Do You Think You Are? The Complex Genetic Portrait of the U.S.</div>
 23andMe Education Webinar | April 11, 2016 [[watch online](https://education.23andme.org/genetic-landscape-webinar/?_ga=1.194531502.243861678.1410711814)]
