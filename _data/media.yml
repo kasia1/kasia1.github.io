@@ -46,6 +46,13 @@ people:
         name: Scott Hadly
 
 articles:
+    -   title:  By Any Other Name: An Exploration of Afro-Amerindian Heritage
+        subtitle: By Steven Gayle  | Feb 8, 2018
+        date: 2018-02-08
+        urls:
+            -   label:  Youtube
+                url: https://youtu.be/61DVHP4yRFY
+                
     -   title:  This man gained a family after doing a simple at-home genetic test kit
         subtitle: By Craig Melvin  | Feb 19, 2017
         date: 2017-02-19
