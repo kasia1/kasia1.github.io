@@ -101,30 +101,6 @@ people:
         email: joanna@23andme.com
 
 publications:
-    -   index: 16
-        title: >
-            White Paper 23-05 Neanderthal Ancestry Inference
-        urls:
-            -   label: whitepaper
-                url: https://permalinks.23andme.com/pdf/23-05_neanderthal_ancestry_inference.pdf
-        journal: 23andMe White Paper
-        date: 2020-07-01
-        authors:
-            -   {name: Smith RP}
-            -   {name: Kleinman A}
-            -   {name: Bryc K,     person: *KasiaBryc}
-            -   {name: Mountain J, person: *JoannaMountain}
-            -   {name: Durand EY, person: *EricDurand}
-            -   {name: McManus K}
-            -   {naem: Esselmann SA}
-        abstract: |
-            This white paper serves as a companion to the Neanderthal report offered to 23andMe
-            customers as part of the 23andMe Personal Genome Service. It offers more details on the
-            methods used in calculating Neanderthal variant counts and in detecting human traits that are
-            associated with Neanderthal variants. We hope that this white paper may also serve the
-            scientific community to understand how genetic variation inherited from Neanderthal ancestors
-            may affect modern-day phenotypes.
-
     -   index: 15
         title: >
             The genetic ancestry of African Americans, Latinos, and European Americans across the
