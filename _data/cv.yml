@@ -103,8 +103,7 @@ people:
 publications:
     -   index: 16
         title: >
-            White Paper 23-05
-            Neanderthal Ancestry Inference
+            White Paper 23-05 Neanderthal Ancestry Inference
         urls:
             -   label: whitepaper
                 url: https://permalinks.23andme.com/pdf/23-05_neanderthal_ancestry_inference.pdf
