@@ -111,6 +111,7 @@ publications:
             -   label: whitepaper
                 url: https://permalinks.23andme.com/pdf/23-05_neanderthal_ancestry_inference.pdf
         journal: *23andMe
+        doi: 10.1016/j.ajhg.2014.11.010
         date: 2020-07-01
         authors:
             -   {name: Smith RP}
