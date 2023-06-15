@@ -63,6 +63,9 @@ journals:
 
     -   &nature
         name: Nature
+        
+    -   &23andMe
+        name: 23andMe White Paper
 
 people:
     -   &KasiaBryc
@@ -107,7 +110,7 @@ publications:
         urls:
             -   label: whitepaper
                 url: https://permalinks.23andme.com/pdf/23-05_neanderthal_ancestry_inference.pdf
-        journal: 23andMe White Paper
+        journal: *23andMe
         date: 2020-07-01
         authors:
             -   {name: Smith RP}
