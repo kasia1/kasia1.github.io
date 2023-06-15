@@ -9,9 +9,11 @@ order: 000
 Katarzyna "Kasia" Bryc
 (pronunciation guide: /ˈkaɕa/[wiki][kasia-pronounce])
 
-I am a population geneticist by training, with expertise in data analysis and algorithm development in human genetics.
+I am a statistical geneticist, with deep expertise in population genetics, data analysis and algorithm development, with a commitment to leveraging genetic diversity in research with the aim of reducing health disparities.
 
-From March 2014 to June 2023 I wore many hats on the Research, Product, and R&D teams
+I have been the recipient of an NIH SBIR Phase I grant, and an NIH Ruth L. Kirschstein National Research Service Award, have had numerous algorithms turned into products and patent applications. I have developed research surveys and managed phenotypic data collection, and have been an advocate for diversity in all stages of research and product development. 
+
+From March 2014 to June 2023 I worked on the Research, Product, and R&D teams
 at [23andMe][23andme]. Previously, I was a Postdoctoral Research Fellow at [Harvard Medical
 School][harvard-genetics] with [David Reich][reich]. I
 received M.S. and Ph.D. degrees in [Biometry][cornell-biometry] at Cornell under [Carlos

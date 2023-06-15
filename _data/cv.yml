@@ -64,8 +64,11 @@ journals:
     -   &nature
         name: Nature
         
-    -   &23andMe
+    -   &ttam
         name: 23andMe White Paper
+
+    -   &mbe
+        name: Molecular Biology and Evolution
 
 people:
     -   &KasiaBryc
@@ -104,14 +107,86 @@ people:
         email: joanna@23andme.com
 
 publications:
+    -   index: 20 
+        title: >
+            Response to Pfenning and Lachance 
+        urls:
+            -   label: paper
+                url: https://www.cell.com/ajhg/fulltext/S0002-9297(22)00550-X 
+        journal: *ajhg
+        doi: 10.1016/j.ajhg.2022.12.016
+        date: 2022-02-02
+        authors:
+            -   name: Micheletti SJ 
+            -   name: Esselmann SA 
+            -   {name: Bryc K,     person: *KasiaBryc}
+            -   name:  Mountain JL
+
+    -   index: 19
+        title: >
+            Fast and Robust Identity-by-Descent Inference with the Templated Positional Burrows–Wheeler Transform 
+        urls:
+            -   label: paper
+                url: https://academic.oup.com/mbe/article/38/5/2131/6045959 
+        journal: *mbe
+        doi: 10.1093/molbev/msaa328 
+        date: 2021-05-05
+        authors:
+            -   name: Freyman WA
+            -   name: McManus KF 
+            -   name: Shringarpure SS
+            -   name: Jewett EM
+            -   {name: Bryc K,     person: *KasiaBryc}
+            -   name: 23andMe Research Team
+            -   name: Auton A 
+        abstract: |
+            Estimating the genomic location and length of identical-by-descent (IBD) segments among individuals is a crucial step in many genetic analyses. However, the exponential growth in the size of biobank and direct-to-consumer genetic data sets makes accurate IBD inference a significant computational challenge. Here we present the templated positional Burrows–Wheeler transform (TPBWT) to make fast IBD estimates robust to genotype and phasing errors. Using haplotype data simulated over pedigrees with realistic genotyping and phasing errors, we show that the TPBWT outperforms other state-of-the-art IBD inference algorithms in terms of speed and accuracy. For each phase-aware method, we explore the false positive and false negative rates of inferring IBD by segment length and characterize the types of error commonly found. Our results highlight the fragility of most phased IBD inference methods; the accuracy of IBD estimates can be highly sensitive to the quality of haplotype phasing. Additionally, we compare the performance of the TPBWT against a widely used phase-free IBD inference approach that is robust to phasing errors. We introduce both in-sample and out-of-sample TPBWT-based IBD inference algorithms and demonstrate their computational efficiency on massive-scale data sets with millions of samples. Furthermore, we describe the binary file format for TPBWT-compressed haplotypes that results in fast and efficient out-of-sample IBD computes against very large cohort panels. Finally, we demonstrate the utility of the TPBWT in a brief empirical analysis, exploring geographic patterns of haplotype sharing within Mexico. Hierarchical clustering of IBD shared across regions within Mexico reveals geographically structured haplotype sharing and a strong signal of isolation by distance. Our software implementation of the TPBWT is freely available for noncommercial use in the code repository (https://github.com/23andMe/phasedibd, last accessed January 11, 2021).
+
+    -   index: 18
+        title: >
+            Genetic Consequences of the Transatlantic Slave Trade in the Americas
+        urls:
+            -   label: paper
+                url: https://www.sciencedirect.com/science/article/pii/S0002929720302007 
+        journal: *ajhg
+        doi: 10.1016/j.ajhg.2020.06.012 
+        date: 2020-08-06
+        authors:
+            -   name: Micheletti SJ
+            -   {name: Bryc K,     person: *KasiaBryc}
+            -   name: Esselmann SA
+            -   name: Freyman WA
+            -   name: Moreno ME
+            -   name: Poznik GD
+            -   name: Shastri AJ
+            -   name: 23andMe Research Team
+            -   name: Beleza S
+            -   name: Mountain JL
+        abstract: |
+            According to historical records of transatlantic slavery, traders forcibly deported an estimated 12.5 million people from ports along the Atlantic coastline of Africa between the 16th and 19th centuries, with global impacts reaching to the present day, more than a century and a half after slavery’s abolition. Such records have fueled a broad understanding of the forced migration from Africa to the Americas yet remain underexplored in concert with genetic data. Here, we analyzed genotype array data from 50,281 research participants, which—combined with historical shipping documents—illustrate that the current genetic landscape of the Americas is largely concordant with expectations derived from documentation of slave voyages. For instance, genetic connections between people in slave trading regions of Africa and disembarkation regions of the Americas generally mirror the proportion of individuals forcibly moved between those regions. While some discordances can be explained by additional records of deportations within the Americas, other discordances yield insights into variable survival rates and timing of arrival of enslaved people from specific regions of Africa. Furthermore, the greater contribution of African women to the gene pool compared to African men varies across the Americas, consistent with literature documenting regional differences in slavery practices. This investigation of the transatlantic slave trade, which is broad in scope in terms of both datasets and analyses, establishes genetic links between individuals in the Americas and populations across Atlantic Africa, yielding a more comprehensive understanding of the African roots of peoples of the Americas.
+
+    -   index: 17
+        title: >
+            White Paper 23-14: Ancestry Timeline
+        urls:
+            -   label: whitepaper
+                url: https://permalinks.23andme.com/pdf/23-14_admixture_date_estimator.pdf 
+        journal: *ttam
+        date: 2017-03-10
+        authors:
+            -   {name: Bryc K,     person: *KasiaBryc}
+            -   {name: Durand EY, person: *EricDurand}
+            -   {name: Mountain J, person: *JoannaMountain}
+        abstract: |
+            Ancestry Timeline is a 23andMe feature that enables customers to find out, for each of the ancestries they carry, when they may have had an ancestor in their genealogy who was likely to be a non-admixed representative of that population. This document is a technical description of the statistical methodology supporting this feature.
+
     -   index: 16
         title: >
-            White Paper 23-05 Neanderthal Ancestry Inference
+            White Paper 23-05: Neanderthal Ancestry Inference
         urls:
             -   label: whitepaper
                 url: https://permalinks.23andme.com/pdf/23-05_neanderthal_ancestry_inference.pdf
-        journal: *23andMe
-        doi: 10.1016/j.ajhg.2014.11.010
+        journal: *ttam
         date: 2020-07-01
         authors:
             -   {name: Smith RP}

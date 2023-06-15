@@ -46,6 +46,35 @@ people:
         name: Scott Hadly
 
 articles:
+    -   title:  More Detail for British and Irish Ancestry
+        subtitle: By 23andMe  | Mar 15, 2023
+        date: 2023-03-15
+        urls:
+            -   label:  23andMe Blog
+                url: https://blog.23andme.com/articles/23andme-adds-more-detail-for-customers-with-british-and-irish-ancestry 
+
+    -   title: DNA Reveals America’s Mixed-Race History
+        subtitle: By Elliot Aguilar, Ph.D. | Mar 19, 2021
+        date: 2021-03-19
+        urls:
+            -   label:  23andMe Blog
+                url: https://blog.23andme.com/articles/mixed-race-history
+
+    -   title: DNA testing companies should be clear about what it means to have “Native American DNA”* 
+        subtitle: By 23andMe  | Nov 20, 2020
+        date: 2020-11-20
+        urls:
+            -   label:  23andMe Blog
+                url: https://blog.23andme.com/articles/native-american-dna
+
+
+    -   title:  A new analysis sheds light on some customers’ Indigenous genetic ancestry from North America 
+        subtitle: By 23andMe  | Jul 16, 2021
+        date: 2021-07-16
+        urls:
+            -   label:  23andMe Blog
+                url: https://blog.23andme.com/articles/indigenous-genetic-ancestry 
+
     -   title:  By Any Other Name -- An Exploration of Afro-Amerindian Heritage
         subtitle: By Steven Gayle  | Feb 8, 2018
         date: 2018-02-08
@@ -53,6 +82,13 @@ articles:
             -   label:  Youtube
                 url: https://www.youtube.com/watch?v=61DVHP4yRFY&feature=youtu.be
                 
+    -   title:  23andMe’s New Ancestry Timeline
+        subtitle: By Robin Smith  | Jan 18, 2017
+        date: 2017-01-18
+        urls:
+            -   label:  23andMe Blog
+                url: https://blog.23andme.com/articles/23andmes-new-ancestry-timeline
+
     -   title:  This man gained a family after doing a simple at-home genetic test kit
         subtitle: By Craig Melvin  | Feb 19, 2017
         date: 2017-02-19
@@ -116,6 +152,23 @@ articles:
         urls:
             -   label:  The Daily Sentinel
                 url: http://www.gjsentinel.com/lifestyle/articles/sizing-up-your-genes-genetics-bring-results-in-wom
+                
+    -   title:  23andMe Scientists Improving Diversity in Genetic Research
+        subtitle: By 23andMe  | Apr 5, 2016
+        date: 2016-04-05
+        urls:
+            -   label:  23andMe Blog
+                url: https://blog.23andme.com/articles/23andme-scientists-improving-diversity-in-genetic-research 
+
+                
+    -   title:  New genetic variants found to influence likelihood of being a morning person
+        subtitle: By 23andMe  | Feb 2, 2016
+        date: 2016-02-02
+        urls:
+            -   label:  23andMe Blog
+                url: https://blog.23andme.com/articles/rise-and-shine 
+
+
 
     -   title:  A Conversation with 23andMe’s Kasia Bryc
         subtitle: by Scott Hadly  | April 18, 2016
@@ -223,7 +276,7 @@ articles:
                 url: http://blog.23andme.com/health-traits/no-im-not-irish/
 
     -   publication: 
-            index: 15
+        index: 15
         date: 2014-12-18
         articles:
         -   title: >
