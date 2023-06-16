@@ -79,7 +79,7 @@ articles:
         subtitle: By Steven Gayle  | Feb 8, 2018
         date: 2018-02-08
         urls:
-            -   label:  Youtube
+            -   label:  YouTube
                 url: https://www.youtube.com/watch?v=61DVHP4yRFY&feature=youtu.be
                 
     -   title:  23andMe’s New Ancestry Timeline
@@ -275,8 +275,12 @@ articles:
             -   label:  23andMe blog
                 url: http://blog.23andme.com/health-traits/no-im-not-irish/
 
-    -   publication: 
-        index: 15
+    -   title: The genetic ancestry of African Americans, Latinos, and European Americans across the United States
+        subtitle: Press releases, interviews, and media on our 2015 paper results
+        urls:
+            -   label: paper
+                url: http://www.cell.com/ajhg/pdfExtended/S0002-9297(14)00476-5
+        journal: *ajhg 
         date: 2014-12-18
         articles:
         -   title: >
