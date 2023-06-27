@@ -29,4 +29,4 @@ Read more about my [research](/research/).
 [harvard-genetics]: http://genetics.med.harvard.edu/
 [bustamante]: https://www.linkedin.com/in/carlos-d-bustamante-5007a31a/
 [stanford-mcs]: https://mcs.stanford.edu/ 
-[cornell-biometry]: https://cals.cornell.edu/education/degrees-programs/biometry-statistics-major-and-minor)https://cals.cornell.edu/education/degrees-programs/biometry-statistics-major-and-minor
+[cornell-biometry]: https://cals.cornell.edu/education/degrees-programs/biometry-statistics-major-and-minor
