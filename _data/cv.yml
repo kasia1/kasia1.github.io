@@ -107,6 +107,28 @@ people:
         email: joanna@23andme.com
 
 publications:
+    -   index: 21 
+        title: >
+            GWAS of cataract in Puerto Ricans identifies a novel large-effect variant in ITGA6 
+        urls:
+            -   label: medRxiv
+                url: https://www.medrxiv.org/content/10.1101/2023.07.25.23293173v1.full.pdf 
+        journal: *inprep
+        date: 2023-07-25
+        authors:
+            -   name: Jingchunzi S 
+            -   name: O'Connell J 
+            -   name: Hicks B
+            -   name: Wang W
+            -   {name: Bryc K,     person: *KasiaBryc}
+            -   name: Brady JJ
+            -   name: Vacic V
+            -   name: Freyman W
+            -   name: Abul-Husn NS
+            -   name: Auton A
+            -   name: 23andMe Research Team
+            -   name: Shringarpure S 
+
     -   index: 20 
         title: >
             Response to Pfenning and Lachance 
