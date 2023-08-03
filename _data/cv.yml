@@ -107,6 +107,32 @@ people:
         email: joanna@23andme.com
 
 publications:
+    -   index: 22 
+        title: >
+            The genetic legacy of African Americans from Catoctin Furnace 
+        urls:
+            -   label: science
+                url: https://www.science.org/doi/full/10.1126/science.ade4995 
+        journal: *science
+        doi: 10.1126/science.ade4995 
+        date: 2023-08-02
+        authors:
+            -   name: Harney E 
+            -   name: Micheletti S
+            -   name: Bruwelheide KS
+            -   name: Freyman W
+            -   {name: Bryc K,     person: *KasiaBryc}
+            -   name: Akbari A 
+            -   name: Jewett E 
+            -   name: Comer E
+            -   name: Gates HL 
+            -   name: ...
+            -   name: 23andMe Research Team
+            -   name: Rohland N
+            -   name: Mountain JL
+            -   name: Owsley DW
+            -   name: Reich D 
+
     -   index: 21 
         title: >
             GWAS of cataract in Puerto Ricans identifies a novel large-effect variant in ITGA6 
