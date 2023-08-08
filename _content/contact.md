@@ -13,4 +13,4 @@ Located in Boston, MA<br/>
 <a id="email" href="#!">test@example.com</a>
 
 <div class="title">Curriculum Vitae</div>
-[CV](/assets/static/Bryc_CV.pdf)
+[CV](/assets/static/Bryc_CV-2023-08-06.pdf)
