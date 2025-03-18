@@ -5,6 +5,9 @@ order: 400
 ---
 ### Upcoming
 
+<div class="title">Insights into the Genetic Landscape of the US and the Americas</div>
+SlaveVoyages Conference, The Hutchins Center for African & African American Research | April 3, 2025 [[conference program](https://hutchinscenter.fas.harvard.edu/slavevoyages)]
+
 ### Past invited talks, presentations, and lectures
 
 <div class="title">The genetic landscape of the US </div>
