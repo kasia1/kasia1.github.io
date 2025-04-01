@@ -5,7 +5,7 @@ order: 400
 ---
 ### Upcoming
 
-<div class="title">Genetic landscape of cats</div>
+<div class="title">Learnings from the first Darwin's Cats genome sequences</div>
 Darwin's Ark webinar | April 29, 2025
 
 <div class="title">Insights into the Genetic Landscape of the US and the Americas</div>
