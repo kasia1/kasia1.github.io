@@ -6,7 +6,7 @@ order: 400
 ### Upcoming
 
 <div class="title">The Truth about Cats and Dogs: a pet science fair</div>
-Darwin's Ark Poster Session | July 19, 2025 [[Broad Discover Center Event](https://www.broadinstitute.org/broad-discovery-center/bdc-events)]
+Darwin's Ark Poster Session | July 19, 2025 [[Broad Discovery Center Event](https://www.broadinstitute.org/broad-discovery-center/bdc-events)]
 
 ### Past invited talks, presentations, and lectures
 
