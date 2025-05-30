@@ -5,13 +5,16 @@ order: 400
 ---
 ### Upcoming
 
+<div class="title">The Truth about Cats and Dogs: a pet science fair</div>
+Darwin's Ark Poster Session | July 19, 2025 [[Broad Discover Center Event](https://www.broadinstitute.org/broad-discovery-center/bdc-events)]
+
+### Past invited talks, presentations, and lectures
+
 <div class="title">Learnings from the first Darwin's Cats genome sequences</div>
 Darwin's Ark webinar | April 29, 2025
 
 <div class="title">Insights into the Genetic Landscape of the US and the Americas</div>
 SlaveVoyages Conference, The Hutchins Center for African & African American Research | April 3, 2025 [[conference program](https://hutchinscenter.fas.harvard.edu/slavevoyages)]
-
-### Past invited talks, presentations, and lectures
 
 <div class="title">The genetic landscape of the US </div>
 Broad Institute Journal Club | May 4, 2018 [[watch online](https://www.youtube.com/channel/UC3rEe12QkMC3oNCzImaSVpg/videos)]
