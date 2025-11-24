@@ -107,6 +107,22 @@ people:
         email: joanna@23andme.com
 
 publications:
+    -   index: 23 
+        title: >
+            Genetic testing predicts appearance but not behavior in dogs 
+        urls:
+            -   label: paper
+                url: https://www.pnas.org/doi/10.1073/pnas.2421752122 
+        journal: *pnas
+        doi: 10.1073/pnas.2421752122 
+        date: 2025-11-24
+        authors:
+            -   name: Lord KA 
+            -   name: Sohrab V
+            -   {name: Bryc K,     person: *KasiaBryc}
+            -   name: ...
+            -   name: Karlsson E
+    
     -   index: 22 
         title: >
             The genetic legacy of African Americans from Catoctin Furnace 
