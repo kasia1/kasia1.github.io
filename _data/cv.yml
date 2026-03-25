@@ -111,9 +111,9 @@ publications:
         title: >
             Bayesian inference of population structure using identity-by-descent-based stochastic block models 
         urls:
-            -   label: preprint
+            -   label: biorXiv
                 url: https://www.biorxiv.org/content/10.1101/2025.11.26.690810v1.full.pdf 
-        journal: biorXiv
+        journal: &inprep
         doi: 10.1101/2025.11.26.690810 
         date: 2025-11-26
         authors:
