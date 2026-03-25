@@ -107,6 +107,23 @@ people:
         email: joanna@23andme.com
 
 publications:
+    -   index: 24 
+        title: >
+            Bayesian inference of population structure using identity-by-descent-based stochastic block models 
+        urls:
+            -   label: preprint
+                url: https://www.biorxiv.org/content/10.1101/2025.11.26.690810v1.full.pdf 
+        journal: biorXiv
+        doi: 10.1101/2025.11.26.690810 
+        date: 2025-11-26
+        authors:
+            -   name: Micheletti SJ 
+            -   {name: Bryc K,     person: *KasiaBryc}
+            -   name: Esselmann, SAG
+            -   name: Wilton PR
+            -   name: 23andMe Research Team
+            -   name: Freyman WA
+            
     -   index: 23 
         title: >
             Genetic testing predicts appearance but not behavior in dogs 
